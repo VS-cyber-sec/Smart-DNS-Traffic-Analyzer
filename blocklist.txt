@@ -1,0 +1,49 @@
+# Blocklist - Known malicious or suspicious domains
+# Add one domain per line (e.g., malware.example.com.)
+
+# DNS Tunneling / C2 infrastructure examples (generic patterns)
+dnscat.tunnel.example.com.
+c2.malware.example.com.
+exfil.attacker.example.com.
+
+# Known malware / phishing domains (examples for testing)
+malware-test.example.com.
+phishing-test.example.com.
+ransomware-c2.example.com.
+
+# Commonly abused free-DNS providers used for malicious activity
+duckdns.org.
+no-ip.com.
+no-ip.org.
+hopto.org.
+zapto.org.
+ddns.net.
+sytes.net.
+myftp.biz.
+myftp.org.
+myvnc.com.
+redirectme.net.
+servebeer.com.
+serveblog.net.
+servecounterstrike.com.
+serveftp.com.
+servegame.com.
+servehalflife.com.
+servehttp.com.
+serveminecraft.net.
+servemp3.com.
+servepics.com.
+servequake.com.
+viewdns.net.
+webhop.me.
+
+# Typosquatting / lookalike domains (examples)
+g00gle.com.
+micosoft.com.
+paypa1.com.
+arnazon.com.
+faceb00k.com.
+
+# Known botnet / threat intel feed examples
+irc.zombie-botnet.example.com.
+update.botmaster.example.com.

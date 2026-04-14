@@ -1,0 +1,65 @@
+# Allowlist - Trusted domains that should never be flagged as threats
+# Add one domain per line (e.g., google.com.)
+
+# Google
+google.com.
+www.google.com.
+googleapis.com.
+googleusercontent.com.
+googlevideo.com.
+gstatic.com.
+gmail.com.
+youtube.com.
+ytimg.com.
+
+# Microsoft
+microsoft.com.
+live.com.
+outlook.com.
+office.com.
+office365.com.
+windows.com.
+windowsupdate.com.
+azure.com.
+msn.com.
+bing.com.
+
+# Apple
+apple.com.
+icloud.com.
+cdn-apple.com.
+mzstatic.com.
+
+# Cloudflare
+cloudflare.com.
+cloudflare-dns.com.
+1.1.1.1.
+one.one.one.one.
+
+# Amazon/AWS
+amazon.com.
+amazonaws.com.
+awsstatic.com.
+aws.amazon.com.
+
+# Meta / Facebook
+facebook.com.
+instagram.com.
+whatsapp.com.
+fbcdn.net.
+
+# Other common trusted domains
+github.com.
+githubusercontent.com.
+twitter.com.
+twimg.com.
+linkedin.com.
+reddit.com.
+redd.it.
+wikipedia.org.
+wikimedia.org.
+stackoverflow.com.
+akamai.net.
+akamaiedge.net.
+fastly.net.
+cdn.jsdelivr.net.
