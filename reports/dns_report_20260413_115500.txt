@@ -1,0 +1,88 @@
+Smart DNS Traffic Analyzer Report
+==========================================
+Generated: 2026-04-13T11:55:00
+Total packets: 78
+Normal: 76
+Suspicious: 2
+Spoofing/Blocked: 0
+
+Details
+------------------------------------------
+[2026-04-13 11:50:51] mobile.events.data.microsoft.com | Status: Normal (Allowlisted: *.microsoft.com) | Entropy: 3.80 | Length: 32 | Freq: 1
+[2026-04-13 11:50:51] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-13 11:51:14] main.vscode-cdn.net | Status: Normal (Allowlisted: *.vscode-cdn.net) | Entropy: 3.58 | Length: 19 | Freq: 1
+[2026-04-13 11:51:14] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-13 11:51:16] telemetry.individual.githubcopilot.com | Status: Normal (Allowlisted: *.githubcopilot.com) | Entropy: 4.02 | Length: 38 | Freq: 1
+[2026-04-13 11:51:16] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-13 11:51:32] web.whatsapp.com | Status: Normal | Entropy: 3.50 | Length: 16 | Freq: 1
+[2026-04-13 11:51:32] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-13 11:51:33] self.events.data.microsoft.com | Status: Normal (Allowlisted: *.microsoft.com) | Entropy: 3.74 | Length: 30 | Freq: 1
+[2026-04-13 11:51:33] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-13 11:51:46] alive.github.com | Status: Normal (Allowlisted: *.github.com) | Entropy: 3.75 | Length: 16 | Freq: 1
+[2026-04-13 11:51:46] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-13 11:51:49] accounts.google.com | Status: Normal (Allowlisted: *.google.com) | Entropy: 3.37 | Length: 19 | Freq: 1
+[2026-04-13 11:51:49] beacons.gcp.gvt2.com | Status: Normal (Allowlisted: *.gcp.gvt2.com) | Entropy: 3.65 | Length: 20 | Freq: 1
+[2026-04-13 11:51:51] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-13 11:51:51] accounts.google.com | Status: Normal (Allowlisted: *.google.com) | Entropy: 3.37 | Length: 19 | Freq: 2
+[2026-04-13 11:51:51] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-13 11:51:51] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-13 11:51:51] mobile.events.data.microsoft.com | Status: Normal (Allowlisted: *.microsoft.com) | Entropy: 3.80 | Length: 32 | Freq: 1
+[2026-04-13 11:51:52] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-13 11:51:52] api2.amplitude.com | Status: Normal | Entropy: 3.61 | Length: 18 | Freq: 1
+[2026-04-13 11:51:52] collector.quillbot.com | Status: Normal | Entropy: 3.33 | Length: 22 | Freq: 1
+[2026-04-13 11:51:52] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-13 11:52:00] collector.quillbot.com | Status: Normal | Entropy: 3.33 | Length: 22 | Freq: 2
+[2026-04-13 11:52:00] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-13 11:52:00] v20.events.data.microsoft.com | Status: Normal (Allowlisted: *.microsoft.com) | Entropy: 3.84 | Length: 29 | Freq: 1
+[2026-04-13 11:52:02] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-13 11:52:02] media-bom5-1.cdn.whatsapp.net | Status: Suspicious — confidence 85% | Entropy: 4.05 | Length: 29 | Freq: 1
+[2026-04-13 11:52:02] media-bom5-1.cdn.whatsapp.net | Status: Suspicious — confidence 85% | Entropy: 4.05 | Length: 29 | Freq: 2
+[2026-04-13 11:52:02] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-13 11:52:02] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-13 11:52:13] www.google.com | Status: Normal (Allowlisted: *.google.com) | Entropy: 2.84 | Length: 14 | Freq: 1
+[2026-04-13 11:52:13] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-13 11:52:13] api.github.com | Status: Normal (Allowlisted: *.github.com) | Entropy: 3.52 | Length: 14 | Freq: 1
+[2026-04-13 11:52:13] api.github.com | Status: Normal (Allowlisted: *.github.com) | Entropy: 3.52 | Length: 14 | Freq: 2
+[2026-04-13 11:52:14] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-13 11:52:14] collector.github.com | Status: Normal (Allowlisted: *.github.com) | Entropy: 3.55 | Length: 20 | Freq: 1
+[2026-04-13 11:52:14] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-13 11:52:15] ogads-pa.clients6.google.com | Status: Normal (Allowlisted: *.google.com) | Entropy: 3.82 | Length: 28 | Freq: 1
+[2026-04-13 11:52:15] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-13 11:52:16] play.google.com | Status: Normal (Allowlisted: *.google.com) | Entropy: 3.19 | Length: 15 | Freq: 1
+[2026-04-13 11:52:16] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-13 11:52:19] ogs.google.com | Status: Normal (Allowlisted: *.google.com) | Entropy: 2.75 | Length: 14 | Freq: 1
+[2026-04-13 11:52:19] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-13 11:52:19] ssl.gstatic.com | Status: Normal (Allowlisted: *.gstatic.com) | Entropy: 3.19 | Length: 15 | Freq: 1
+[2026-04-13 11:52:19] www.gstatic.com | Status: Normal (Allowlisted: *.gstatic.com) | Entropy: 3.19 | Length: 15 | Freq: 1
+[2026-04-13 11:52:41] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-13 11:52:41] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-13 11:52:41] web.whatsapp.com | Status: Normal | Entropy: 3.50 | Length: 16 | Freq: 1
+[2026-04-13 11:52:41] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-13 11:52:47] quillbot.com | Status: Normal | Entropy: 3.25 | Length: 12 | Freq: 1
+[2026-04-13 11:52:47] quillbot.com | Status: Normal | Entropy: 3.25 | Length: 12 | Freq: 2
+[2026-04-13 11:52:48] quillbot.com | Status: Normal | Entropy: 3.25 | Length: 12 | Freq: 3
+[2026-04-13 11:52:48] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-13 11:52:53] api2.amplitude.com | Status: Normal | Entropy: 3.61 | Length: 18 | Freq: 1
+[2026-04-13 11:52:53] api2.amplitude.com | Status: Normal | Entropy: 3.61 | Length: 18 | Freq: 2
+[2026-04-13 11:52:53] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-13 11:53:35] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-13 11:53:35] signaler-pa.clients6.google.com | Status: Normal (Allowlisted: *.google.com) | Entropy: 3.86 | Length: 31 | Freq: 1
+[2026-04-13 11:53:35] signaler-pa.clients6.google.com | Status: Normal (Allowlisted: *.google.com) | Entropy: 3.86 | Length: 31 | Freq: 2
+[2026-04-13 11:53:36] signaler-pa.clients6.google.com | Status: Normal (Allowlisted: *.google.com) | Entropy: 3.86 | Length: 31 | Freq: 3
+[2026-04-13 11:53:36] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-13 11:53:37] api.github.com | Status: Normal (Allowlisted: *.github.com) | Entropy: 3.52 | Length: 14 | Freq: 1
+[2026-04-13 11:53:37] collector.github.com | Status: Normal (Allowlisted: *.github.com) | Entropy: 3.55 | Length: 20 | Freq: 1
+[2026-04-13 11:53:51] api.github.com | Status: Normal (Allowlisted: *.github.com) | Entropy: 3.52 | Length: 14 | Freq: 1
+[2026-04-13 11:53:51] collector.github.com | Status: Normal (Allowlisted: *.github.com) | Entropy: 3.55 | Length: 20 | Freq: 1
+[2026-04-13 11:53:51] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-13 11:53:51] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-13 11:53:51] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-13 11:53:51] mobile.events.data.microsoft.com | Status: Normal (Allowlisted: *.microsoft.com) | Entropy: 3.80 | Length: 32 | Freq: 1
+[2026-04-13 11:54:05] mobile.events.data.microsoft.com | Status: Normal (Allowlisted: *.microsoft.com) | Entropy: 3.80 | Length: 32 | Freq: 1
+[2026-04-13 11:54:05] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-13 11:54:05] web.whatsapp.com | Status: Normal | Entropy: 3.50 | Length: 16 | Freq: 1
+[2026-04-13 11:54:16] web.whatsapp.com | Status: Normal | Entropy: 3.50 | Length: 16 | Freq: 1
+[2026-04-13 11:54:16] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-13 11:54:16] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-13 11:54:17] telemetry.individual.githubcopilot.com | Status: Normal (Allowlisted: *.githubcopilot.com) | Entropy: 4.02 | Length: 38 | Freq: 1
+[2026-04-13 11:54:51] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0

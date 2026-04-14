@@ -1,0 +1,1107 @@
+Smart DNS Traffic Analyzer Report
+==========================================
+Generated: 2026-04-14T13:46:06
+Total packets: 1097
+Normal: 1025
+Suspicious: 63
+Spoofing/Blocked: 9
+
+Details
+------------------------------------------
+[2026-04-14 13:31:13] browser-intake-us5-datadoghq.com | Status: Suspicious — confidence 98% | Entropy: 4.24 | Length: 32 | Freq: 1
+[2026-04-14 13:31:14] browser-intake-us5-datadoghq.com | Status: Suspicious — confidence 98% | Entropy: 4.24 | Length: 32 | Freq: 2
+[2026-04-14 13:31:33] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:31:33] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:31:33] beacons.gcp.gvt2.com | Status: Normal (Allowlisted: *.gcp.gvt2.com) | Entropy: 3.65 | Length: 20 | Freq: 1
+[2026-04-14 13:31:33] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:31:41] a-api.anthropic.com | Status: Normal | Entropy: 3.47 | Length: 19 | Freq: 1
+[2026-04-14 13:31:41] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:31:41] ogads-pa.clients6.google.com | Status: Normal (Allowlisted: *.google.com) | Entropy: 3.82 | Length: 28 | Freq: 1
+[2026-04-14 13:31:41] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:31:42] ol-collector.quillbot.com | Status: Normal | Entropy: 3.36 | Length: 25 | Freq: 1
+[2026-04-14 13:31:42] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:31:42] gemini.google.com | Status: Normal (Allowlisted: *.google.com) | Entropy: 3.06 | Length: 17 | Freq: 1
+[2026-04-14 13:31:42] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:31:42] safebrowsing.google.com | Status: Normal (Allowlisted: *.google.com) | Entropy: 3.71 | Length: 23 | Freq: 1
+[2026-04-14 13:31:42] safebrowsing.google.com | Status: Normal (Allowlisted: *.google.com) | Entropy: 3.71 | Length: 23 | Freq: 2
+[2026-04-14 13:31:42] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:31:42] www.gstatic.com | Status: Normal (Allowlisted: *.gstatic.com) | Entropy: 3.19 | Length: 15 | Freq: 1
+[2026-04-14 13:31:48] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:31:48] lh3.googleusercontent.com | Status: Normal (Allowlisted: *.googleusercontent.com) | Entropy: 3.65 | Length: 25 | Freq: 1
+[2026-04-14 13:31:48] www.googletagmanager.com | Status: Normal (Allowlisted: *.googletagmanager.com) | Entropy: 3.41 | Length: 24 | Freq: 1
+[2026-04-14 13:31:48] waa-pa.clients6.google.com | Status: Normal (Allowlisted: *.google.com) | Entropy: 3.84 | Length: 26 | Freq: 1
+[2026-04-14 13:31:48] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:31:48] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:31:48] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:31:48] mobile.events.data.microsoft.com | Status: Normal (Allowlisted: *.microsoft.com) | Entropy: 3.80 | Length: 32 | Freq: 1
+[2026-04-14 13:31:49] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:31:49] fonts.gstatic.com | Status: Normal (Allowlisted: *.gstatic.com) | Entropy: 3.34 | Length: 17 | Freq: 1
+[2026-04-14 13:31:49] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:31:51] www.google-analytics.com | Status: Normal | Entropy: 3.77 | Length: 24 | Freq: 1
+[2026-04-14 13:31:51] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:31:51] analytics.google.com | Status: Normal (Allowlisted: *.google.com) | Entropy: 3.58 | Length: 20 | Freq: 1
+[2026-04-14 13:31:56] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:31:56] api2.amplitude.com | Status: Normal | Entropy: 3.61 | Length: 18 | Freq: 1
+[2026-04-14 13:31:56] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:31:59] encrypted-tbn0.gstatic.com | Status: Normal (Allowlisted: *.gstatic.com) | Entropy: 3.98 | Length: 26 | Freq: 1
+[2026-04-14 13:31:59] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:32:01] ogs.google.com | Status: Normal (Allowlisted: *.google.com) | Entropy: 2.75 | Length: 14 | Freq: 1
+[2026-04-14 13:32:01] ogs.google.com | Status: Normal (Allowlisted: *.google.com) | Entropy: 2.75 | Length: 14 | Freq: 2
+[2026-04-14 13:32:02] collector.quillbot.com | Status: Normal | Entropy: 3.33 | Length: 22 | Freq: 1
+[2026-04-14 13:32:02] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:32:02] ogs.google.com | Status: Normal (Allowlisted: *.google.com) | Entropy: 2.75 | Length: 14 | Freq: 3
+[2026-04-14 13:32:02] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:32:04] www.googleadservices.com | Status: Normal (Allowlisted: *.googleadservices.com) | Entropy: 3.66 | Length: 24 | Freq: 1
+[2026-04-14 13:32:04] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:32:05] cacerts.digicert.com | Status: Normal | Entropy: 3.42 | Length: 20 | Freq: 1
+[2026-04-14 13:32:05] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:32:06] www.malware-test.com | Status: Normal | Entropy: 3.42 | Length: 20 | Freq: 1
+[2026-04-14 13:32:06] www.malware-test.com | Status: Normal | Entropy: 3.42 | Length: 20 | Freq: 2
+[2026-04-14 13:32:07] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:32:07] euob.primecirclenet.com | Status: Normal | Entropy: 3.53 | Length: 23 | Freq: 1
+[2026-04-14 13:32:07] euob.primecirclenet.com | Status: Normal | Entropy: 3.53 | Length: 23 | Freq: 2
+[2026-04-14 13:32:07] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:32:09] www.dynadot.com | Status: Normal | Entropy: 3.19 | Length: 15 | Freq: 1
+[2026-04-14 13:32:09] www.dynadot.com | Status: Normal | Entropy: 3.19 | Length: 15 | Freq: 2
+[2026-04-14 13:32:09] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:32:09] yfdpco4.com | Status: Normal | Entropy: 3.10 | Length: 11 | Freq: 1
+[2026-04-14 13:32:10] yfdpco4.com | Status: Normal | Entropy: 3.10 | Length: 11 | Freq: 2
+[2026-04-14 13:32:10] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:32:10] obseu.primecirclenet.com | Status: Normal | Entropy: 3.64 | Length: 24 | Freq: 1
+[2026-04-14 13:32:10] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:32:11] l.cdn-fileserver.com | Status: Normal | Entropy: 3.68 | Length: 20 | Freq: 1
+[2026-04-14 13:32:11] l.cdn-fileserver.com | Status: Normal | Entropy: 3.68 | Length: 20 | Freq: 2
+[2026-04-14 13:32:11] realtimesearchresults.com | Status: Normal | Entropy: 3.54 | Length: 25 | Freq: 1
+[2026-04-14 13:32:11] realtimesearchresults.com | Status: Normal | Entropy: 3.54 | Length: 25 | Freq: 2
+[2026-04-14 13:32:12] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:32:12] realtimesearchresults.com | Status: Normal | Entropy: 3.54 | Length: 25 | Freq: 3
+[2026-04-14 13:32:14] realtimesearchresults.com | Status: Normal | Entropy: 3.54 | Length: 25 | Freq: 4
+[2026-04-14 13:32:18] realtimesearchresults.com | Status: Normal | Entropy: 3.54 | Length: 25 | Freq: 5
+[2026-04-14 13:32:21] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:32:27] yfdpco1.com | Status: Normal | Entropy: 3.10 | Length: 11 | Freq: 1
+[2026-04-14 13:32:27] yfdpco1.com | Status: Normal | Entropy: 3.10 | Length: 11 | Freq: 2
+[2026-04-14 13:32:27] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:32:28] realtimesearchresults.com | Status: Normal | Entropy: 3.54 | Length: 25 | Freq: 2
+[2026-04-14 13:32:28] realtimesearchresults.com | Status: Normal | Entropy: 3.54 | Length: 25 | Freq: 3
+[2026-04-14 13:32:29] realtimesearchresults.com | Status: Normal | Entropy: 3.54 | Length: 25 | Freq: 3
+[2026-04-14 13:32:31] realtimesearchresults.com | Status: Normal | Entropy: 3.54 | Length: 25 | Freq: 4
+[2026-04-14 13:32:33] status.maxmind.com | Status: Normal | Entropy: 3.46 | Length: 18 | Freq: 1
+[2026-04-14 13:32:33] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:32:35] realtimesearchresults.com | Status: Normal | Entropy: 3.54 | Length: 25 | Freq: 5
+[2026-04-14 13:32:38] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:32:44] cdn.givefreely.com | Status: Normal | Entropy: 3.68 | Length: 18 | Freq: 1
+[2026-04-14 13:32:44] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:32:46] cacerts.digicert.com | Status: Normal | Entropy: 3.42 | Length: 20 | Freq: 1
+[2026-04-14 13:32:46] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:32:48] google.com | Status: Normal | Entropy: 2.65 | Length: 10 | Freq: 1
+[2026-04-14 13:32:48] google.com | Status: Normal | Entropy: 2.65 | Length: 10 | Freq: 2
+[2026-04-14 13:32:48] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:32:56] www.virustotal.com | Status: Normal | Entropy: 3.57 | Length: 18 | Freq: 1
+[2026-04-14 13:32:56] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:32:56] recaptcha.net | Status: Normal | Entropy: 3.09 | Length: 13 | Freq: 1
+[2026-04-14 13:32:56] fonts.googleapis.com | Status: Normal (Allowlisted: *.googleapis.com) | Entropy: 3.62 | Length: 20 | Freq: 1
+[2026-04-14 13:32:56] recaptcha.net | Status: Normal | Entropy: 3.09 | Length: 13 | Freq: 2
+[2026-04-14 13:32:56] fonts.googleapis.com | Status: Normal (Allowlisted: *.googleapis.com) | Entropy: 3.62 | Length: 20 | Freq: 2
+[2026-04-14 13:32:56] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:32:56] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:32:56] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:32:56] e2c7.gcp.gvt2.com | Status: Normal (Allowlisted: *.gcp.gvt2.com) | Entropy: 3.29 | Length: 17 | Freq: 1
+[2026-04-14 13:32:56] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:33:01] content-autofill.googleapis.com | Status: Normal (Allowlisted: *.googleapis.com) | Entropy: 3.82 | Length: 31 | Freq: 1
+[2026-04-14 13:33:01] content-autofill.googleapis.com | Status: Normal (Allowlisted: *.googleapis.com) | Entropy: 3.82 | Length: 31 | Freq: 2
+[2026-04-14 13:33:01] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:33:01] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:33:23] encrypted-tbn2.gstatic.com | Status: Normal (Allowlisted: *.gstatic.com) | Entropy: 3.98 | Length: 26 | Freq: 1
+[2026-04-14 13:33:23] encrypted-tbn1.gstatic.com | Status: Normal (Allowlisted: *.gstatic.com) | Entropy: 3.98 | Length: 26 | Freq: 1
+[2026-04-14 13:33:26] encrypted-tbn3.gstatic.com | Status: Normal (Allowlisted: *.gstatic.com) | Entropy: 3.98 | Length: 26 | Freq: 1
+[2026-04-14 13:33:26] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:33:26] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:33:26] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:33:26] beacons.gvt2.com | Status: Normal | Entropy: 3.62 | Length: 16 | Freq: 1
+[2026-04-14 13:33:28] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:33:28] ogs.google.com | Status: Normal (Allowlisted: *.google.com) | Entropy: 2.75 | Length: 14 | Freq: 1
+[2026-04-14 13:33:28] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:33:31] www.kaggle.com | Status: Normal | Entropy: 3.18 | Length: 14 | Freq: 1
+[2026-04-14 13:33:31] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:33:31] accounts.google.com | Status: Normal (Allowlisted: *.google.com) | Entropy: 3.37 | Length: 19 | Freq: 1
+[2026-04-14 13:33:31] storage.googleapis.com | Status: Normal (Allowlisted: *.googleapis.com) | Entropy: 3.52 | Length: 22 | Freq: 1
+[2026-04-14 13:33:31] stats.g.doubleclick.net | Status: Normal (Allowlisted: *.doubleclick.net) | Entropy: 3.76 | Length: 23 | Freq: 1
+[2026-04-14 13:33:31] apis.google.com | Status: Normal (Allowlisted: *.google.com) | Entropy: 3.32 | Length: 15 | Freq: 1
+[2026-04-14 13:33:31] accounts.google.com | Status: Normal (Allowlisted: *.google.com) | Entropy: 3.37 | Length: 19 | Freq: 2
+[2026-04-14 13:33:31] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:33:31] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:33:31] stats.g.doubleclick.net | Status: Normal (Allowlisted: *.doubleclick.net) | Entropy: 3.76 | Length: 23 | Freq: 2
+[2026-04-14 13:33:31] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:33:31] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:33:31] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:33:31] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:33:31] use.typekit.net | Status: Normal | Entropy: 3.14 | Length: 15 | Freq: 1
+[2026-04-14 13:33:32] use.typekit.net | Status: Normal | Entropy: 3.14 | Length: 15 | Freq: 2
+[2026-04-14 13:33:32] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:33:32] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:33:32] p.typekit.net | Status: Normal | Entropy: 2.87 | Length: 13 | Freq: 1
+[2026-04-14 13:33:37] p.typekit.net | Status: Normal | Entropy: 2.87 | Length: 13 | Freq: 2
+[2026-04-14 13:33:37] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:33:37] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:33:37] www.gstatic.com | Status: Normal (Allowlisted: *.gstatic.com) | Entropy: 3.19 | Length: 15 | Freq: 1
+[2026-04-14 13:33:37] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:33:37] www.kaggleusercontent.com | Status: Normal | Entropy: 3.78 | Length: 25 | Freq: 1
+[2026-04-14 13:33:37] www.kaggleusercontent.com | Status: Normal | Entropy: 3.78 | Length: 25 | Freq: 2
+[2026-04-14 13:33:48] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:33:48] mobile.events.data.microsoft.com | Status: Normal (Allowlisted: *.microsoft.com) | Entropy: 3.80 | Length: 32 | Freq: 1
+[2026-04-14 13:33:48] mobile.events.data.microsoft.com | Status: Normal (Allowlisted: *.microsoft.com) | Entropy: 3.80 | Length: 32 | Freq: 2
+[2026-04-14 13:33:49] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:33:49] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:33:49] analytics.kaggle.io | Status: Normal | Entropy: 3.58 | Length: 19 | Freq: 1
+[2026-04-14 13:33:49] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:33:49] www.google.com | Status: Normal (Allowlisted: *.google.com) | Entropy: 2.84 | Length: 14 | Freq: 1
+[2026-04-14 13:33:49] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:33:53] lh3.googleusercontent.com | Status: Normal (Allowlisted: *.googleusercontent.com) | Entropy: 3.65 | Length: 25 | Freq: 1
+[2026-04-14 13:33:53] lh3.googleusercontent.com | Status: Normal (Allowlisted: *.googleusercontent.com) | Entropy: 3.65 | Length: 25 | Freq: 2
+[2026-04-14 13:33:53] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:33:56] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:33:56] accounts.youtube.com | Status: Normal | Entropy: 3.41 | Length: 20 | Freq: 1
+[2026-04-14 13:33:56] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:34:03] identitytoolkit.googleapis.com | Status: Normal (Allowlisted: *.googleapis.com) | Entropy: 3.72 | Length: 30 | Freq: 1
+[2026-04-14 13:34:03] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:34:05] firestore.googleapis.com | Status: Normal (Allowlisted: *.googleapis.com) | Entropy: 3.64 | Length: 24 | Freq: 1
+[2026-04-14 13:34:05] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:34:05] beacons.gcp.gvt2.com | Status: Normal (Allowlisted: *.gcp.gvt2.com) | Entropy: 3.65 | Length: 20 | Freq: 1
+[2026-04-14 13:34:05] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:34:05] e2c43.gcp.gvt2.com | Status: Normal (Allowlisted: *.gcp.gvt2.com) | Entropy: 3.42 | Length: 18 | Freq: 1
+[2026-04-14 13:34:05] e2c43.gcp.gvt2.com | Status: Normal (Allowlisted: *.gcp.gvt2.com) | Entropy: 3.42 | Length: 18 | Freq: 2
+[2026-04-14 13:34:05] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:34:14] v20.events.data.microsoft.com | Status: Normal (Allowlisted: *.microsoft.com) | Entropy: 3.84 | Length: 29 | Freq: 1
+[2026-04-14 13:34:14] v20.events.data.microsoft.com | Status: Normal (Allowlisted: *.microsoft.com) | Entropy: 3.84 | Length: 29 | Freq: 2
+[2026-04-14 13:34:14] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:34:33] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:34:33] status.maxmind.com | Status: Normal | Entropy: 3.46 | Length: 18 | Freq: 1
+[2026-04-14 13:34:33] play.google.com | Status: Normal (Allowlisted: *.google.com) | Entropy: 3.19 | Length: 15 | Freq: 1
+[2026-04-14 13:34:34] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:34:34] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:34:34] signaler-pa.clients6.google.com | Status: Normal (Allowlisted: *.google.com) | Entropy: 3.86 | Length: 31 | Freq: 1
+[2026-04-14 13:34:45] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:34:45] vscode-sync.trafficmanager.net | Status: Normal (Allowlisted: *.trafficmanager.net) | Entropy: 3.94 | Length: 30 | Freq: 1
+[2026-04-14 13:34:45] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:34:50] westus-0.in.applicationinsights.azure.com | Status: Suspicious — confidence 91% | Entropy: 4.09 | Length: 41 | Freq: 1
+[2026-04-14 13:34:50] westus-0.in.applicationinsights.azure.com | Status: Suspicious — confidence 91% | Entropy: 4.09 | Length: 41 | Freq: 2
+[2026-04-14 13:34:51] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:34:51] main.vscode-cdn.net | Status: Normal (Allowlisted: *.vscode-cdn.net) | Entropy: 3.58 | Length: 19 | Freq: 1
+[2026-04-14 13:34:51] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:34:51] wdcp.microsoft.com | Status: Normal (Allowlisted: *.microsoft.com) | Entropy: 3.42 | Length: 18 | Freq: 1
+[2026-04-14 13:34:59] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:34:59] office15client.microsoft.com | Status: Normal (Allowlisted: *.microsoft.com) | Entropy: 3.61 | Length: 28 | Freq: 1
+[2026-04-14 13:34:59] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:34:59] www.microsoft.com | Status: Normal (Allowlisted: *.microsoft.com) | Entropy: 3.18 | Length: 17 | Freq: 1
+[2026-04-14 13:34:59] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:34:59] nexus.officeapps.live.com | Status: Normal (Allowlisted: *.live.com) | Entropy: 3.78 | Length: 25 | Freq: 1
+[2026-04-14 13:34:59] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:35:00] roaming.svc.cloud.microsoft | Status: Suspicious — confidence 85% | Entropy: 3.81 | Length: 27 | Freq: 1
+[2026-04-14 13:35:07] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:35:07] login.live.com | Status: Normal (Allowlisted: *.live.com) | Entropy: 3.24 | Length: 14 | Freq: 1
+[2026-04-14 13:35:07] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:35:07] www.terabox.com | Status: Normal | Entropy: 3.32 | Length: 15 | Freq: 1
+[2026-04-14 13:35:07] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:35:07] login.live.com | Status: Normal (Allowlisted: *.live.com) | Entropy: 3.24 | Length: 14 | Freq: 2
+[2026-04-14 13:35:08] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:35:08] odc.officeapps.live.com | Status: Normal (Allowlisted: *.live.com) | Entropy: 3.56 | Length: 23 | Freq: 1
+[2026-04-14 13:35:08] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:35:11] directory.services.live.com | Status: Normal (Allowlisted: *.live.com) | Entropy: 3.53 | Length: 27 | Freq: 1
+[2026-04-14 13:35:11] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:35:13] directory.services.live.com | Status: Normal (Allowlisted: *.live.com) | Entropy: 3.53 | Length: 27 | Freq: 2
+[2026-04-14 13:35:13] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:35:13] roaming.svc.cloud.microsoft | Status: Suspicious — confidence 85% | Entropy: 3.81 | Length: 27 | Freq: 1
+[2026-04-14 13:35:13] roaming.svc.cloud.microsoft | Status: Suspicious — confidence 85% | Entropy: 3.81 | Length: 27 | Freq: 2
+[2026-04-14 13:35:13] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:35:34] accounts.youtube.com | Status: Normal | Entropy: 3.41 | Length: 20 | Freq: 1
+[2026-04-14 13:35:34] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:35:36] fonts.gstatic.com | Status: Normal (Allowlisted: *.gstatic.com) | Entropy: 3.34 | Length: 17 | Freq: 1
+[2026-04-14 13:35:36] storage.googleapis.com | Status: Normal (Allowlisted: *.googleapis.com) | Entropy: 3.52 | Length: 22 | Freq: 1
+[2026-04-14 13:35:36] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:35:38] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:35:38] apis.google.com | Status: Normal (Allowlisted: *.google.com) | Entropy: 3.32 | Length: 15 | Freq: 1
+[2026-04-14 13:35:38] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:35:38] analytics.kaggle.io | Status: Normal | Entropy: 3.58 | Length: 19 | Freq: 1
+[2026-04-14 13:35:40] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:35:40] www.googleadservices.com | Status: Normal (Allowlisted: *.googleadservices.com) | Entropy: 3.66 | Length: 24 | Freq: 1
+[2026-04-14 13:35:40] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:35:44] ogads-pa.clients6.google.com | Status: Normal (Allowlisted: *.google.com) | Entropy: 3.82 | Length: 28 | Freq: 1
+[2026-04-14 13:35:44] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:35:44] ogs.google.com | Status: Normal (Allowlisted: *.google.com) | Entropy: 2.75 | Length: 14 | Freq: 1
+[2026-04-14 13:35:44] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:35:44] ssl.gstatic.com | Status: Normal (Allowlisted: *.gstatic.com) | Entropy: 3.19 | Length: 15 | Freq: 1
+[2026-04-14 13:35:44] ssl.gstatic.com | Status: Normal (Allowlisted: *.gstatic.com) | Entropy: 3.19 | Length: 15 | Freq: 2
+[2026-04-14 13:35:44] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:35:48] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:35:48] mobile.events.data.microsoft.com | Status: Normal (Allowlisted: *.microsoft.com) | Entropy: 3.80 | Length: 32 | Freq: 1
+[2026-04-14 13:35:48] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:35:54] inputsuggestions.msdxcdn.microsoft.com | Status: Normal (Allowlisted: *.microsoft.com) | Entropy: 3.82 | Length: 38 | Freq: 1
+[2026-04-14 13:35:54] inputsuggestions.msdxcdn.microsoft.com | Status: Normal (Allowlisted: *.microsoft.com) | Entropy: 3.82 | Length: 38 | Freq: 2
+[2026-04-14 13:35:55] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:35:56] gemini.google.com | Status: Normal (Allowlisted: *.google.com) | Entropy: 3.06 | Length: 17 | Freq: 1
+[2026-04-14 13:35:56] gemini.google.com | Status: Normal (Allowlisted: *.google.com) | Entropy: 3.06 | Length: 17 | Freq: 2
+[2026-04-14 13:35:56] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:35:59] wpad.taild2c74c.ts.net | Status: Normal | Entropy: 3.75 | Length: 22 | Freq: 1
+[2026-04-14 13:35:59] wpad.taild2c74c.ts.net | Status: Normal | Entropy: 3.75 | Length: 22 | Freq: 2
+[2026-04-14 13:36:00] wpad.taild2c74c.ts.net | Status: Normal | Entropy: 3.75 | Length: 22 | Freq: 3
+[2026-04-14 13:36:02] wpad.taild2c74c.ts.net | Status: Normal | Entropy: 3.75 | Length: 22 | Freq: 4
+[2026-04-14 13:36:02] wpad.taild2c74c.ts.net | Status: Normal | Entropy: 3.75 | Length: 22 | Freq: 5
+[2026-04-14 13:36:02] wpad.taild2c74c.ts.net | Status: Suspicious — confidence 0% | Entropy: 3.75 | Length: 22 | Freq: 6
+[2026-04-14 13:36:03] urlhaus.abuse.ch | Status: Normal | Entropy: 3.20 | Length: 16 | Freq: 1
+[2026-04-14 13:36:03] urlhaus.abuse.ch | Status: Normal | Entropy: 3.20 | Length: 16 | Freq: 2
+[2026-04-14 13:36:03] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:36:03] safebrowsing.google.com | Status: Normal (Allowlisted: *.google.com) | Entropy: 3.71 | Length: 23 | Freq: 1
+[2026-04-14 13:36:03] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:36:03] www.googletagmanager.com | Status: Normal (Allowlisted: *.googletagmanager.com) | Entropy: 3.41 | Length: 24 | Freq: 1
+[2026-04-14 13:36:03] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:36:10] claude.ai | Status: Normal | Entropy: 2.95 | Length: 9 | Freq: 1
+[2026-04-14 13:36:10] claude.ai | Status: Normal | Entropy: 2.95 | Length: 9 | Freq: 2
+[2026-04-14 13:36:10] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:36:12] browser-intake-us5-datadoghq.com | Status: Suspicious — confidence 98% | Entropy: 4.24 | Length: 32 | Freq: 1
+[2026-04-14 13:36:13] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:36:17] 0881db32dcdc46e2fb3e4d92105fc5c1.claudemcpcontent.com | Status: Suspicious — confidence 100% | Entropy: 4.27 | Length: 53 | Freq: 1
+[2026-04-14 13:36:17] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:36:18] assets.claude.ai | Status: Normal | Entropy: 3.16 | Length: 16 | Freq: 1
+[2026-04-14 13:36:18] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:36:20] a-api.anthropic.com | Status: Normal | Entropy: 3.47 | Length: 19 | Freq: 1
+[2026-04-14 13:36:20] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:36:21] wpad.taild2c74c.ts.net | Status: Normal | Entropy: 3.75 | Length: 22 | Freq: 1
+[2026-04-14 13:36:21] wpad.taild2c74c.ts.net | Status: Normal | Entropy: 3.75 | Length: 22 | Freq: 2
+[2026-04-14 13:36:22] wpad.taild2c74c.ts.net | Status: Normal | Entropy: 3.75 | Length: 22 | Freq: 3
+[2026-04-14 13:36:24] wpad.taild2c74c.ts.net | Status: Normal | Entropy: 3.75 | Length: 22 | Freq: 4
+[2026-04-14 13:36:24] wpad.taild2c74c.ts.net | Status: Normal | Entropy: 3.75 | Length: 22 | Freq: 5
+[2026-04-14 13:36:33] wpad.taild2c74c.ts.net | Status: Normal | Entropy: 3.75 | Length: 22 | Freq: 3
+[2026-04-14 13:36:33] status.maxmind.com | Status: Normal | Entropy: 3.46 | Length: 18 | Freq: 1
+[2026-04-14 13:36:47] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:36:47] ol-collector.quillbot.com | Status: Normal | Entropy: 3.36 | Length: 25 | Freq: 1
+[2026-04-14 13:36:47] ol-collector.quillbot.com | Status: Normal | Entropy: 3.36 | Length: 25 | Freq: 2
+[2026-04-14 13:36:48] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:36:48] mobile.events.data.microsoft.com | Status: Normal (Allowlisted: *.microsoft.com) | Entropy: 3.80 | Length: 32 | Freq: 1
+[2026-04-14 13:36:48] mobile.events.data.microsoft.com | Status: Normal (Allowlisted: *.microsoft.com) | Entropy: 3.80 | Length: 32 | Freq: 2
+[2026-04-14 13:36:48] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:36:48] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:36:48] agvsbg9xb3jsza.example.com | Status: Suspicious — confidence 85% | Entropy: 3.98 | Length: 26 | Freq: 1
+[2026-04-14 13:36:48] agvsbg9xb3jsza.example.com | Status: Suspicious — confidence 85% | Entropy: 3.98 | Length: 26 | Freq: 2
+[2026-04-14 13:37:09] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:37:09] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:37:09] agvsbg9xb3jsza.example.com | Status: Suspicious — confidence 85% | Entropy: 3.98 | Length: 26 | Freq: 1
+[2026-04-14 13:37:09] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:37:09] dgvzdhrlc3r0zxn0.dnstest.io | Status: Suspicious — confidence 85% | Entropy: 4.06 | Length: 27 | Freq: 1
+[2026-04-14 13:37:10] dgvzdhrlc3r0zxn0.dnstest.io | Status: Suspicious — confidence 85% | Entropy: 4.06 | Length: 27 | Freq: 2
+[2026-04-14 13:37:10] dgvzdhrlc3r0zxn0.dnstest.io | Status: Suspicious — confidence 85% | Entropy: 4.06 | Length: 27 | Freq: 3
+[2026-04-14 13:37:28] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:37:28] wpad.taild2c74c.ts.net | Status: Normal | Entropy: 3.75 | Length: 22 | Freq: 1
+[2026-04-14 13:37:29] wpad.taild2c74c.ts.net | Status: Normal | Entropy: 3.75 | Length: 22 | Freq: 2
+[2026-04-14 13:37:29] wpad.taild2c74c.ts.net | Status: Normal | Entropy: 3.75 | Length: 22 | Freq: 3
+[2026-04-14 13:37:31] wpad.taild2c74c.ts.net | Status: Normal | Entropy: 3.75 | Length: 22 | Freq: 4
+[2026-04-14 13:37:31] wpad.taild2c74c.ts.net | Status: Normal | Entropy: 3.75 | Length: 22 | Freq: 5
+[2026-04-14 13:37:34] wpad.taild2c74c.ts.net | Status: Suspicious — confidence 0% | Entropy: 3.75 | Length: 22 | Freq: 6
+[2026-04-14 13:37:34] nexus-websocket-a.intercom.io | Status: Suspicious — confidence 89% | Entropy: 3.94 | Length: 29 | Freq: 1
+[2026-04-14 13:37:35] (response packet) | Status: Spoofing (low_ttl (4s)) | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:37:35] gemini.google.com | Status: Normal (Allowlisted: *.google.com) | Entropy: 3.06 | Length: 17 | Freq: 1
+[2026-04-14 13:37:39] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:37:40] infyspringboard.onwingspan.com | Status: Suspicious — confidence 85% | Entropy: 3.80 | Length: 30 | Freq: 1
+[2026-04-14 13:37:40] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:37:40] ogs.google.com | Status: Normal (Allowlisted: *.google.com) | Entropy: 2.75 | Length: 14 | Freq: 1
+[2026-04-14 13:37:40] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:37:43] cdn.cookielaw.org | Status: Normal | Entropy: 3.57 | Length: 17 | Freq: 1
+[2026-04-14 13:37:43] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:37:44] content-autofill.googleapis.com | Status: Normal (Allowlisted: *.googleapis.com) | Entropy: 3.82 | Length: 31 | Freq: 1
+[2026-04-14 13:37:44] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:37:48] mobile.events.data.microsoft.com | Status: Normal (Allowlisted: *.microsoft.com) | Entropy: 3.80 | Length: 32 | Freq: 1
+[2026-04-14 13:37:48] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:37:56] google.com | Status: Normal | Entropy: 2.65 | Length: 10 | Freq: 1
+[2026-04-14 13:37:56] fonts.googleapis.com | Status: Normal (Allowlisted: *.googleapis.com) | Entropy: 3.62 | Length: 20 | Freq: 1
+[2026-04-14 13:37:56] flagcdn.com | Status: Normal | Entropy: 3.28 | Length: 11 | Freq: 1
+[2026-04-14 13:37:56] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:37:56] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:37:56] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:37:57] cdn.givefreely.com | Status: Normal | Entropy: 3.68 | Length: 18 | Freq: 1
+[2026-04-14 13:37:57] cdn.givefreely.com | Status: Normal | Entropy: 3.68 | Length: 18 | Freq: 2
+[2026-04-14 13:37:57] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:38:02] accounts.youtube.com | Status: Normal | Entropy: 3.41 | Length: 20 | Freq: 1
+[2026-04-14 13:38:02] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:38:24] images.onwingspan.com | Status: Normal | Entropy: 3.50 | Length: 21 | Freq: 1
+[2026-04-14 13:38:24] images.onwingspan.com | Status: Normal | Entropy: 3.50 | Length: 21 | Freq: 2
+[2026-04-14 13:38:24] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:38:33] status.maxmind.com | Status: Normal | Entropy: 3.46 | Length: 18 | Freq: 1
+[2026-04-14 13:38:33] status.maxmind.com | Status: Normal | Entropy: 3.46 | Length: 18 | Freq: 2
+[2026-04-14 13:38:33] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:38:34] beacons.gcp.gvt2.com | Status: Normal (Allowlisted: *.gcp.gvt2.com) | Entropy: 3.65 | Length: 20 | Freq: 1
+[2026-04-14 13:38:34] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:38:42] infyspringboard.onwingspan.com | Status: Suspicious — confidence 85% | Entropy: 3.80 | Length: 30 | Freq: 1
+[2026-04-14 13:38:43] infyspringboard.onwingspan.com | Status: Suspicious — confidence 85% | Entropy: 3.80 | Length: 30 | Freq: 2
+[2026-04-14 13:38:51] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:38:51] mobile.events.data.microsoft.com | Status: Normal (Allowlisted: *.microsoft.com) | Entropy: 3.80 | Length: 32 | Freq: 1
+[2026-04-14 13:38:51] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:38:52] api2.amplitude.com | Status: Normal | Entropy: 3.61 | Length: 18 | Freq: 1
+[2026-04-14 13:38:52] collector.quillbot.com | Status: Normal | Entropy: 3.33 | Length: 22 | Freq: 1
+[2026-04-14 13:39:01] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:39:01] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:39:01] google.com | Status: Normal | Entropy: 2.65 | Length: 10 | Freq: 1
+[2026-04-14 13:39:01] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:39:14] accounts.google.com | Status: Normal (Allowlisted: *.google.com) | Entropy: 3.37 | Length: 19 | Freq: 1
+[2026-04-14 13:39:14] accounts.google.com | Status: Normal (Allowlisted: *.google.com) | Entropy: 3.37 | Length: 19 | Freq: 2
+[2026-04-14 13:39:14] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:39:17] safebrowsing.google.com | Status: Normal (Allowlisted: *.google.com) | Entropy: 3.71 | Length: 23 | Freq: 1
+[2026-04-14 13:39:17] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:39:17] www.google.com | Status: Normal (Allowlisted: *.google.com) | Entropy: 2.84 | Length: 14 | Freq: 1
+[2026-04-14 13:39:17] www.google.com | Status: Normal (Allowlisted: *.google.com) | Entropy: 2.84 | Length: 14 | Freq: 2
+[2026-04-14 13:39:18] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:39:37] fonts.gstatic.com | Status: Normal (Allowlisted: *.gstatic.com) | Entropy: 3.34 | Length: 17 | Freq: 1
+[2026-04-14 13:39:38] fonts.gstatic.com | Status: Normal (Allowlisted: *.gstatic.com) | Entropy: 3.34 | Length: 17 | Freq: 2
+[2026-04-14 13:39:38] fonts.gstatic.com | Status: Normal (Allowlisted: *.gstatic.com) | Entropy: 3.34 | Length: 17 | Freq: 3
+[2026-04-14 13:39:41] fonts.gstatic.com | Status: Normal (Allowlisted: *.gstatic.com) | Entropy: 3.34 | Length: 17 | Freq: 4
+[2026-04-14 13:39:43] www.gstatic.com | Status: Normal (Allowlisted: *.gstatic.com) | Entropy: 3.19 | Length: 15 | Freq: 1
+[2026-04-14 13:39:43] www.gstatic.com | Status: Normal (Allowlisted: *.gstatic.com) | Entropy: 3.19 | Length: 15 | Freq: 2
+[2026-04-14 13:39:44] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:39:44] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:39:44] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:39:44] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:39:44] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:39:44] accounts.youtube.com | Status: Normal | Entropy: 3.41 | Length: 20 | Freq: 1
+[2026-04-14 13:39:44] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:39:44] play.google.com | Status: Normal (Allowlisted: *.google.com) | Entropy: 3.19 | Length: 15 | Freq: 1
+[2026-04-14 13:39:44] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:39:46] vscode-sync.trafficmanager.net | Status: Normal (Allowlisted: *.trafficmanager.net) | Entropy: 3.94 | Length: 30 | Freq: 1
+[2026-04-14 13:39:46] vscode-sync.trafficmanager.net | Status: Normal (Allowlisted: *.trafficmanager.net) | Entropy: 3.94 | Length: 30 | Freq: 2
+[2026-04-14 13:39:46] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:39:46] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:39:47] infyspringboard.onwingspan.com | Status: Suspicious — confidence 85% | Entropy: 3.80 | Length: 30 | Freq: 1
+[2026-04-14 13:39:47] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:39:49] content-autofill.googleapis.com | Status: Normal (Allowlisted: *.googleapis.com) | Entropy: 3.82 | Length: 31 | Freq: 1
+[2026-04-14 13:39:49] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:39:50] images-isb.onwingspan.com | Status: Normal | Entropy: 3.67 | Length: 25 | Freq: 1
+[2026-04-14 13:39:50] images-isb.onwingspan.com | Status: Normal | Entropy: 3.67 | Length: 25 | Freq: 2
+[2026-04-14 13:39:51] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:39:51] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:39:51] api-jobmarketplace.infyspringboard.onwingspan.com | Status: Suspicious — confidence 95% | Entropy: 4.21 | Length: 49 | Freq: 1
+[2026-04-14 13:39:52] api-jobmarketplace.infyspringboard.onwingspan.com | Status: Suspicious — confidence 95% | Entropy: 4.21 | Length: 49 | Freq: 2
+[2026-04-14 13:39:52] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:39:52] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:39:52] gameconfig.onwingspan.com | Status: Normal | Entropy: 3.54 | Length: 25 | Freq: 1
+[2026-04-14 13:39:52] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:39:52] gameconfig.onwingspan.com | Status: Normal | Entropy: 3.54 | Length: 25 | Freq: 2
+[2026-04-14 13:39:52] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:39:52] main.vscode-cdn.net | Status: Normal (Allowlisted: *.vscode-cdn.net) | Entropy: 3.58 | Length: 19 | Freq: 1
+[2026-04-14 13:39:52] main.vscode-cdn.net | Status: Normal (Allowlisted: *.vscode-cdn.net) | Entropy: 3.58 | Length: 19 | Freq: 2
+[2026-04-14 13:39:52] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:39:54] irisdatacontainer.blob.core.windows.net | Status: Suspicious — confidence 85% | Entropy: 3.72 | Length: 39 | Freq: 1
+[2026-04-14 13:39:54] images.onwingspan.com | Status: Normal | Entropy: 3.50 | Length: 21 | Freq: 1
+[2026-04-14 13:39:54] cdn2.percipio.com | Status: Normal | Entropy: 3.34 | Length: 17 | Freq: 1
+[2026-04-14 13:40:03] irisdatacontainer.blob.core.windows.net | Status: Suspicious — confidence 85% | Entropy: 3.72 | Length: 39 | Freq: 2
+[2026-04-14 13:40:04] images.onwingspan.com | Status: Normal | Entropy: 3.50 | Length: 21 | Freq: 2
+[2026-04-14 13:40:04] cdn2.percipio.com | Status: Normal | Entropy: 3.34 | Length: 17 | Freq: 2
+[2026-04-14 13:40:04] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:40:04] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:40:04] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:40:04] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:40:04] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:40:04] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:40:04] o15.officeredir.microsoft.com | Status: Normal (Allowlisted: *.microsoft.com) | Entropy: 3.50 | Length: 29 | Freq: 1
+[2026-04-14 13:40:04] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:40:04] support.content.office.microsoft.com | Status: Normal (Allowlisted: *.microsoft.com) | Entropy: 3.55 | Length: 36 | Freq: 1
+[2026-04-14 13:40:04] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:40:05] www.microsoft.com | Status: Normal (Allowlisted: *.microsoft.com) | Entropy: 3.18 | Length: 17 | Freq: 1
+[2026-04-14 13:40:06] www.microsoft.com | Status: Normal (Allowlisted: *.microsoft.com) | Entropy: 3.18 | Length: 17 | Freq: 2
+[2026-04-14 13:40:06] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:40:12] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:40:12] signaler-pa.clients6.google.com | Status: Normal (Allowlisted: *.google.com) | Entropy: 3.86 | Length: 31 | Freq: 1
+[2026-04-14 13:40:14] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:40:14] ssl.gstatic.com | Status: Normal (Allowlisted: *.gstatic.com) | Entropy: 3.19 | Length: 15 | Freq: 1
+[2026-04-14 13:40:14] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:40:22] claude.ai | Status: Normal | Entropy: 2.95 | Length: 9 | Freq: 1
+[2026-04-14 13:40:22] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:40:23] a-api.anthropic.com | Status: Normal | Entropy: 3.47 | Length: 19 | Freq: 1
+[2026-04-14 13:40:23] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:40:27] waa-pa.clients6.google.com | Status: Normal (Allowlisted: *.google.com) | Entropy: 3.84 | Length: 26 | Freq: 1
+[2026-04-14 13:40:27] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:40:27] mail.google.com | Status: Normal (Allowlisted: *.google.com) | Entropy: 3.06 | Length: 15 | Freq: 1
+[2026-04-14 13:40:31] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:40:31] ogs.google.com | Status: Normal (Allowlisted: *.google.com) | Entropy: 2.75 | Length: 14 | Freq: 1
+[2026-04-14 13:40:31] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:40:32] lh3.googleusercontent.com | Status: Normal (Allowlisted: *.googleusercontent.com) | Entropy: 3.65 | Length: 25 | Freq: 1
+[2026-04-14 13:40:32] lh3.googleusercontent.com | Status: Normal (Allowlisted: *.googleusercontent.com) | Entropy: 3.65 | Length: 25 | Freq: 2
+[2026-04-14 13:40:32] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:40:33] status.maxmind.com | Status: Normal | Entropy: 3.46 | Length: 18 | Freq: 1
+[2026-04-14 13:40:33] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:40:36] ogads-pa.clients6.google.com | Status: Normal (Allowlisted: *.google.com) | Entropy: 3.82 | Length: 28 | Freq: 1
+[2026-04-14 13:40:36] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:40:36] fonts.googleapis.com | Status: Normal (Allowlisted: *.googleapis.com) | Entropy: 3.62 | Length: 20 | Freq: 1
+[2026-04-14 13:40:36] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:40:36] appsgenaiserver-pa.clients6.google.com | Status: Normal (Allowlisted: *.google.com) | Entropy: 3.93 | Length: 38 | Freq: 1
+[2026-04-14 13:40:37] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:40:37] analytics.google.com | Status: Normal (Allowlisted: *.google.com) | Entropy: 3.58 | Length: 20 | Freq: 1
+[2026-04-14 13:40:37] stats.g.doubleclick.net | Status: Normal (Allowlisted: *.doubleclick.net) | Entropy: 3.76 | Length: 23 | Freq: 1
+[2026-04-14 13:40:38] www.google.co.in | Status: Normal | Entropy: 2.98 | Length: 16 | Freq: 1
+[2026-04-14 13:40:38] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:40:38] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:40:38] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:40:38] appsgrowthpromo-pa.clients6.google.com | Status: Normal (Allowlisted: *.google.com) | Entropy: 3.96 | Length: 38 | Freq: 1
+[2026-04-14 13:40:38] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:40:39] addons-pa.clients6.google.com | Status: Normal (Allowlisted: *.google.com) | Entropy: 3.87 | Length: 29 | Freq: 1
+[2026-04-14 13:40:39] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:40:40] taskassist-pa.clients6.google.com | Status: Normal (Allowlisted: *.google.com) | Entropy: 3.81 | Length: 33 | Freq: 1
+[2026-04-14 13:40:40] taskassist-pa.clients6.google.com | Status: Normal (Allowlisted: *.google.com) | Entropy: 3.81 | Length: 33 | Freq: 2
+[2026-04-14 13:40:40] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:40:41] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:40:42] www.google-analytics.com | Status: Normal | Entropy: 3.77 | Length: 24 | Freq: 1
+[2026-04-14 13:40:42] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:40:42] mail-ads.google.com | Status: Normal (Allowlisted: *.google.com) | Entropy: 3.47 | Length: 19 | Freq: 1
+[2026-04-14 13:40:42] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:40:42] peoplestackwebexperiments-pa.clients6.google.com | Status: Normal (Allowlisted: *.google.com) | Entropy: 4.05 | Length: 48 | Freq: 1
+[2026-04-14 13:40:42] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:40:42] peoplestack-pa.clients6.google.com | Status: Normal (Allowlisted: *.google.com) | Entropy: 3.82 | Length: 34 | Freq: 1
+[2026-04-14 13:40:42] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:40:42] contacts.google.com | Status: Normal (Allowlisted: *.google.com) | Entropy: 3.26 | Length: 19 | Freq: 1
+[2026-04-14 13:40:46] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:40:46] dgvzdhrlc3r0zxn0.dnstest.io | Status: Suspicious — confidence 85% | Entropy: 4.06 | Length: 27 | Freq: 1
+[2026-04-14 13:40:47] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:40:48] mobile.events.data.microsoft.com | Status: Normal (Allowlisted: *.microsoft.com) | Entropy: 3.80 | Length: 32 | Freq: 1
+[2026-04-14 13:40:48] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:40:50] google-ohttp-relay-safebrowsing.fastly-edge.com | Status: Suspicious — confidence 98% | Entropy: 4.15 | Length: 47 | Freq: 1
+[2026-04-14 13:40:50] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:40:51] dgvzdhrlc3r0zxn0.dnstest.io | Status: Suspicious — confidence 85% | Entropy: 4.06 | Length: 27 | Freq: 2
+[2026-04-14 13:40:51] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:41:00] workspaceui-pa.clients6.google.com | Status: Normal (Allowlisted: *.google.com) | Entropy: 4.08 | Length: 34 | Freq: 1
+[2026-04-14 13:41:00] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:41:01] clients6.google.com | Status: Normal (Allowlisted: *.google.com) | Entropy: 3.47 | Length: 19 | Freq: 1
+[2026-04-14 13:41:01] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:41:04] ci3.googleusercontent.com | Status: Normal (Allowlisted: *.googleusercontent.com) | Entropy: 3.62 | Length: 25 | Freq: 1
+[2026-04-14 13:41:04] ci3.googleusercontent.com | Status: Normal (Allowlisted: *.googleusercontent.com) | Entropy: 3.62 | Length: 25 | Freq: 2
+[2026-04-14 13:41:09] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:41:09] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:41:09] self.events.data.microsoft.com | Status: Normal (Allowlisted: *.microsoft.com) | Entropy: 3.74 | Length: 30 | Freq: 1
+[2026-04-14 13:41:09] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:41:09] config.teams.microsoft.com | Status: Normal (Allowlisted: *.microsoft.com) | Entropy: 3.54 | Length: 26 | Freq: 1
+[2026-04-14 13:41:09] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:41:17] mobile.events.data.microsoft.com | Status: Normal (Allowlisted: *.microsoft.com) | Entropy: 3.80 | Length: 32 | Freq: 1
+[2026-04-14 13:41:17] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:41:18] marcom.infosys.com | Status: Normal | Entropy: 3.31 | Length: 18 | Freq: 1
+[2026-04-14 13:41:18] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:41:19] oauthaccountmanager.googleapis.com | Status: Normal (Allowlisted: *.googleapis.com) | Entropy: 3.77 | Length: 34 | Freq: 1
+[2026-04-14 13:41:19] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:41:19] apc01.safelinks.protection.outlook.com | Status: Suspicious — confidence 85% | Entropy: 3.96 | Length: 38 | Freq: 1
+[2026-04-14 13:41:19] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:41:20] safebrowsing.google.com | Status: Normal (Allowlisted: *.google.com) | Entropy: 3.71 | Length: 23 | Freq: 1
+[2026-04-14 13:41:20] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:41:20] infyspringboard.onwingspan.com | Status: Suspicious — confidence 85% | Entropy: 3.80 | Length: 30 | Freq: 1
+[2026-04-14 13:41:20] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:41:25] cdn.jsdelivr.net | Status: Normal | Entropy: 3.50 | Length: 16 | Freq: 1
+[2026-04-14 13:41:25] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:41:26] cdnjs.cloudflare.com | Status: Normal (Allowlisted: *.cloudflare.com) | Entropy: 3.68 | Length: 20 | Freq: 1
+[2026-04-14 13:41:26] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:41:34] images.onwingspan.com | Status: Normal | Entropy: 3.50 | Length: 21 | Freq: 1
+[2026-04-14 13:41:34] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:41:49] images-isb.onwingspan.com | Status: Normal | Entropy: 3.67 | Length: 25 | Freq: 1
+[2026-04-14 13:41:49] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:41:59] api-jobmarketplace.infyspringboard.onwingspan.com | Status: Suspicious — confidence 95% | Entropy: 4.21 | Length: 49 | Freq: 1
+[2026-04-14 13:41:59] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:42:00] img-c.udemycdn.com | Status: Normal | Entropy: 3.42 | Length: 18 | Freq: 1
+[2026-04-14 13:42:00] storage.googleapis.com | Status: Normal (Allowlisted: *.googleapis.com) | Entropy: 3.52 | Length: 22 | Freq: 1
+[2026-04-14 13:42:23] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:42:23] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:42:23] ol-collector.quillbot.com | Status: Normal | Entropy: 3.36 | Length: 25 | Freq: 1
+[2026-04-14 13:42:23] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:42:25] roaming.svc.cloud.microsoft | Status: Suspicious — confidence 85% | Entropy: 3.81 | Length: 27 | Freq: 1
+[2026-04-14 13:42:25] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:42:46] infyspringboard.onwingspan.com | Status: Suspicious — confidence 85% | Entropy: 3.80 | Length: 30 | Freq: 1
+[2026-04-14 13:42:47] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:42:48] mobile.events.data.microsoft.com | Status: Normal (Allowlisted: *.microsoft.com) | Entropy: 3.80 | Length: 32 | Freq: 1
+[2026-04-14 13:42:48] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:42:48] stream.quillbot.com | Status: Normal | Entropy: 3.72 | Length: 19 | Freq: 1
+[2026-04-14 13:42:48] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:42:50] info-pages.000webhostapp.com | Status: Suspicious — confidence 85% | Entropy: 4.01 | Length: 28 | Freq: 1
+[2026-04-14 13:42:51] info-pages.000webhostapp.com | Status: Suspicious — confidence 85% | Entropy: 4.01 | Length: 28 | Freq: 2
+[2026-04-14 13:42:51] info-pages.000webhostapp.com | Status: Suspicious — confidence 85% | Entropy: 4.01 | Length: 28 | Freq: 3
+[2026-04-14 13:42:53] ogs.google.com | Status: Normal (Allowlisted: *.google.com) | Entropy: 2.75 | Length: 14 | Freq: 1
+[2026-04-14 13:42:53] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:42:53] info-pages.000webhostapp.com | Status: Suspicious — confidence 85% | Entropy: 4.01 | Length: 28 | Freq: 4
+[2026-04-14 13:42:57] info-pages.000webhostapp.com | Status: Suspicious — confidence 85% | Entropy: 4.01 | Length: 28 | Freq: 5
+[2026-04-14 13:43:00] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:43:05] encrypted-tbn0.gstatic.com | Status: Normal (Allowlisted: *.gstatic.com) | Entropy: 3.98 | Length: 26 | Freq: 1
+[2026-04-14 13:43:05] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:43:08] ogads-pa.clients6.google.com | Status: Normal (Allowlisted: *.google.com) | Entropy: 3.82 | Length: 28 | Freq: 1
+[2026-04-14 13:43:08] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:43:08] cdn.givefreely.com | Status: Normal | Entropy: 3.68 | Length: 18 | Freq: 1
+[2026-04-14 13:43:08] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:43:08] abcdef.com | Status: Normal | Entropy: 3.12 | Length: 10 | Freq: 1
+[2026-04-14 13:43:08] abcdef.com | Status: Normal | Entropy: 3.12 | Length: 10 | Freq: 2
+[2026-04-14 13:43:09] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:43:10] img1.wsimg.com | Status: Normal | Entropy: 3.04 | Length: 14 | Freq: 1
+[2026-04-14 13:43:10] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:43:11] api.aws.parking.godaddy.com | Status: Normal | Entropy: 3.69 | Length: 27 | Freq: 1
+[2026-04-14 13:43:11] api.aws.parking.godaddy.com | Status: Normal | Entropy: 3.69 | Length: 27 | Freq: 2
+[2026-04-14 13:43:12] api.aws.parking.godaddy.com | Status: Normal | Entropy: 3.69 | Length: 27 | Freq: 3
+[2026-04-14 13:43:12] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:43:36] microlabsltd.com | Status: Normal | Entropy: 3.50 | Length: 16 | Freq: 1
+[2026-04-14 13:43:36] microlabsltd.com | Status: Normal | Entropy: 3.50 | Length: 16 | Freq: 2
+[2026-04-14 13:43:36] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:43:37] www.google.com | Status: Normal (Allowlisted: *.google.com) | Entropy: 2.84 | Length: 14 | Freq: 1
+[2026-04-14 13:43:37] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:43:40] cdnjs.cloudflare.com | Status: Normal (Allowlisted: *.cloudflare.com) | Entropy: 3.68 | Length: 20 | Freq: 1
+[2026-04-14 13:43:40] www.googletagmanager.com | Status: Normal (Allowlisted: *.googletagmanager.com) | Entropy: 3.41 | Length: 24 | Freq: 1
+[2026-04-14 13:43:40] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:43:40] www.clarity.ms | Status: Normal | Entropy: 3.32 | Length: 14 | Freq: 1
+[2026-04-14 13:43:40] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:43:40] www.clarity.ms | Status: Normal | Entropy: 3.32 | Length: 14 | Freq: 2
+[2026-04-14 13:43:40] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:43:40] scripts.clarity.ms | Status: Normal | Entropy: 3.35 | Length: 18 | Freq: 1
+[2026-04-14 13:43:41] scripts.clarity.ms | Status: Normal | Entropy: 3.35 | Length: 18 | Freq: 2
+[2026-04-14 13:43:41] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:43:41] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:43:41] analytics.google.com | Status: Normal (Allowlisted: *.google.com) | Entropy: 3.58 | Length: 20 | Freq: 1
+[2026-04-14 13:43:41] stats.g.doubleclick.net | Status: Normal (Allowlisted: *.doubleclick.net) | Entropy: 3.76 | Length: 23 | Freq: 1
+[2026-04-14 13:43:41] analytics.google.com | Status: Normal (Allowlisted: *.google.com) | Entropy: 3.58 | Length: 20 | Freq: 2
+[2026-04-14 13:43:41] stats.g.doubleclick.net | Status: Normal (Allowlisted: *.doubleclick.net) | Entropy: 3.76 | Length: 23 | Freq: 2
+[2026-04-14 13:43:41] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:43:41] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:43:41] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:43:41] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:43:41] v.clarity.ms | Status: Normal | Entropy: 3.42 | Length: 12 | Freq: 1
+[2026-04-14 13:43:41] v.clarity.ms | Status: Normal | Entropy: 3.42 | Length: 12 | Freq: 2
+[2026-04-14 13:43:50] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:43:50] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:43:50] beacons.gcp.gvt2.com | Status: Normal (Allowlisted: *.gcp.gvt2.com) | Entropy: 3.65 | Length: 20 | Freq: 1
+[2026-04-14 13:43:50] beacons.gcp.gvt2.com | Status: Normal (Allowlisted: *.gcp.gvt2.com) | Entropy: 3.65 | Length: 20 | Freq: 2
+[2026-04-14 13:43:57] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:43:57] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:43:57] infyspringboard.onwingspan.com | Status: Suspicious — confidence 85% | Entropy: 3.80 | Length: 30 | Freq: 1
+[2026-04-14 13:43:57] infyspringboard.onwingspan.com | Status: Suspicious — confidence 85% | Entropy: 3.80 | Length: 30 | Freq: 2
+[2026-04-14 13:44:12] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:44:12] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:44:13] 9779.info | Status: Normal | Entropy: 2.73 | Length: 9 | Freq: 1
+[2026-04-14 13:44:13] safebrowsing.google.com | Status: Normal (Allowlisted: *.google.com) | Entropy: 3.71 | Length: 23 | Freq: 1
+[2026-04-14 13:44:13] safebrowsing.google.com | Status: Normal (Allowlisted: *.google.com) | Entropy: 3.71 | Length: 23 | Freq: 2
+[2026-04-14 13:44:13] 9779.info | Status: Normal | Entropy: 2.73 | Length: 9 | Freq: 2
+[2026-04-14 13:44:13] google.com | Status: Normal | Entropy: 2.65 | Length: 10 | Freq: 1
+[2026-04-14 13:44:13] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:44:13] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:44:13] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:44:14] google.com | Status: Normal | Entropy: 2.65 | Length: 10 | Freq: 2
+[2026-04-14 13:44:14] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:44:14] play.google.com | Status: Normal (Allowlisted: *.google.com) | Entropy: 3.19 | Length: 15 | Freq: 1
+[2026-04-14 13:44:14] play.google.com | Status: Normal (Allowlisted: *.google.com) | Entropy: 3.19 | Length: 15 | Freq: 2
+[2026-04-14 13:44:14] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:44:15] router.parklogic.com | Status: Normal | Entropy: 3.65 | Length: 20 | Freq: 1
+[2026-04-14 13:44:15] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:44:17] click-v4.plarclck.com | Status: Normal | Entropy: 3.42 | Length: 21 | Freq: 1
+[2026-04-14 13:44:17] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:44:18] keylearncore.monster | Status: Normal | Entropy: 3.48 | Length: 20 | Freq: 1
+[2026-04-14 13:44:18] keylearncore.monster | Status: Normal | Entropy: 3.48 | Length: 20 | Freq: 2
+[2026-04-14 13:44:25] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:44:25] ogs.google.com | Status: Normal (Allowlisted: *.google.com) | Entropy: 2.75 | Length: 14 | Freq: 1
+[2026-04-14 13:44:25] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:44:26] www.gstatic.com | Status: Normal (Allowlisted: *.gstatic.com) | Entropy: 3.19 | Length: 15 | Freq: 1
+[2026-04-14 13:44:26] ssl.gstatic.com | Status: Normal (Allowlisted: *.gstatic.com) | Entropy: 3.19 | Length: 15 | Freq: 1
+[2026-04-14 13:44:32] www.gstatic.com | Status: Normal (Allowlisted: *.gstatic.com) | Entropy: 3.19 | Length: 15 | Freq: 2
+[2026-04-14 13:44:32] ssl.gstatic.com | Status: Normal (Allowlisted: *.gstatic.com) | Entropy: 3.19 | Length: 15 | Freq: 2
+[2026-04-14 13:44:32] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:44:32] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:44:32] music.yahoo.com | Status: Normal | Entropy: 3.19 | Length: 15 | Freq: 1
+[2026-04-14 13:44:32] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:44:32] www.yahoo.com | Status: Normal | Entropy: 2.82 | Length: 13 | Freq: 1
+[2026-04-14 13:44:32] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:44:33] guce.yahoo.com | Status: Normal | Entropy: 3.18 | Length: 14 | Freq: 1
+[2026-04-14 13:44:33] guce.yahoo.com | Status: Normal | Entropy: 3.18 | Length: 14 | Freq: 2
+[2026-04-14 13:44:33] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:44:40] consent.cmp.oath.com | Status: Normal | Entropy: 3.31 | Length: 20 | Freq: 1
+[2026-04-14 13:44:40] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:44:40] s.yimg.com | Status: Normal | Entropy: 2.92 | Length: 10 | Freq: 1
+[2026-04-14 13:44:40] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:44:40] i.clean.gg | Status: Normal | Entropy: 2.92 | Length: 10 | Freq: 1
+[2026-04-14 13:44:41] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:44:41] securepubads.g.doubleclick.net | Status: Normal (Allowlisted: *.doubleclick.net) | Entropy: 3.90 | Length: 30 | Freq: 1
+[2026-04-14 13:44:41] cdn.taboola.com | Status: Normal | Entropy: 3.19 | Length: 15 | Freq: 1
+[2026-04-14 13:44:41] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:44:42] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:44:42] ncp-gw-frontpage.media.yahoo.com | Status: Suspicious — confidence 90% | Entropy: 4.02 | Length: 32 | Freq: 1
+[2026-04-14 13:44:42] nexus-gateway-prod.media.yahoo.com | Status: Suspicious — confidence 90% | Entropy: 4.10 | Length: 34 | Freq: 1
+[2026-04-14 13:44:42] udc.yahoo.com | Status: Normal | Entropy: 3.03 | Length: 13 | Freq: 1
+[2026-04-14 13:44:42] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:44:43] geo.yahoo.com | Status: Normal | Entropy: 2.93 | Length: 13 | Freq: 1
+[2026-04-14 13:44:43] udc.yahoo.com | Status: Normal | Entropy: 3.03 | Length: 13 | Freq: 2
+[2026-04-14 13:44:43] ncp-gw-frontpage.media.yahoo.com | Status: Suspicious — confidence 90% | Entropy: 4.02 | Length: 32 | Freq: 2
+[2026-04-14 13:44:43] geo.yahoo.com | Status: Normal | Entropy: 2.93 | Length: 13 | Freq: 2
+[2026-04-14 13:44:43] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:44:43] (response packet) | Status: Spoofing (low_ttl (2s)) | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:44:43] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:44:43] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:44:43] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:44:43] content-autofill.googleapis.com | Status: Normal (Allowlisted: *.googleapis.com) | Entropy: 3.82 | Length: 31 | Freq: 1
+[2026-04-14 13:44:44] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:44:44] noa.yahoo.com | Status: Normal | Entropy: 2.78 | Length: 13 | Freq: 1
+[2026-04-14 13:44:44] opus.analytics.yahoo.com | Status: Normal | Entropy: 3.61 | Length: 24 | Freq: 1
+[2026-04-14 13:44:44] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:44:44] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:44:44] ad-delivery.net | Status: Normal | Entropy: 3.46 | Length: 15 | Freq: 1
+[2026-04-14 13:44:44] ad-delivery.net | Status: Normal | Entropy: 3.46 | Length: 15 | Freq: 2
+[2026-04-14 13:44:44] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:44:44] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:44:44] wnsrvbjmeprtfrnfx.ay.delivery | Status: Suspicious — confidence 96% | Entropy: 4.07 | Length: 29 | Freq: 1
+[2026-04-14 13:44:46] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:44:46] pagead2.googlesyndication.com | Status: Suspicious — confidence 85% | Entropy: 3.84 | Length: 29 | Freq: 1
+[2026-04-14 13:44:47] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:44:47] vscode-sync.trafficmanager.net | Status: Normal (Allowlisted: *.trafficmanager.net) | Entropy: 3.94 | Length: 30 | Freq: 1
+[2026-04-14 13:44:47] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:44:47] signaler-pa.clients6.google.com | Status: Normal (Allowlisted: *.google.com) | Entropy: 3.86 | Length: 31 | Freq: 1
+[2026-04-14 13:44:47] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:44:48] mobile.events.data.microsoft.com | Status: Normal (Allowlisted: *.microsoft.com) | Entropy: 3.80 | Length: 32 | Freq: 1
+[2026-04-14 13:44:48] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:44:48] ups.analytics.yahoo.com | Status: Normal | Entropy: 3.64 | Length: 23 | Freq: 1
+[2026-04-14 13:44:48] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:44:49] pbs.yahoo.com | Status: Normal | Entropy: 3.18 | Length: 13 | Freq: 1
+[2026-04-14 13:44:49] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:44:49] tlx.3lift.com | Status: Normal | Entropy: 3.24 | Length: 13 | Freq: 1
+[2026-04-14 13:44:49] ib.adnxs.com | Status: Normal | Entropy: 3.42 | Length: 12 | Freq: 1
+[2026-04-14 13:44:49] s.seedtag.com | Status: Normal | Entropy: 3.24 | Length: 13 | Freq: 1
+[2026-04-14 13:44:49] grid-bidder.criteo.com | Status: Normal | Entropy: 3.45 | Length: 22 | Freq: 1
+[2026-04-14 13:44:49] htlb.casalemedia.com | Status: Normal | Entropy: 3.58 | Length: 20 | Freq: 1
+[2026-04-14 13:44:49] rtb.openx.net | Status: Normal | Entropy: 3.09 | Length: 13 | Freq: 1
+[2026-04-14 13:44:49] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:44:49] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:44:49] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:44:49] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:44:49] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:44:49] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:44:49] prebid.media.net | Status: Normal | Entropy: 3.33 | Length: 16 | Freq: 1
+[2026-04-14 13:44:49] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:44:49] c2shb-oao.ssp.yahoo.com | Status: Normal | Entropy: 3.34 | Length: 23 | Freq: 1
+[2026-04-14 13:44:49] display.bidder.taboola.com | Status: Normal | Entropy: 3.74 | Length: 26 | Freq: 1
+[2026-04-14 13:44:49] ads.yieldmo.com | Status: Normal | Entropy: 3.37 | Length: 15 | Freq: 1
+[2026-04-14 13:44:49] cm.g.doubleclick.net | Status: Normal (Allowlisted: *.doubleclick.net) | Entropy: 3.65 | Length: 20 | Freq: 1
+[2026-04-14 13:44:49] ads.yieldmo.com | Status: Normal | Entropy: 3.37 | Length: 15 | Freq: 2
+[2026-04-14 13:44:49] display.bidder.taboola.com | Status: Normal | Entropy: 3.74 | Length: 26 | Freq: 2
+[2026-04-14 13:44:50] c2shb-oao.ssp.yahoo.com | Status: Normal | Entropy: 3.34 | Length: 23 | Freq: 2
+[2026-04-14 13:44:50] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:44:50] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:44:50] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:44:50] trc.taboola.com | Status: Normal | Entropy: 3.06 | Length: 15 | Freq: 1
+[2026-04-14 13:44:50] cm.g.doubleclick.net | Status: Normal (Allowlisted: *.doubleclick.net) | Entropy: 3.65 | Length: 20 | Freq: 2
+[2026-04-14 13:44:50] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:44:50] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:44:50] trc.taboola.com | Status: Normal | Entropy: 3.06 | Length: 15 | Freq: 2
+[2026-04-14 13:44:50] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:44:50] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:44:50] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:44:50] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:44:50] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:44:50] pm-widget.taboola.com | Status: Normal | Entropy: 3.78 | Length: 21 | Freq: 1
+[2026-04-14 13:44:50] ads.pubmatic.com | Status: Normal | Entropy: 3.50 | Length: 16 | Freq: 1
+[2026-04-14 13:44:50] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:44:50] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:44:50] sb.scorecardresearch.com | Status: Normal | Entropy: 3.27 | Length: 24 | Freq: 1
+[2026-04-14 13:44:50] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:44:50] hbx.media.net | Status: Normal | Entropy: 3.39 | Length: 13 | Freq: 1
+[2026-04-14 13:44:50] www.googletagmanager.com | Status: Normal (Allowlisted: *.googletagmanager.com) | Entropy: 3.41 | Length: 24 | Freq: 1
+[2026-04-14 13:44:50] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:44:50] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:44:50] hbopenbid.pubmatic.com | Status: Normal | Entropy: 3.70 | Length: 22 | Freq: 1
+[2026-04-14 13:44:50] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:44:50] cs.media.net | Status: Normal | Entropy: 3.25 | Length: 12 | Freq: 1
+[2026-04-14 13:44:50] cs.media.net | Status: Normal | Entropy: 3.25 | Length: 12 | Freq: 2
+[2026-04-14 13:44:50] pixel.rubiconproject.com | Status: Normal | Entropy: 3.77 | Length: 24 | Freq: 1
+[2026-04-14 13:44:50] pixel.rubiconproject.com | Status: Normal | Entropy: 3.77 | Length: 24 | Freq: 2
+[2026-04-14 13:44:50] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:44:50] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:44:50] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:44:50] cdn.p-n.io | Status: Normal | Entropy: 2.92 | Length: 10 | Freq: 1
+[2026-04-14 13:44:50] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:44:51] il-trc-events.taboola.com | Status: Normal | Entropy: 3.78 | Length: 25 | Freq: 1
+[2026-04-14 13:44:51] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:44:51] pbd.yahoo.com | Status: Normal | Entropy: 3.18 | Length: 13 | Freq: 1
+[2026-04-14 13:44:51] pbd.yahoo.com | Status: Normal | Entropy: 3.18 | Length: 13 | Freq: 2
+[2026-04-14 13:44:51] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:44:51] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:44:51] c21lg-d.media.net | Status: Normal | Entropy: 3.73 | Length: 17 | Freq: 1
+[2026-04-14 13:44:51] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:44:51] analytics.google.com | Status: Normal (Allowlisted: *.google.com) | Entropy: 3.58 | Length: 20 | Freq: 1
+[2026-04-14 13:44:51] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:44:51] match.adsrvr.org | Status: Normal | Entropy: 3.45 | Length: 16 | Freq: 1
+[2026-04-14 13:44:51] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:44:51] api.taboola.com | Status: Normal | Entropy: 3.14 | Length: 15 | Freq: 1
+[2026-04-14 13:44:51] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:44:51] tsdtocl.com | Status: Normal | Entropy: 2.91 | Length: 11 | Freq: 1
+[2026-04-14 13:44:51] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:44:51] vidstat.taboola.com | Status: Normal | Entropy: 3.39 | Length: 19 | Freq: 1
+[2026-04-14 13:44:51] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:44:51] images.taboola.com | Status: Normal | Entropy: 3.42 | Length: 18 | Freq: 1
+[2026-04-14 13:44:51] cds.taboola.com | Status: Normal | Entropy: 3.19 | Length: 15 | Freq: 1
+[2026-04-14 13:44:51] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:44:51] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:44:51] www.google.co.in | Status: Normal | Entropy: 2.98 | Length: 16 | Freq: 1
+[2026-04-14 13:44:51] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:44:51] aa.agkn.com | Status: Normal | Entropy: 2.85 | Length: 11 | Freq: 1
+[2026-04-14 13:44:51] dpm.demdex.net | Status: Normal | Entropy: 2.84 | Length: 14 | Freq: 1
+[2026-04-14 13:44:51] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:44:51] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:44:52] image6.pubmatic.com | Status: Normal | Entropy: 3.58 | Length: 19 | Freq: 1
+[2026-04-14 13:44:52] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:44:52] ep1.adtrafficquality.google | Status: Suspicious — confidence 85% | Entropy: 3.99 | Length: 27 | Freq: 1
+[2026-04-14 13:44:52] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:44:52] 183660158851544b73c505b5ccd000ca.safeframe.googlesyndication.com | Status: Suspicious — confidence 96% | Entropy: 4.44 | Length: 64 | Freq: 1
+[2026-04-14 13:44:52] 183660158851544b73c505b5ccd000ca.safeframe.googlesyndication.com | Status: Suspicious — confidence 96% | Entropy: 4.44 | Length: 64 | Freq: 2
+[2026-04-14 13:44:52] imprammp.taboola.com | Status: Normal | Entropy: 3.25 | Length: 20 | Freq: 1
+[2026-04-14 13:44:53] am-match.taboola.com | Status: Normal | Entropy: 3.15 | Length: 20 | Freq: 1
+[2026-04-14 13:44:53] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:44:53] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:44:53] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:44:53] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:44:53] am-vid-events.taboola.com | Status: Normal | Entropy: 3.78 | Length: 25 | Freq: 1
+[2026-04-14 13:44:53] ep2.adtrafficquality.google | Status: Suspicious — confidence 85% | Entropy: 3.99 | Length: 27 | Freq: 1
+[2026-04-14 13:44:53] (response packet) | Status: Spoofing (low_ttl (4s)) | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:44:53] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:44:54] prebid.a-mo.net | Status: Normal | Entropy: 3.64 | Length: 15 | Freq: 1
+[2026-04-14 13:44:54] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:44:54] uipglob.semasio.net | Status: Normal | Entropy: 3.72 | Length: 19 | Freq: 1
+[2026-04-14 13:44:54] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:44:54] a.amxrtb.com | Status: Normal | Entropy: 3.08 | Length: 12 | Freq: 1
+[2026-04-14 13:44:54] a.amxrtb.com | Status: Normal | Entropy: 3.08 | Length: 12 | Freq: 2
+[2026-04-14 13:44:54] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:44:54] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:44:54] match.sharethrough.com | Status: Normal | Entropy: 3.46 | Length: 22 | Freq: 1
+[2026-04-14 13:44:54] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:44:55] sync.a-mo.net | Status: Normal | Entropy: 3.39 | Length: 13 | Freq: 1
+[2026-04-14 13:44:55] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:44:55] tpc.googlesyndication.com | Status: Normal | Entropy: 3.73 | Length: 25 | Freq: 1
+[2026-04-14 13:44:55] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:44:55] cm.adform.net | Status: Normal | Entropy: 3.39 | Length: 13 | Freq: 1
+[2026-04-14 13:44:55] eb2.3lift.com | Status: Normal | Entropy: 3.55 | Length: 13 | Freq: 1
+[2026-04-14 13:44:55] cm.adform.net | Status: Normal | Entropy: 3.39 | Length: 13 | Freq: 2
+[2026-04-14 13:44:55] eb2.3lift.com | Status: Normal | Entropy: 3.55 | Length: 13 | Freq: 2
+[2026-04-14 13:44:55] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:44:55] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:44:55] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:44:55] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:44:55] ib.3lift.com | Status: Normal | Entropy: 3.25 | Length: 12 | Freq: 1
+[2026-04-14 13:44:56] eus.rubiconproject.com | Status: Normal | Entropy: 3.66 | Length: 22 | Freq: 1
+[2026-04-14 13:44:56] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:44:56] ssum.casalemedia.com | Status: Normal | Entropy: 3.31 | Length: 20 | Freq: 1
+[2026-04-14 13:44:56] eus.rubiconproject.com | Status: Normal | Entropy: 3.66 | Length: 22 | Freq: 2
+[2026-04-14 13:44:56] image8.pubmatic.com | Status: Normal | Entropy: 3.58 | Length: 19 | Freq: 1
+[2026-04-14 13:44:56] ssum.casalemedia.com | Status: Normal | Entropy: 3.31 | Length: 20 | Freq: 2
+[2026-04-14 13:44:56] image8.pubmatic.com | Status: Normal | Entropy: 3.58 | Length: 19 | Freq: 2
+[2026-04-14 13:44:56] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:44:56] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:44:56] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:44:56] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:44:56] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:44:56] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:44:56] googleads.g.doubleclick.net | Status: Normal (Allowlisted: *.doubleclick.net) | Entropy: 3.73 | Length: 27 | Freq: 1
+[2026-04-14 13:44:57] googleads.g.doubleclick.net | Status: Normal (Allowlisted: *.doubleclick.net) | Entropy: 3.73 | Length: 27 | Freq: 2
+[2026-04-14 13:44:57] id.a-mx.com | Status: Normal | Entropy: 3.10 | Length: 11 | Freq: 1
+[2026-04-14 13:44:57] ap.lijit.com | Status: Normal | Entropy: 3.25 | Length: 12 | Freq: 1
+[2026-04-14 13:44:57] wf.taboola.com | Status: Normal | Entropy: 3.18 | Length: 14 | Freq: 1
+[2026-04-14 13:44:57] id.a-mx.com | Status: Normal | Entropy: 3.10 | Length: 11 | Freq: 2
+[2026-04-14 13:44:58] ap.lijit.com | Status: Normal | Entropy: 3.25 | Length: 12 | Freq: 2
+[2026-04-14 13:44:58] wf.taboola.com | Status: Normal | Entropy: 3.18 | Length: 14 | Freq: 2
+[2026-04-14 13:44:58] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:44:58] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:44:58] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:44:58] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:44:58] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:44:58] cs.seedtag.com | Status: Normal | Entropy: 3.24 | Length: 14 | Freq: 1
+[2026-04-14 13:44:58] cs.seedtag.com | Status: Normal | Entropy: 3.24 | Length: 14 | Freq: 2
+[2026-04-14 13:44:58] js-sec.indexww.com | Status: Normal | Entropy: 3.61 | Length: 18 | Freq: 1
+[2026-04-14 13:44:58] js-sec.indexww.com | Status: Normal | Entropy: 3.61 | Length: 18 | Freq: 2
+[2026-04-14 13:44:58] yahoo-bidout-d.openx.net | Status: Normal | Entropy: 3.75 | Length: 24 | Freq: 1
+[2026-04-14 13:44:58] yahoo-bidout-d.openx.net | Status: Normal | Entropy: 3.75 | Length: 24 | Freq: 2
+[2026-04-14 13:44:58] gum.criteo.com | Status: Normal | Entropy: 3.24 | Length: 14 | Freq: 1
+[2026-04-14 13:44:58] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:44:58] gum.criteo.com | Status: Normal | Entropy: 3.24 | Length: 14 | Freq: 2
+[2026-04-14 13:44:59] acdn.adnxs.com | Status: Normal | Entropy: 3.09 | Length: 14 | Freq: 1
+[2026-04-14 13:44:59] ads.pubmatic.com | Status: Normal | Entropy: 3.50 | Length: 16 | Freq: 2
+[2026-04-14 13:44:59] acdn.adnxs.com | Status: Normal | Entropy: 3.09 | Length: 14 | Freq: 2
+[2026-04-14 13:44:59] hb.trustedstack.com | Status: Normal | Entropy: 3.68 | Length: 19 | Freq: 1
+[2026-04-14 13:44:59] ads.pubmatic.com | Status: Normal | Entropy: 3.50 | Length: 16 | Freq: 3
+[2026-04-14 13:44:59] hb.trustedstack.com | Status: Normal | Entropy: 3.68 | Length: 19 | Freq: 2
+[2026-04-14 13:44:59] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:44:59] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:44:59] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:44:59] (response packet) | Status: Spoofing (low_ttl (3s)) | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:44:59] pxl.connexity.net | Status: Normal | Entropy: 3.34 | Length: 17 | Freq: 1
+[2026-04-14 13:44:59] pxl.connexity.net | Status: Normal | Entropy: 3.34 | Length: 17 | Freq: 2
+[2026-04-14 13:44:59] googleads.g.doubleclick.net | Status: Normal (Allowlisted: *.doubleclick.net) | Entropy: 3.73 | Length: 27 | Freq: 3
+[2026-04-14 13:44:59] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:44:59] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:44:59] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:45:00] cs.seedtag.com | Status: Normal | Entropy: 3.24 | Length: 14 | Freq: 3
+[2026-04-14 13:45:00] js-sec.indexww.com | Status: Normal | Entropy: 3.61 | Length: 18 | Freq: 3
+[2026-04-14 13:45:00] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:45:00] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:45:00] acdn.adnxs.com | Status: Normal | Entropy: 3.09 | Length: 14 | Freq: 3
+[2026-04-14 13:45:00] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:45:00] sea1-sync.a-mo.net | Status: Normal | Entropy: 3.50 | Length: 18 | Freq: 1
+[2026-04-14 13:45:00] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:45:00] dclk-match.dotomi.com | Status: Normal | Entropy: 3.43 | Length: 21 | Freq: 1
+[2026-04-14 13:45:00] um.simpli.fi | Status: Normal | Entropy: 2.86 | Length: 12 | Freq: 1
+[2026-04-14 13:45:00] main.vscode-cdn.net | Status: Normal (Allowlisted: *.vscode-cdn.net) | Entropy: 3.58 | Length: 19 | Freq: 1
+[2026-04-14 13:45:00] dclk-match.dotomi.com | Status: Normal | Entropy: 3.43 | Length: 21 | Freq: 2
+[2026-04-14 13:45:01] um.simpli.fi | Status: Normal | Entropy: 2.86 | Length: 12 | Freq: 2
+[2026-04-14 13:45:01] main.vscode-cdn.net | Status: Normal (Allowlisted: *.vscode-cdn.net) | Entropy: 3.58 | Length: 19 | Freq: 2
+[2026-04-14 13:45:01] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:45:01] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:45:01] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:45:01] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:45:01] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:45:01] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:45:01] i.liadm.com | Status: Normal | Entropy: 2.91 | Length: 11 | Freq: 1
+[2026-04-14 13:45:01] dsum-sec.casalemedia.com | Status: Normal | Entropy: 3.43 | Length: 24 | Freq: 1
+[2026-04-14 13:45:01] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:45:01] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:45:01] openx2-match.dotomi.com | Status: Normal | Entropy: 3.71 | Length: 23 | Freq: 1
+[2026-04-14 13:45:01] bh.contextweb.com | Status: Normal | Entropy: 3.38 | Length: 17 | Freq: 1
+[2026-04-14 13:45:01] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:45:01] openx2-match.dotomi.com | Status: Normal | Entropy: 3.71 | Length: 23 | Freq: 2
+[2026-04-14 13:45:01] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:45:01] secure-assets.rubiconproject.com | Status: Normal | Entropy: 3.77 | Length: 32 | Freq: 1
+[2026-04-14 13:45:01] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:45:01] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:45:01] id.rtb.mx | Status: Normal | Entropy: 2.95 | Length: 9 | Freq: 1
+[2026-04-14 13:45:01] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:45:01] www.googleadservices.com | Status: Normal (Allowlisted: *.googleadservices.com) | Entropy: 3.66 | Length: 24 | Freq: 1
+[2026-04-14 13:45:01] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:45:01] token.rubiconproject.com | Status: Normal | Entropy: 3.64 | Length: 24 | Freq: 1
+[2026-04-14 13:45:01] token.rubiconproject.com | Status: Normal | Entropy: 3.64 | Length: 24 | Freq: 2
+[2026-04-14 13:45:01] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:45:01] idsync.rlcdn.com | Status: Normal | Entropy: 3.33 | Length: 16 | Freq: 1
+[2026-04-14 13:45:01] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:45:01] idsync.rlcdn.com | Status: Normal | Entropy: 3.33 | Length: 16 | Freq: 2
+[2026-04-14 13:45:02] ut.pubmatic.com | Status: Normal | Entropy: 3.24 | Length: 15 | Freq: 1
+[2026-04-14 13:45:02] ut.pubmatic.com | Status: Normal | Entropy: 3.24 | Length: 15 | Freq: 2
+[2026-04-14 13:45:02] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:45:02] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:45:02] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:45:02] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:45:02] www.temu.com | Status: Normal | Entropy: 2.86 | Length: 12 | Freq: 1
+[2026-04-14 13:45:02] a.c.appier.net | Status: Normal | Entropy: 3.04 | Length: 14 | Freq: 1
+[2026-04-14 13:45:02] apsoutheast-match.deepintent.com | Status: Suspicious — confidence 77% | Entropy: 3.74 | Length: 32 | Freq: 1
+[2026-04-14 13:45:02] us-u.openx.net | Status: Normal | Entropy: 3.24 | Length: 14 | Freq: 1
+[2026-04-14 13:45:02] sync.1rx.io | Status: Normal | Entropy: 3.28 | Length: 11 | Freq: 1
+[2026-04-14 13:45:02] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:45:02] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:45:02] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:45:02] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:45:02] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:45:02] ds.uncn.jp | Status: Normal | Entropy: 2.92 | Length: 10 | Freq: 1
+[2026-04-14 13:45:02] a.tribalfusion.com | Status: Normal | Entropy: 3.73 | Length: 18 | Freq: 1
+[2026-04-14 13:45:03] sync.srv.stackadapt.com | Status: Normal | Entropy: 3.61 | Length: 23 | Freq: 1
+[2026-04-14 13:45:03] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:45:03] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:45:03] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:45:03] sync.taboola.com | Status: Normal | Entropy: 3.33 | Length: 16 | Freq: 1
+[2026-04-14 13:45:03] px.ads.linkedin.com | Status: Normal (Allowlisted: *.linkedin.com) | Entropy: 3.68 | Length: 19 | Freq: 1
+[2026-04-14 13:45:03] c1.adform.net | Status: Normal | Entropy: 3.55 | Length: 13 | Freq: 1
+[2026-04-14 13:45:03] pixel-sync.sitescout.com | Status: Normal | Entropy: 3.77 | Length: 24 | Freq: 1
+[2026-04-14 13:45:03] j.mrpdata.net | Status: Normal | Entropy: 3.24 | Length: 13 | Freq: 1
+[2026-04-14 13:45:03] x.bidswitch.net | Status: Normal | Entropy: 3.51 | Length: 15 | Freq: 1
+[2026-04-14 13:45:03] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:45:03] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:45:03] pixelfnt-us.dsp-api.moloco.com | Status: Suspicious — confidence 85% | Entropy: 3.92 | Length: 30 | Freq: 1
+[2026-04-14 13:45:03] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:45:03] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:45:03] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:45:03] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:45:03] b1sync.outbrain.com | Status: Normal | Entropy: 3.72 | Length: 19 | Freq: 1
+[2026-04-14 13:45:03] secure.adnxs.com | Status: Normal | Entropy: 3.50 | Length: 16 | Freq: 1
+[2026-04-14 13:45:04] ad.turn.com | Status: Normal | Entropy: 3.28 | Length: 11 | Freq: 1
+[2026-04-14 13:45:04] cs.admanmedia.com | Status: Normal | Entropy: 3.18 | Length: 17 | Freq: 1
+[2026-04-14 13:45:04] t.adx.opera.com | Status: Normal | Entropy: 3.32 | Length: 15 | Freq: 1
+[2026-04-14 13:45:04] pixelfnt-us.dsp-api.moloco.com | Status: Suspicious — confidence 85% | Entropy: 3.92 | Length: 30 | Freq: 2
+[2026-04-14 13:45:04] b1sync.outbrain.com | Status: Normal | Entropy: 3.72 | Length: 19 | Freq: 2
+[2026-04-14 13:45:04] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:45:04] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:45:04] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:45:04] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:45:04] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:45:04] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:45:04] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:45:04] secure.adnxs.com | Status: Normal | Entropy: 3.50 | Length: 16 | Freq: 2
+[2026-04-14 13:45:04] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:45:04] csync.smartadserver.com | Status: Normal | Entropy: 3.56 | Length: 23 | Freq: 1
+[2026-04-14 13:45:04] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:45:04] ad.360yield.com | Status: Normal | Entropy: 3.64 | Length: 15 | Freq: 1
+[2026-04-14 13:45:04] (response packet) | Status: Spoofing (low_ttl (1s)) | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:45:05] visitor.omnitagjs.com | Status: Normal | Entropy: 3.56 | Length: 21 | Freq: 1
+[2026-04-14 13:45:05] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:45:05] onetag-sys.com | Status: Normal | Entropy: 3.52 | Length: 14 | Freq: 1
+[2026-04-14 13:45:05] onetag-sys.com | Status: Normal | Entropy: 3.52 | Length: 14 | Freq: 2
+[2026-04-14 13:45:05] u.openx.net | Status: Normal | Entropy: 2.91 | Length: 11 | Freq: 1
+[2026-04-14 13:45:05] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:45:05] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:45:05] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:45:05] csync.loopme.me | Status: Normal | Entropy: 3.24 | Length: 15 | Freq: 1
+[2026-04-14 13:45:05] match.prod.bidr.io | Status: Normal | Entropy: 3.46 | Length: 18 | Freq: 1
+[2026-04-14 13:45:05] csync.loopme.me | Status: Normal | Entropy: 3.24 | Length: 15 | Freq: 2
+[2026-04-14 13:45:05] match.prod.bidr.io | Status: Normal | Entropy: 3.46 | Length: 18 | Freq: 2
+[2026-04-14 13:45:05] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:45:05] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:45:05] sync.bfmio.com | Status: Normal | Entropy: 3.24 | Length: 14 | Freq: 1
+[2026-04-14 13:45:05] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:45:05] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:45:05] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:45:05] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:45:05] sync.ipredictive.com | Status: Normal | Entropy: 3.65 | Length: 20 | Freq: 1
+[2026-04-14 13:45:05] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:45:05] sync.ipredictive.com | Status: Normal | Entropy: 3.65 | Length: 20 | Freq: 2
+[2026-04-14 13:45:05] beachfront-match.dotomi.com | Status: Normal | Entropy: 3.71 | Length: 27 | Freq: 1
+[2026-04-14 13:45:05] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:45:05] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:45:06] sync.smartadserver.com | Status: Normal | Entropy: 3.57 | Length: 22 | Freq: 1
+[2026-04-14 13:45:06] creativecdn.com | Status: Normal | Entropy: 3.46 | Length: 15 | Freq: 1
+[2026-04-14 13:45:06] match.deepintent.com | Status: Normal | Entropy: 3.45 | Length: 20 | Freq: 1
+[2026-04-14 13:45:06] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:45:06] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:45:06] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:45:06] pixel.tapad.com | Status: Normal | Entropy: 3.51 | Length: 15 | Freq: 1
+[2026-04-14 13:45:06] cs.amx1.net | Status: Normal | Entropy: 3.28 | Length: 11 | Freq: 1
+[2026-04-14 13:45:06] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:45:06] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:45:06] ssp-sync.criteo.com | Status: Normal | Entropy: 3.54 | Length: 19 | Freq: 1
+[2026-04-14 13:45:06] ssp-sync.criteo.com | Status: Normal | Entropy: 3.54 | Length: 19 | Freq: 2
+[2026-04-14 13:45:06] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:45:06] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:45:06] c.bing.com | Status: Normal (Allowlisted: *.bing.com) | Entropy: 2.92 | Length: 10 | Freq: 1
+[2026-04-14 13:45:06] t.wayfair.com | Status: Normal | Entropy: 3.39 | Length: 13 | Freq: 1
+[2026-04-14 13:45:06] sync.search.spotxchange.com | Status: Normal | Entropy: 3.74 | Length: 27 | Freq: 1
+[2026-04-14 13:45:06] t.mookie1.com | Status: Normal | Entropy: 3.03 | Length: 13 | Freq: 1
+[2026-04-14 13:45:06] t.wayfair.com | Status: Normal | Entropy: 3.39 | Length: 13 | Freq: 2
+[2026-04-14 13:45:06] c.bing.com | Status: Normal (Allowlisted: *.bing.com) | Entropy: 2.92 | Length: 10 | Freq: 2
+[2026-04-14 13:45:06] sync.search.spotxchange.com | Status: Normal | Entropy: 3.74 | Length: 27 | Freq: 2
+[2026-04-14 13:45:07] t.mookie1.com | Status: Normal | Entropy: 3.03 | Length: 13 | Freq: 2
+[2026-04-14 13:45:07] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:45:07] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:45:07] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:45:07] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:45:07] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:45:07] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:45:07] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:45:07] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:45:07] cms.quantserve.com | Status: Normal | Entropy: 3.61 | Length: 18 | Freq: 1
+[2026-04-14 13:45:07] content.quantcount.com | Status: Normal | Entropy: 3.12 | Length: 22 | Freq: 1
+[2026-04-14 13:45:07] pixel.quantcount.com | Status: Normal | Entropy: 3.72 | Length: 20 | Freq: 1
+[2026-04-14 13:45:07] pixel.adsafeprotected.com | Status: Normal | Entropy: 3.76 | Length: 25 | Freq: 1
+[2026-04-14 13:45:07] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:45:07] pixel.quantserve.com | Status: Suspicious — confidence 85% | Entropy: 3.98 | Length: 20 | Freq: 1
+[2026-04-14 13:45:07] exch.quantcount.com | Status: Normal | Entropy: 3.47 | Length: 19 | Freq: 1
+[2026-04-14 13:45:07] content.quantcount.com | Status: Normal | Entropy: 3.12 | Length: 22 | Freq: 2
+[2026-04-14 13:45:07] pixel.quantcount.com | Status: Normal | Entropy: 3.72 | Length: 20 | Freq: 2
+[2026-04-14 13:45:07] (response packet) | Status: Spoofing (low_ttl (2s)) | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:45:08] (response packet) | Status: Spoofing (low_ttl (2s)) | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:45:08] pixel.quantserve.com | Status: Suspicious — confidence 85% | Entropy: 3.98 | Length: 20 | Freq: 2
+[2026-04-14 13:45:08] pixel.adsafeprotected.com | Status: Normal | Entropy: 3.76 | Length: 25 | Freq: 2
+[2026-04-14 13:45:08] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:45:08] e-jp.cmcd1.com | Status: Normal | Entropy: 3.18 | Length: 14 | Freq: 1
+[2026-04-14 13:45:08] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:45:08] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:45:08] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:45:08] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:45:08] dmp.brand-display.com | Status: Normal | Entropy: 3.78 | Length: 21 | Freq: 1
+[2026-04-14 13:45:08] id5-sync.com | Status: Normal | Entropy: 3.42 | Length: 12 | Freq: 1
+[2026-04-14 13:45:08] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:45:08] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:45:08] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:45:08] (response packet) | Status: Spoofing (low_ttl (2s)) | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:45:09] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:45:09] uss.xplosion.de | Status: Normal | Entropy: 3.32 | Length: 15 | Freq: 1
+[2026-04-14 13:45:09] uss.xplosion.de | Status: Normal | Entropy: 3.32 | Length: 15 | Freq: 2
+[2026-04-14 13:45:09] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:45:09] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:45:09] crb.kargo.com | Status: Normal | Entropy: 3.09 | Length: 13 | Freq: 1
+[2026-04-14 13:45:09] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:45:09] user-sync.fwmrm.net | Status: Normal | Entropy: 3.62 | Length: 19 | Freq: 1
+[2026-04-14 13:45:09] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:45:09] sync.targeting.unrulymedia.com | Status: Suspicious — confidence 85% | Entropy: 3.92 | Length: 30 | Freq: 1
+[2026-04-14 13:45:09] sync.targeting.unrulymedia.com | Status: Suspicious — confidence 85% | Entropy: 3.92 | Length: 30 | Freq: 2
+[2026-04-14 13:45:10] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:45:10] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:45:10] ced-ns.sascdn.com | Status: Normal | Entropy: 3.18 | Length: 17 | Freq: 1
+[2026-04-14 13:45:10] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:45:10] a.sportradarserving.com | Status: Normal | Entropy: 3.71 | Length: 23 | Freq: 1
+[2026-04-14 13:45:10] pool.liftdsp.com | Status: Normal | Entropy: 3.33 | Length: 16 | Freq: 1
+[2026-04-14 13:45:10] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:45:10] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:45:10] pixel-us-east.rubiconproject.com | Status: Suspicious — confidence 85% | Entropy: 4.05 | Length: 32 | Freq: 1
+[2026-04-14 13:45:10] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:45:10] thrtle.com | Status: Normal | Entropy: 3.12 | Length: 10 | Freq: 1
+[2026-04-14 13:45:10] prebid.adnxs.com | Status: Normal | Entropy: 3.75 | Length: 16 | Freq: 1
+[2026-04-14 13:45:11] prebid.adnxs.com | Status: Normal | Entropy: 3.75 | Length: 16 | Freq: 2
+[2026-04-14 13:45:11] thrtle.com | Status: Normal | Entropy: 3.12 | Length: 10 | Freq: 2
+[2026-04-14 13:45:11] aax-eu.amazon-adsystem.com | Status: Normal | Entropy: 3.69 | Length: 26 | Freq: 1
+[2026-04-14 13:45:11] s.amazon-adsystem.com | Status: Normal | Entropy: 3.52 | Length: 21 | Freq: 1
+[2026-04-14 13:45:11] id.rlcdn.com | Status: Normal | Entropy: 3.08 | Length: 12 | Freq: 1
+[2026-04-14 13:45:11] rtb.mfadsrvr.com | Status: Normal | Entropy: 3.45 | Length: 16 | Freq: 1
+[2026-04-14 13:45:11] ssbsync-global.smartadserver.com | Status: Suspicious — confidence 85% | Entropy: 3.90 | Length: 32 | Freq: 1
+[2026-04-14 13:45:11] aax-eu.amazon-adsystem.com | Status: Normal | Entropy: 3.69 | Length: 26 | Freq: 2
+[2026-04-14 13:45:11] id.rlcdn.com | Status: Normal | Entropy: 3.08 | Length: 12 | Freq: 2
+[2026-04-14 13:45:11] s.amazon-adsystem.com | Status: Normal | Entropy: 3.52 | Length: 21 | Freq: 2
+[2026-04-14 13:45:11] rtb.mfadsrvr.com | Status: Normal | Entropy: 3.45 | Length: 16 | Freq: 2
+[2026-04-14 13:45:11] ssbsync-global.smartadserver.com | Status: Suspicious — confidence 85% | Entropy: 3.90 | Length: 32 | Freq: 2
+[2026-04-14 13:45:12] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:45:12] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:45:12] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:45:12] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:45:12] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:45:12] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:45:12] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:45:12] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:45:12] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:45:12] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:45:12] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:45:12] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:45:12] ow.pubmatic.com | Status: Normal | Entropy: 3.37 | Length: 15 | Freq: 1
+[2026-04-14 13:45:12] ow.pubmatic.com | Status: Normal | Entropy: 3.37 | Length: 15 | Freq: 2
+[2026-04-14 13:45:12] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:45:19] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:45:19] ad.doubleclick.net | Status: Normal (Allowlisted: *.doubleclick.net) | Entropy: 3.61 | Length: 18 | Freq: 1
+[2026-04-14 13:45:19] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:45:19] rtb.adentifi.com | Status: Normal | Entropy: 3.62 | Length: 16 | Freq: 1
+[2026-04-14 13:45:19] rtb.adentifi.com | Status: Normal | Entropy: 3.62 | Length: 16 | Freq: 2
+[2026-04-14 13:45:19] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:45:19] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:45:19] www.googletagservices.com | Status: Normal | Entropy: 3.64 | Length: 25 | Freq: 1
+[2026-04-14 13:45:19] www.googletagservices.com | Status: Normal | Entropy: 3.64 | Length: 25 | Freq: 2
+[2026-04-14 13:45:19] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:45:19] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:45:19] he.lijit.com | Status: Normal | Entropy: 3.25 | Length: 12 | Freq: 1
+[2026-04-14 13:45:19] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:45:19] infyspringboard.onwingspan.com | Status: Suspicious — confidence 85% | Entropy: 3.80 | Length: 30 | Freq: 1
+[2026-04-14 13:45:19] infyspringboard.onwingspan.com | Status: Suspicious — confidence 85% | Entropy: 3.80 | Length: 30 | Freq: 2
+[2026-04-14 13:45:20] infyspringboard.onwingspan.com | Status: Suspicious — confidence 85% | Entropy: 3.80 | Length: 30 | Freq: 3
+[2026-04-14 13:45:20] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:45:20] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:45:20] www.nabu-gaildorf.de | Status: Normal | Entropy: 3.78 | Length: 20 | Freq: 1
+[2026-04-14 13:45:23] www.nabu-gaildorf.de | Status: Normal | Entropy: 3.78 | Length: 20 | Freq: 2
+[2026-04-14 13:45:23] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:45:23] challenges.cloudflare.com | Status: Normal (Allowlisted: *.cloudflare.com) | Entropy: 3.70 | Length: 25 | Freq: 1
+[2026-04-14 13:45:23] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:45:23] stun.l.google.com | Status: Normal (Allowlisted: *.google.com) | Entropy: 3.29 | Length: 17 | Freq: 1
+[2026-04-14 13:45:26] stun.l.google.com | Status: Normal (Allowlisted: *.google.com) | Entropy: 3.29 | Length: 17 | Freq: 2
+[2026-04-14 13:45:26] (response packet) | Status: Spoofing (txid_mismatch) | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:45:27] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:45:27] assets.jimstatic.com | Status: Normal | Entropy: 3.18 | Length: 20 | Freq: 1
+[2026-04-14 13:45:27] u.jimcdn.com | Status: Normal | Entropy: 3.08 | Length: 12 | Freq: 1
+[2026-04-14 13:45:27] image.jimcdn.com | Status: Normal | Entropy: 3.33 | Length: 16 | Freq: 1
+[2026-04-14 13:45:27] image.jimcdn.com | Status: Normal | Entropy: 3.33 | Length: 16 | Freq: 2
+[2026-04-14 13:45:27] u.jimcdn.com | Status: Normal | Entropy: 3.08 | Length: 12 | Freq: 2
+[2026-04-14 13:45:27] assets.jimstatic.com | Status: Normal | Entropy: 3.18 | Length: 20 | Freq: 2
+[2026-04-14 13:45:27] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:45:27] fonts.jimstatic.com | Status: Normal | Entropy: 3.37 | Length: 19 | Freq: 1
+[2026-04-14 13:45:27] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:45:27] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:45:27] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:45:27] ajax.googleapis.com | Status: Normal (Allowlisted: *.googleapis.com) | Entropy: 3.54 | Length: 19 | Freq: 1
+[2026-04-14 13:45:27] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:45:28] api.dmp.jimdo-server.com | Status: Normal | Entropy: 3.69 | Length: 24 | Freq: 1
+[2026-04-14 13:45:28] api.dmp.jimdo-server.com | Status: Normal | Entropy: 3.69 | Length: 24 | Freq: 2
+[2026-04-14 13:45:28] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:45:28] fonts.gstatic.com | Status: Normal (Allowlisted: *.gstatic.com) | Entropy: 3.34 | Length: 17 | Freq: 1
+[2026-04-14 13:45:28] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:45:28] www.nabu.de | Status: Normal | Entropy: 2.85 | Length: 11 | Freq: 1
+[2026-04-14 13:45:28] www.nabu.de | Status: Normal | Entropy: 2.85 | Length: 11 | Freq: 2
+[2026-04-14 13:45:28] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:45:37] waa-pa.clients6.google.com | Status: Normal (Allowlisted: *.google.com) | Entropy: 3.84 | Length: 26 | Freq: 1
+[2026-04-14 13:45:37] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:45:38] s.swiftypecdn.com | Status: Normal | Entropy: 3.73 | Length: 17 | Freq: 1
+[2026-04-14 13:45:38] (response packet) | Status: Normal | Entropy: 0.00 | Length: 0 | Freq: 0
+[2026-04-14 13:45:50] edge.skype.com | Status: Normal (Allowlisted: *.skype.com) | Entropy: 3.32 | Length: 14 | Freq: 1

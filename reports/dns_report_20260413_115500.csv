@@ -1,0 +1,79 @@
+timestamp,query,length,entropy,subdomains,ttl,freq,status,tag
+2026-04-13 11:50:51,mobile.events.data.microsoft.com,32,3.8042292966721747,4,,1,Normal (Allowlisted: *.microsoft.com),normal
+2026-04-13 11:50:51,,0,0.0,0,93,0,Normal,normal
+2026-04-13 11:51:14,main.vscode-cdn.net,19,3.5766176449086657,2,,1,Normal (Allowlisted: *.vscode-cdn.net),normal
+2026-04-13 11:51:14,,0,0.0,0,3458,0,Normal,normal
+2026-04-13 11:51:16,telemetry.individual.githubcopilot.com,38,4.02084355336225,3,,1,Normal (Allowlisted: *.githubcopilot.com),normal
+2026-04-13 11:51:16,,0,0.0,0,3092,0,Normal,normal
+2026-04-13 11:51:32,web.whatsapp.com,16,3.5,2,,1,Normal,normal
+2026-04-13 11:51:32,,0,0.0,0,2040,0,Normal,normal
+2026-04-13 11:51:33,self.events.data.microsoft.com,30,3.7395722619867224,4,,1,Normal (Allowlisted: *.microsoft.com),normal
+2026-04-13 11:51:33,,0,0.0,0,43,0,Normal,normal
+2026-04-13 11:51:46,alive.github.com,16,3.75,2,,1,Normal (Allowlisted: *.github.com),normal
+2026-04-13 11:51:46,,0,0.0,0,312,0,Normal,normal
+2026-04-13 11:51:49,accounts.google.com,19,3.366091329119192,2,,1,Normal (Allowlisted: *.google.com),normal
+2026-04-13 11:51:49,beacons.gcp.gvt2.com,20,3.6464393446710153,3,,1,Normal (Allowlisted: *.gcp.gvt2.com),normal
+2026-04-13 11:51:51,,0,0.0,0,278,0,Normal,normal
+2026-04-13 11:51:51,accounts.google.com,19,3.366091329119192,2,,2,Normal (Allowlisted: *.google.com),normal
+2026-04-13 11:51:51,,0,0.0,0,273,0,Normal,normal
+2026-04-13 11:51:51,,0,0.0,0,273,0,Normal,normal
+2026-04-13 11:51:51,mobile.events.data.microsoft.com,32,3.8042292966721747,4,,1,Normal (Allowlisted: *.microsoft.com),normal
+2026-04-13 11:51:52,,0,0.0,0,32,0,Normal,normal
+2026-04-13 11:51:52,api2.amplitude.com,18,3.614369445886757,2,,1,Normal,normal
+2026-04-13 11:51:52,collector.quillbot.com,22,3.3342094594480476,2,,1,Normal,normal
+2026-04-13 11:51:52,,0,0.0,0,49,0,Normal,normal
+2026-04-13 11:52:00,collector.quillbot.com,22,3.3342094594480476,2,,2,Normal,normal
+2026-04-13 11:52:00,,0,0.0,0,175,0,Normal,normal
+2026-04-13 11:52:00,v20.events.data.microsoft.com,29,3.8404025467025056,4,,1,Normal (Allowlisted: *.microsoft.com),normal
+2026-04-13 11:52:02,,0,0.0,0,19,0,Normal,normal
+2026-04-13 11:52:02,media-bom5-1.cdn.whatsapp.net,29,4.0472990984266435,3,,1,Suspicious — confidence 85%,suspicious
+2026-04-13 11:52:02,media-bom5-1.cdn.whatsapp.net,29,4.0472990984266435,3,,2,Suspicious — confidence 85%,suspicious
+2026-04-13 11:52:02,,0,0.0,0,2485,0,Normal,normal
+2026-04-13 11:52:02,,0,0.0,0,2485,0,Normal,normal
+2026-04-13 11:52:13,www.google.com,14,2.8423709931771093,2,,1,Normal (Allowlisted: *.google.com),normal
+2026-04-13 11:52:13,,0,0.0,0,235,0,Normal,normal
+2026-04-13 11:52:13,api.github.com,14,3.521640636343319,2,,1,Normal (Allowlisted: *.github.com),normal
+2026-04-13 11:52:13,api.github.com,14,3.521640636343319,2,,2,Normal (Allowlisted: *.github.com),normal
+2026-04-13 11:52:14,,0,0.0,0,56,0,Normal,normal
+2026-04-13 11:52:14,collector.github.com,20,3.546439344671015,2,,1,Normal (Allowlisted: *.github.com),normal
+2026-04-13 11:52:14,,0,0.0,0,3036,0,Normal,normal
+2026-04-13 11:52:15,ogads-pa.clients6.google.com,28,3.8248629576173565,3,,1,Normal (Allowlisted: *.google.com),normal
+2026-04-13 11:52:15,,0,0.0,0,221,0,Normal,normal
+2026-04-13 11:52:16,play.google.com,15,3.189898095464287,2,,1,Normal (Allowlisted: *.google.com),normal
+2026-04-13 11:52:16,,0,0.0,0,271,0,Normal,normal
+2026-04-13 11:52:19,ogs.google.com,14,2.7534343861887853,2,,1,Normal (Allowlisted: *.google.com),normal
+2026-04-13 11:52:19,,0,0.0,0,210,0,Normal,normal
+2026-04-13 11:52:19,ssl.gstatic.com,15,3.189898095464287,2,,1,Normal (Allowlisted: *.gstatic.com),normal
+2026-04-13 11:52:19,www.gstatic.com,15,3.189898095464287,2,,1,Normal (Allowlisted: *.gstatic.com),normal
+2026-04-13 11:52:41,,0,0.0,0,241,0,Normal,normal
+2026-04-13 11:52:41,,0,0.0,0,237,0,Normal,normal
+2026-04-13 11:52:41,web.whatsapp.com,16,3.5,2,,1,Normal,normal
+2026-04-13 11:52:41,,0,0.0,0,1971,0,Normal,normal
+2026-04-13 11:52:47,quillbot.com,12,3.2516291673878226,1,,1,Normal,normal
+2026-04-13 11:52:47,quillbot.com,12,3.2516291673878226,1,,2,Normal,normal
+2026-04-13 11:52:48,quillbot.com,12,3.2516291673878226,1,,3,Normal,normal
+2026-04-13 11:52:48,,0,0.0,0,29,0,Normal,normal
+2026-04-13 11:52:53,api2.amplitude.com,18,3.614369445886757,2,,1,Normal,normal
+2026-04-13 11:52:53,api2.amplitude.com,18,3.614369445886757,2,,2,Normal,normal
+2026-04-13 11:52:53,,0,0.0,0,45,0,Normal,normal
+2026-04-13 11:53:35,,0,0.0,0,45,0,Normal,normal
+2026-04-13 11:53:35,signaler-pa.clients6.google.com,31,3.8646983261669603,3,,1,Normal (Allowlisted: *.google.com),normal
+2026-04-13 11:53:35,signaler-pa.clients6.google.com,31,3.8646983261669603,3,,2,Normal (Allowlisted: *.google.com),normal
+2026-04-13 11:53:36,signaler-pa.clients6.google.com,31,3.8646983261669603,3,,3,Normal (Allowlisted: *.google.com),normal
+2026-04-13 11:53:36,,0,0.0,0,218,0,Normal,normal
+2026-04-13 11:53:37,api.github.com,14,3.521640636343319,2,,1,Normal (Allowlisted: *.github.com),normal
+2026-04-13 11:53:37,collector.github.com,20,3.546439344671015,2,,1,Normal (Allowlisted: *.github.com),normal
+2026-04-13 11:53:51,api.github.com,14,3.521640636343319,2,,1,Normal (Allowlisted: *.github.com),normal
+2026-04-13 11:53:51,collector.github.com,20,3.546439344671015,2,,1,Normal (Allowlisted: *.github.com),normal
+2026-04-13 11:53:51,,0,0.0,0,33,0,Normal,normal
+2026-04-13 11:53:51,,0,0.0,0,2953,0,Normal,normal
+2026-04-13 11:53:51,,0,0.0,0,33,0,Normal,normal
+2026-04-13 11:53:51,mobile.events.data.microsoft.com,32,3.8042292966721747,4,,1,Normal (Allowlisted: *.microsoft.com),normal
+2026-04-13 11:54:05,mobile.events.data.microsoft.com,32,3.8042292966721747,4,,1,Normal (Allowlisted: *.microsoft.com),normal
+2026-04-13 11:54:05,,0,0.0,0,31,0,Normal,normal
+2026-04-13 11:54:05,web.whatsapp.com,16,3.5,2,,1,Normal,normal
+2026-04-13 11:54:16,web.whatsapp.com,16,3.5,2,,1,Normal,normal
+2026-04-13 11:54:16,,0,0.0,0,1887,0,Normal,normal
+2026-04-13 11:54:16,,0,0.0,0,1887,0,Normal,normal
+2026-04-13 11:54:17,telemetry.individual.githubcopilot.com,38,4.02084355336225,3,,1,Normal (Allowlisted: *.githubcopilot.com),normal
+2026-04-13 11:54:51,,0,0.0,0,2912,0,Normal,normal

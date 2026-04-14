@@ -1,0 +1,61 @@
+# Smart DNS Analyzer — Allowlist
+# Lines starting with # are comments (ignored)
+# Supports wildcards: *.google.com matches all subdomains of google.com
+# =============================================================================
+
+# Google services
+*.google.com
+*.googleapis.com
+*.gstatic.com
+*.googleusercontent.com
+*.gcp.gvt2.com
+*.googlevideo.com
+*.googletagmanager.com
+*.googleadservices.com
+*.doubleclick.net
+*.ggpht.com
+
+# Microsoft / Office 365
+*.microsoft.com
+*.office.com
+*.office365.com
+*.live.com
+*.skype.com
+*.msftncsi.com
+*.msedge.net
+*.bing.com
+*.trafficmanager.net
+
+# Cloudflare / CDNs
+*.cloudflare.com
+*.cloudfront.net
+*.fastly.net
+*.akamai.net
+*.akamaiedge.net
+
+# Amazon / AWS
+*.amazon.com
+*.amazonaws.com
+*.awsstatic.com
+
+# Apple
+*.apple.com
+*.icloud.com
+
+# Developer tools
+*.github.com
+*.githubcopilot.com
+*.vscode-cdn.net
+*.npmjs.com
+
+# Monitoring / Analytics
+*.datadoghq.com
+
+# Social
+*.linkedin.com
+*.linkedin-ei.com
+*.facebook.com
+*.twitter.com
+
+# Security research sites (safe)
+*.malware-traffic-analysis.net

@@ -1,0 +1,9 @@
+# Smart DNS Analyzer — Blocklist
+# Domains here are ALWAYS blocked and trigger an alert + beep
+# Lines starting with # are comments
+# Supports wildcards: *.evil.com blocks all subdomains too
+# =============================================================================
+
+# Add your blocked domains below:
+# example: malware-c2.com
+# example: *.phishing-domain.net

@@ -1,0 +1,156 @@
+[2026-04-13 11:27:45] telemetry.individual.githubcopilot.com | Status: Normal (Allowlisted: *.githubcopilot.com) | Entropy: 4.02 | Length: 38 | Freq: 1
+[2026-04-13 11:27:51] login.live.com | Status: Normal (Allowlisted: *.live.com) | Entropy: 3.24 | Length: 14 | Freq: 1
+[2026-04-13 11:27:52] graph.microsoft.com | Status: Normal (Allowlisted: *.microsoft.com) | Entropy: 3.58 | Length: 19 | Freq: 1
+[2026-04-13 11:28:09] api.individual.githubcopilot.com | Status: Normal (Allowlisted: *.githubcopilot.com) | Entropy: 3.78 | Length: 32 | Freq: 1
+[2026-04-13 11:28:11] mobile.events.data.microsoft.com | Status: Normal (Allowlisted: *.microsoft.com) | Entropy: 3.80 | Length: 32 | Freq: 1
+[2026-04-13 11:28:24] telemetry.individual.githubcopilot.com | Status: Normal (Allowlisted: *.githubcopilot.com) | Entropy: 4.02 | Length: 38 | Freq: 1
+[2026-04-13 11:28:41] config.edge.skype.com | Status: Normal (Allowlisted: *.skype.com) | Entropy: 3.65 | Length: 21 | Freq: 1
+[2026-04-13 11:28:42] edge.microsoft.com | Status: Normal (Allowlisted: *.microsoft.com) | Entropy: 3.46 | Length: 18 | Freq: 1
+[2026-04-13 11:28:42] www.bing.com | Status: Normal (Allowlisted: *.bing.com) | Entropy: 3.02 | Length: 12 | Freq: 1
+[2026-04-13 11:28:42] substrate.office.com | Status: Normal (Allowlisted: *.office.com) | Entropy: 3.62 | Length: 20 | Freq: 1
+[2026-04-13 11:28:43] prod.rewardsplatform.microsoft.com | Status: Normal (Allowlisted: *.microsoft.com) | Entropy: 3.71 | Length: 34 | Freq: 1
+[2026-04-13 11:28:43] aks-prod-southeastasia.access-point.cloudmessaging.edge.microsoft.com | Status: Normal (Allowlisted: *.microsoft.com) | Entropy: 4.06 | Length: 69 | Freq: 1
+[2026-04-13 11:28:47] th.bing.com | Status: Normal (Allowlisted: *.bing.com) | Entropy: 3.28 | Length: 11 | Freq: 1
+[2026-04-13 11:28:48] c.bing.com | Status: Normal (Allowlisted: *.bing.com) | Entropy: 2.92 | Length: 10 | Freq: 1
+[2026-04-13 11:28:52] mobile.events.data.microsoft.com | Status: Normal (Allowlisted: *.microsoft.com) | Entropy: 3.80 | Length: 32 | Freq: 1
+[2026-04-13 11:28:56] mobile.events.data.microsoft.com | Status: Normal (Allowlisted: *.microsoft.com) | Entropy: 3.80 | Length: 32 | Freq: 2
+[2026-04-13 11:29:07] www.bing.com | Status: Normal (Allowlisted: *.bing.com) | Entropy: 3.02 | Length: 12 | Freq: 1
+[2026-04-13 11:29:10] substrate.office.com | Status: Normal (Allowlisted: *.office.com) | Entropy: 3.62 | Length: 20 | Freq: 1
+[2026-04-13 11:29:10] v10.events.data.microsoft.com | Status: Normal (Allowlisted: *.microsoft.com) | Entropy: 3.84 | Length: 29 | Freq: 1
+[2026-04-13 11:29:37] wpad.taild2c74c.ts.net | Status: Suspicious - confidence 0% | Entropy: 3.75 | Length: 22 | Freq: 6
+[2026-04-13 11:29:37] edge-consumer-static.azureedge.net | Status: Suspicious - confidence 74% | Entropy: 3.78 | Length: 34 | Freq: 1
+[2026-04-13 11:29:37] edge-consumer-static.azureedge.net | Status: Suspicious - confidence 74% | Entropy: 3.78 | Length: 34 | Freq: 2
+[2026-04-13 11:29:37] update.googleapis.com | Status: Normal (Allowlisted: *.googleapis.com) | Entropy: 3.69 | Length: 21 | Freq: 1
+[2026-04-13 11:29:39] substrate.office.com | Status: Normal (Allowlisted: *.office.com) | Entropy: 3.62 | Length: 20 | Freq: 1
+[2026-04-13 11:29:42] vscode-sync.trafficmanager.net | Status: Normal (Allowlisted: *.trafficmanager.net) | Entropy: 3.94 | Length: 30 | Freq: 1
+[2026-04-13 11:29:43] mobile.events.data.microsoft.com | Status: Normal (Allowlisted: *.microsoft.com) | Entropy: 3.80 | Length: 32 | Freq: 1
+[2026-04-13 11:30:44] mobile.events.data.microsoft.com | Status: Normal (Allowlisted: *.microsoft.com) | Entropy: 3.80 | Length: 32 | Freq: 1
+[2026-04-13 11:30:55] www.google.com | Status: Normal (Allowlisted: *.google.com) | Entropy: 2.84 | Length: 14 | Freq: 1
+[2026-04-13 11:30:55] www.google.com | Status: Normal (Allowlisted: *.google.com) | Entropy: 2.84 | Length: 14 | Freq: 2
+[2026-04-13 11:30:56] gemini.google.com | Status: Normal (Allowlisted: *.google.com) | Entropy: 3.06 | Length: 17 | Freq: 1
+[2026-04-13 11:30:56] www.gstatic.com | Status: Normal (Allowlisted: *.gstatic.com) | Entropy: 3.19 | Length: 15 | Freq: 1
+[2026-04-13 11:30:56] fonts.gstatic.com | Status: Normal (Allowlisted: *.gstatic.com) | Entropy: 3.34 | Length: 17 | Freq: 1
+[2026-04-13 11:30:57] gemini.google.com | Status: Normal (Allowlisted: *.google.com) | Entropy: 3.06 | Length: 17 | Freq: 2
+[2026-04-13 11:30:57] oauthaccountmanager.googleapis.com | Status: Normal (Allowlisted: *.googleapis.com) | Entropy: 3.77 | Length: 34 | Freq: 1
+[2026-04-13 11:30:57] www.gstatic.com | Status: Normal (Allowlisted: *.gstatic.com) | Entropy: 3.19 | Length: 15 | Freq: 2
+[2026-04-13 11:30:57] fonts.gstatic.com | Status: Normal (Allowlisted: *.gstatic.com) | Entropy: 3.34 | Length: 17 | Freq: 2
+[2026-04-13 11:30:57] oauthaccountmanager.googleapis.com | Status: Normal (Allowlisted: *.googleapis.com) | Entropy: 3.77 | Length: 34 | Freq: 2
+[2026-04-13 11:30:57] main.vscode-cdn.net | Status: Normal (Allowlisted: *.vscode-cdn.net) | Entropy: 3.58 | Length: 19 | Freq: 1
+[2026-04-13 11:30:57] main.vscode-cdn.net | Status: Normal (Allowlisted: *.vscode-cdn.net) | Entropy: 3.58 | Length: 19 | Freq: 2
+[2026-04-13 11:30:57] securetoken.googleapis.com | Status: Normal (Allowlisted: *.googleapis.com) | Entropy: 3.78 | Length: 26 | Freq: 1
+[2026-04-13 11:30:57] securetoken.googleapis.com | Status: Normal (Allowlisted: *.googleapis.com) | Entropy: 3.78 | Length: 26 | Freq: 2
+[2026-04-13 11:30:58] safebrowsing.google.com | Status: Normal (Allowlisted: *.google.com) | Entropy: 3.71 | Length: 23 | Freq: 1
+[2026-04-13 11:30:58] safebrowsing.google.com | Status: Normal (Allowlisted: *.google.com) | Entropy: 3.71 | Length: 23 | Freq: 2
+[2026-04-13 11:30:58] main.vscode-cdn.net | Status: Normal (Allowlisted: *.vscode-cdn.net) | Entropy: 3.58 | Length: 19 | Freq: 3
+[2026-04-13 11:30:58] securetoken.googleapis.com | Status: Normal (Allowlisted: *.googleapis.com) | Entropy: 3.78 | Length: 26 | Freq: 3
+[2026-04-13 11:30:58] accounts.google.com | Status: Normal (Allowlisted: *.google.com) | Entropy: 3.37 | Length: 19 | Freq: 1
+[2026-04-13 11:30:58] accounts.google.com | Status: Normal (Allowlisted: *.google.com) | Entropy: 3.37 | Length: 19 | Freq: 2
+[2026-04-13 11:31:00] securetoken.googleapis.com | Status: Normal (Allowlisted: *.googleapis.com) | Entropy: 3.78 | Length: 26 | Freq: 4
+[2026-04-13 11:31:00] lh3.googleusercontent.com | Status: Normal (Allowlisted: *.googleusercontent.com) | Entropy: 3.65 | Length: 25 | Freq: 1
+[2026-04-13 11:31:00] www.googletagmanager.com | Status: Normal (Allowlisted: *.googletagmanager.com) | Entropy: 3.41 | Length: 24 | Freq: 1
+[2026-04-13 11:31:01] ogads-pa.clients6.google.com | Status: Normal (Allowlisted: *.google.com) | Entropy: 3.82 | Length: 28 | Freq: 1
+[2026-04-13 11:31:01] waa-pa.clients6.google.com | Status: Normal (Allowlisted: *.google.com) | Entropy: 3.84 | Length: 26 | Freq: 1
+[2026-04-13 11:31:02] waa-pa.clients6.google.com | Status: Normal (Allowlisted: *.google.com) | Entropy: 3.84 | Length: 26 | Freq: 2
+[2026-04-13 11:31:02] waa-pa.clients6.google.com | Status: Normal (Allowlisted: *.google.com) | Entropy: 3.84 | Length: 26 | Freq: 3
+[2026-04-13 11:31:05] content-autofill.googleapis.com | Status: Normal (Allowlisted: *.googleapis.com) | Entropy: 3.82 | Length: 31 | Freq: 1
+[2026-04-13 11:31:05] signaler-pa.clients6.google.com | Status: Normal (Allowlisted: *.google.com) | Entropy: 3.86 | Length: 31 | Freq: 1
+[2026-04-13 11:31:06] content-autofill.googleapis.com | Status: Normal (Allowlisted: *.googleapis.com) | Entropy: 3.82 | Length: 31 | Freq: 2
+[2026-04-13 11:31:06] signaler-pa.clients6.google.com | Status: Normal (Allowlisted: *.google.com) | Entropy: 3.86 | Length: 31 | Freq: 2
+[2026-04-13 11:31:08] vscode-sync.trafficmanager.net | Status: Normal (Allowlisted: *.trafficmanager.net) | Entropy: 3.94 | Length: 30 | Freq: 1
+[2026-04-13 11:31:08] vscode-sync.trafficmanager.net | Status: Normal (Allowlisted: *.trafficmanager.net) | Entropy: 3.94 | Length: 30 | Freq: 2
+[2026-04-13 11:31:10] play.google.com | Status: Normal (Allowlisted: *.google.com) | Entropy: 3.19 | Length: 15 | Freq: 1
+[2026-04-13 11:31:11] analytics.google.com | Status: Normal (Allowlisted: *.google.com) | Entropy: 3.58 | Length: 20 | Freq: 1
+[2026-04-13 11:31:11] analytics.google.com | Status: Normal (Allowlisted: *.google.com) | Entropy: 3.58 | Length: 20 | Freq: 2
+[2026-04-13 11:31:35] edge.microsoft.com | Status: Normal (Allowlisted: *.microsoft.com) | Entropy: 3.46 | Length: 18 | Freq: 1
+[2026-04-13 11:31:51] mobile.events.data.microsoft.com | Status: Normal (Allowlisted: *.microsoft.com) | Entropy: 3.80 | Length: 32 | Freq: 1
+[2026-04-13 11:31:57] www.google.com | Status: Normal (Allowlisted: *.google.com) | Entropy: 2.84 | Length: 14 | Freq: 1
+[2026-04-13 11:32:08] beacons.gcp.gvt2.com | Status: Normal (Allowlisted: *.gcp.gvt2.com) | Entropy: 3.65 | Length: 20 | Freq: 1
+[2026-04-13 11:32:08] beacons.gcp.gvt2.com | Status: Normal (Allowlisted: *.gcp.gvt2.com) | Entropy: 3.65 | Length: 20 | Freq: 2
+[2026-04-13 11:32:51] mobile.events.data.microsoft.com | Status: Normal (Allowlisted: *.microsoft.com) | Entropy: 3.80 | Length: 32 | Freq: 1
+[2026-04-13 11:32:56] mobile.events.data.microsoft.com | Status: Normal (Allowlisted: *.microsoft.com) | Entropy: 3.80 | Length: 32 | Freq: 2
+[2026-04-13 11:33:28] gemini.google.com | Status: Normal (Allowlisted: *.google.com) | Entropy: 3.06 | Length: 17 | Freq: 1
+[2026-04-13 11:33:29] analytics.google.com | Status: Normal (Allowlisted: *.google.com) | Entropy: 3.58 | Length: 20 | Freq: 1
+[2026-04-13 11:33:29] analytics.google.com | Status: Normal (Allowlisted: *.google.com) | Entropy: 3.58 | Length: 20 | Freq: 2
+[2026-04-13 11:33:29] www.googletagmanager.com | Status: Normal (Allowlisted: *.googletagmanager.com) | Entropy: 3.41 | Length: 24 | Freq: 1
+[2026-04-13 11:33:42] edge.microsoft.com | Status: Normal (Allowlisted: *.microsoft.com) | Entropy: 3.46 | Length: 18 | Freq: 1
+[2026-04-13 11:34:05] accounts.google.com | Status: Normal (Allowlisted: *.google.com) | Entropy: 3.37 | Length: 19 | Freq: 1
+[2026-04-13 11:34:33] default.exp-tas.com | Status: Suspicious - confidence 85% | Entropy: 3.83 | Length: 19 | Freq: 1
+[2026-04-13 11:34:51] mobile.events.data.microsoft.com | Status: Normal (Allowlisted: *.microsoft.com) | Entropy: 3.80 | Length: 32 | Freq: 1
+[2026-04-13 11:35:06] play.google.com | Status: Normal (Allowlisted: *.google.com) | Entropy: 3.19 | Length: 15 | Freq: 1
+[2026-04-13 11:35:06] play.google.com | Status: Normal (Allowlisted: *.google.com) | Entropy: 3.19 | Length: 15 | Freq: 2
+[2026-04-13 11:35:07] safebrowsing.google.com | Status: Normal (Allowlisted: *.google.com) | Entropy: 3.71 | Length: 23 | Freq: 1
+[2026-04-13 11:35:07] safebrowsing.google.com | Status: Normal (Allowlisted: *.google.com) | Entropy: 3.71 | Length: 23 | Freq: 2
+[2026-04-13 11:35:08] play.google.com | Status: Normal (Allowlisted: *.google.com) | Entropy: 3.19 | Length: 15 | Freq: 3
+[2026-04-13 11:35:09] play.google.com | Status: Normal (Allowlisted: *.google.com) | Entropy: 3.19 | Length: 15 | Freq: 4
+[2026-04-13 11:35:12] play.google.com | Status: Normal (Allowlisted: *.google.com) | Entropy: 3.19 | Length: 15 | Freq: 5
+[2026-04-13 11:35:13] vscode-sync.trafficmanager.net | Status: Normal (Allowlisted: *.trafficmanager.net) | Entropy: 3.94 | Length: 30 | Freq: 1
+[2026-04-13 11:35:14] mobile.events.data.microsoft.com | Status: Normal (Allowlisted: *.microsoft.com) | Entropy: 3.80 | Length: 32 | Freq: 1
+[2026-04-13 11:35:24] avatars.githubusercontent.com | Status: Suspicious - confidence 85% | Entropy: 3.87 | Length: 29 | Freq: 1
+[2026-04-13 11:35:24] avatars.githubusercontent.com | Status: Suspicious - confidence 85% | Entropy: 3.87 | Length: 29 | Freq: 2
+[2026-04-13 11:35:24] user-images.githubusercontent.com | Status: Suspicious - confidence 85% | Entropy: 3.88 | Length: 33 | Freq: 1
+[2026-04-13 11:35:24] github-cloud.s3.amazonaws.com | Status: Normal (Allowlisted: *.amazonaws.com) | Entropy: 4.09 | Length: 29 | Freq: 1
+[2026-04-13 11:35:24] github-cloud.s3.amazonaws.com | Status: Normal (Allowlisted: *.amazonaws.com) | Entropy: 4.09 | Length: 29 | Freq: 2
+[2026-04-13 11:35:25] user-images.githubusercontent.com | Status: Suspicious - confidence 85% | Entropy: 3.88 | Length: 33 | Freq: 2
+[2026-04-13 11:35:25] github-cloud.s3.amazonaws.com | Status: Normal (Allowlisted: *.amazonaws.com) | Entropy: 4.09 | Length: 29 | Freq: 3
+[2026-04-13 11:35:27] user-images.githubusercontent.com | Status: Suspicious - confidence 85% | Entropy: 3.88 | Length: 33 | Freq: 3
+[2026-04-13 11:35:27] user-images.githubusercontent.com | Status: Suspicious - confidence 85% | Entropy: 3.88 | Length: 33 | Freq: 4
+[2026-04-13 11:35:27] github-cloud.s3.amazonaws.com | Status: Normal (Allowlisted: *.amazonaws.com) | Entropy: 4.09 | Length: 29 | Freq: 4
+[2026-04-13 11:35:28] signaler-pa.clients6.google.com | Status: Normal (Allowlisted: *.google.com) | Entropy: 3.86 | Length: 31 | Freq: 1
+[2026-04-13 11:35:37] content-autofill.googleapis.com | Status: Normal (Allowlisted: *.googleapis.com) | Entropy: 3.82 | Length: 31 | Freq: 1
+[2026-04-13 11:35:37] content-autofill.googleapis.com | Status: Normal (Allowlisted: *.googleapis.com) | Entropy: 3.82 | Length: 31 | Freq: 2
+[2026-04-13 11:35:37] alive.github.com | Status: Normal (Allowlisted: *.github.com) | Entropy: 3.75 | Length: 16 | Freq: 1
+[2026-04-13 11:35:38] alive.github.com | Status: Normal (Allowlisted: *.github.com) | Entropy: 3.75 | Length: 16 | Freq: 2
+[2026-04-13 11:35:42] collector.github.com | Status: Normal (Allowlisted: *.github.com) | Entropy: 3.55 | Length: 20 | Freq: 1
+[2026-04-13 11:35:42] collector.github.com | Status: Normal (Allowlisted: *.github.com) | Entropy: 3.55 | Length: 20 | Freq: 2
+[2026-04-13 11:35:54] mobile.events.data.microsoft.com | Status: Normal (Allowlisted: *.microsoft.com) | Entropy: 3.80 | Length: 32 | Freq: 1
+[2026-04-13 11:35:54] mobile.events.data.microsoft.com | Status: Normal (Allowlisted: *.microsoft.com) | Entropy: 3.80 | Length: 32 | Freq: 2
+[2026-04-13 11:36:05] main.vscode-cdn.net | Status: Normal (Allowlisted: *.vscode-cdn.net) | Entropy: 3.58 | Length: 19 | Freq: 1
+[2026-04-13 11:36:05] main.vscode-cdn.net | Status: Normal (Allowlisted: *.vscode-cdn.net) | Entropy: 3.58 | Length: 19 | Freq: 2
+[2026-04-13 11:36:25] self.events.data.microsoft.com | Status: Normal (Allowlisted: *.microsoft.com) | Entropy: 3.74 | Length: 30 | Freq: 1
+[2026-04-13 11:36:49] settings-win.data.microsoft.com | Status: Normal (Allowlisted: *.microsoft.com) | Entropy: 3.82 | Length: 31 | Freq: 1
+[2026-04-13 11:36:49] settings-win.data.microsoft.com | Status: Normal (Allowlisted: *.microsoft.com) | Entropy: 3.82 | Length: 31 | Freq: 2
+[2026-04-13 11:36:50] vscode-sync.trafficmanager.net | Status: Normal (Allowlisted: *.trafficmanager.net) | Entropy: 3.94 | Length: 30 | Freq: 1
+[2026-04-13 11:36:52] th.bing.com | Status: Normal (Allowlisted: *.bing.com) | Entropy: 3.28 | Length: 11 | Freq: 1
+[2026-04-13 11:36:52] th.bing.com | Status: Normal (Allowlisted: *.bing.com) | Entropy: 3.28 | Length: 11 | Freq: 2
+[2026-04-13 11:36:53] th.bing.com | Status: Normal (Allowlisted: *.bing.com) | Entropy: 3.28 | Length: 11 | Freq: 3
+[2026-04-13 11:36:55] th.bing.com | Status: Normal (Allowlisted: *.bing.com) | Entropy: 3.28 | Length: 11 | Freq: 4
+[2026-04-13 11:36:58] mobile.events.data.microsoft.com | Status: Normal (Allowlisted: *.microsoft.com) | Entropy: 3.80 | Length: 32 | Freq: 1
+[2026-04-13 11:36:58] www.google.com | Status: Normal (Allowlisted: *.google.com) | Entropy: 2.84 | Length: 14 | Freq: 1
+[2026-04-13 11:36:58] api.github.com | Status: Normal (Allowlisted: *.github.com) | Entropy: 3.52 | Length: 14 | Freq: 1
+[2026-04-13 11:36:59] collector.github.com | Status: Normal (Allowlisted: *.github.com) | Entropy: 3.55 | Length: 20 | Freq: 1
+[2026-04-13 11:37:04] v20.events.data.microsoft.com | Status: Normal (Allowlisted: *.microsoft.com) | Entropy: 3.84 | Length: 29 | Freq: 1
+[2026-04-13 11:37:04] v20.events.data.microsoft.com | Status: Normal (Allowlisted: *.microsoft.com) | Entropy: 3.84 | Length: 29 | Freq: 2
+[2026-04-13 11:37:35] nexus-websocket-a.intercom.io | Status: Suspicious - confidence 89% | Entropy: 3.94 | Length: 29 | Freq: 1
+[2026-04-13 11:37:37] beacons.gcp.gvt2.com | Status: Normal (Allowlisted: *.gcp.gvt2.com) | Entropy: 3.65 | Length: 20 | Freq: 1
+[2026-04-13 11:37:37] beacons.gcp.gvt2.com | Status: Normal (Allowlisted: *.gcp.gvt2.com) | Entropy: 3.65 | Length: 20 | Freq: 2
+[2026-04-13 11:38:51] mobile.events.data.microsoft.com | Status: Normal (Allowlisted: *.microsoft.com) | Entropy: 3.80 | Length: 32 | Freq: 1
+[2026-04-13 11:38:51] mobile.events.data.microsoft.com | Status: Normal (Allowlisted: *.microsoft.com) | Entropy: 3.80 | Length: 32 | Freq: 2
+[2026-04-13 11:39:08] edge.microsoft.com | Status: Normal (Allowlisted: *.microsoft.com) | Entropy: 3.46 | Length: 18 | Freq: 1
+[2026-04-13 11:39:09] vscode-sync.trafficmanager.net | Status: Normal (Allowlisted: *.trafficmanager.net) | Entropy: 3.94 | Length: 30 | Freq: 1
+[2026-04-13 11:39:09] vscode-sync.trafficmanager.net | Status: Normal (Allowlisted: *.trafficmanager.net) | Entropy: 3.94 | Length: 30 | Freq: 2
+[2026-04-13 11:39:28] api.github.com | Status: Normal (Allowlisted: *.github.com) | Entropy: 3.52 | Length: 14 | Freq: 1
+[2026-04-13 11:39:28] collector.github.com | Status: Normal (Allowlisted: *.github.com) | Entropy: 3.55 | Length: 20 | Freq: 1
+[2026-04-13 11:39:29] gemini.google.com | Status: Normal (Allowlisted: *.google.com) | Entropy: 3.06 | Length: 17 | Freq: 1
+[2026-04-13 11:39:29] gemini.google.com | Status: Normal (Allowlisted: *.google.com) | Entropy: 3.06 | Length: 17 | Freq: 2
+[2026-04-13 11:39:30] play.google.com | Status: Normal (Allowlisted: *.google.com) | Entropy: 3.19 | Length: 15 | Freq: 1
+[2026-04-13 11:39:30] play.google.com | Status: Normal (Allowlisted: *.google.com) | Entropy: 3.19 | Length: 15 | Freq: 2
+[2026-04-13 11:39:49] signaler-pa.clients6.google.com | Status: Normal (Allowlisted: *.google.com) | Entropy: 3.86 | Length: 31 | Freq: 1
+[2026-04-13 11:39:51] mobile.events.data.microsoft.com | Status: Normal (Allowlisted: *.microsoft.com) | Entropy: 3.80 | Length: 32 | Freq: 1
+[2026-04-13 11:40:57] westus-0.in.applicationinsights.azure.com | Status: Suspicious - confidence 91% | Entropy: 4.09 | Length: 41 | Freq: 1
+[2026-04-13 11:40:57] westus-0.in.applicationinsights.azure.com | Status: Suspicious - confidence 91% | Entropy: 4.09 | Length: 41 | Freq: 2
+[2026-04-13 11:41:10] main.vscode-cdn.net | Status: Normal (Allowlisted: *.vscode-cdn.net) | Entropy: 3.58 | Length: 19 | Freq: 1
+[2026-04-13 11:41:29] my.microsoftpersonalcontent.com | Status: Suspicious - confidence 67% | Entropy: 3.71 | Length: 31 | Freq: 1
+[2026-04-13 11:41:50] accounts.google.com | Status: Normal (Allowlisted: *.google.com) | Entropy: 3.37 | Length: 19 | Freq: 1
+[2026-04-13 11:41:51] mobile.events.data.microsoft.com | Status: Normal (Allowlisted: *.microsoft.com) | Entropy: 3.80 | Length: 32 | Freq: 1
+[2026-04-13 11:42:02] edge.skype.com | Status: Normal (Allowlisted: *.skype.com) | Entropy: 3.32 | Length: 14 | Freq: 1
+[2026-04-13 11:42:02] edge.skype.com | Status: Normal (Allowlisted: *.skype.com) | Entropy: 3.32 | Length: 14 | Freq: 2
+[2026-04-13 11:42:04] self.events.data.microsoft.com | Status: Normal (Allowlisted: *.microsoft.com) | Entropy: 3.74 | Length: 30 | Freq: 1
+[2026-04-13 11:42:51] mobile.events.data.microsoft.com | Status: Normal (Allowlisted: *.microsoft.com) | Entropy: 3.80 | Length: 32 | Freq: 1
+[2026-04-13 11:43:46] www.google.com | Status: Normal (Allowlisted: *.google.com) | Entropy: 2.84 | Length: 14 | Freq: 1
+[2026-04-13 11:43:50] signaler-pa.clients6.google.com | Status: Normal (Allowlisted: *.google.com) | Entropy: 3.86 | Length: 31 | Freq: 1
+[2026-04-13 11:44:11] vscode-sync.trafficmanager.net | Status: Normal (Allowlisted: *.trafficmanager.net) | Entropy: 3.94 | Length: 30 | Freq: 1
+[2026-04-13 11:44:11] vscode-sync.trafficmanager.net | Status: Normal (Allowlisted: *.trafficmanager.net) | Entropy: 3.94 | Length: 30 | Freq: 2
+[2026-04-13 11:44:14] mobile.events.data.microsoft.com | Status: Normal (Allowlisted: *.microsoft.com) | Entropy: 3.80 | Length: 32 | Freq: 1
+[2026-04-13 11:44:14] mobile.events.data.microsoft.com | Status: Normal (Allowlisted: *.microsoft.com) | Entropy: 3.80 | Length: 32 | Freq: 2
+2026-04-14 13:30:00,984 - GeoIP database loaded from data/GeoLite2-City.mmdb
+2026-04-14 17:02:36,197 - GeoIP database loaded from data/GeoLite2-City.mmdb

@@ -1,0 +1,1098 @@
+timestamp,query,length,entropy,subdomains,ttl,freq,status,tag
+2026-04-14 13:31:13,browser-intake-us5-datadoghq.com,32,4.241729296672174,1,,1,Suspicious — confidence 98%,suspicious
+2026-04-14 13:31:14,browser-intake-us5-datadoghq.com,32,4.241729296672174,1,,2,Suspicious — confidence 98%,suspicious
+2026-04-14 13:31:33,,0,0.0,0,289,0,Normal,normal
+2026-04-14 13:31:33,,0,0.0,0,289,0,Normal,normal
+2026-04-14 13:31:33,beacons.gcp.gvt2.com,20,3.6464393446710153,3,,1,Normal (Allowlisted: *.gcp.gvt2.com),normal
+2026-04-14 13:31:33,,0,0.0,0,115,0,Normal,normal
+2026-04-14 13:31:41,a-api.anthropic.com,19,3.4713544870139286,2,,1,Normal,normal
+2026-04-14 13:31:41,,0,0.0,0,20,0,Normal,normal
+2026-04-14 13:31:41,ogads-pa.clients6.google.com,28,3.8248629576173565,3,,1,Normal (Allowlisted: *.google.com),normal
+2026-04-14 13:31:41,,0,0.0,0,79,0,Normal,normal
+2026-04-14 13:31:42,ol-collector.quillbot.com,25,3.36488945173324,2,,1,Normal,normal
+2026-04-14 13:31:42,,0,0.0,0,287,0,Normal,normal
+2026-04-14 13:31:42,gemini.google.com,17,3.057476076289932,2,,1,Normal (Allowlisted: *.google.com),normal
+2026-04-14 13:31:42,,0,0.0,0,49,0,Normal,normal
+2026-04-14 13:31:42,safebrowsing.google.com,23,3.708132064658602,2,,1,Normal (Allowlisted: *.google.com),normal
+2026-04-14 13:31:42,safebrowsing.google.com,23,3.708132064658602,2,,2,Normal (Allowlisted: *.google.com),normal
+2026-04-14 13:31:42,,0,0.0,0,151,0,Normal,normal
+2026-04-14 13:31:42,www.gstatic.com,15,3.189898095464287,2,,1,Normal (Allowlisted: *.gstatic.com),normal
+2026-04-14 13:31:48,,0,0.0,0,112,0,Normal,normal
+2026-04-14 13:31:48,lh3.googleusercontent.com,25,3.653660689688185,2,,1,Normal (Allowlisted: *.googleusercontent.com),normal
+2026-04-14 13:31:48,www.googletagmanager.com,24,3.4072682296173893,2,,1,Normal (Allowlisted: *.googletagmanager.com),normal
+2026-04-14 13:31:48,waa-pa.clients6.google.com,26,3.8441065448145375,3,,1,Normal (Allowlisted: *.google.com),normal
+2026-04-14 13:31:48,,0,0.0,0,118,0,Normal,normal
+2026-04-14 13:31:48,,0,0.0,0,167,0,Normal,normal
+2026-04-14 13:31:48,,0,0.0,0,268,0,Normal,normal
+2026-04-14 13:31:48,mobile.events.data.microsoft.com,32,3.8042292966721747,4,,1,Normal (Allowlisted: *.microsoft.com),normal
+2026-04-14 13:31:49,,0,0.0,0,88,0,Normal,normal
+2026-04-14 13:31:49,fonts.gstatic.com,17,3.337175341123077,2,,1,Normal (Allowlisted: *.gstatic.com),normal
+2026-04-14 13:31:49,,0,0.0,0,151,0,Normal,normal
+2026-04-14 13:31:51,www.google-analytics.com,24,3.772055208874201,2,,1,Normal,normal
+2026-04-14 13:31:51,,0,0.0,0,246,0,Normal,normal
+2026-04-14 13:31:51,analytics.google.com,20,3.5841837197791886,2,,1,Normal (Allowlisted: *.google.com),normal
+2026-04-14 13:31:56,,0,0.0,0,164,0,Normal,normal
+2026-04-14 13:31:56,api2.amplitude.com,18,3.614369445886757,2,,1,Normal,normal
+2026-04-14 13:31:56,,0,0.0,0,20,0,Normal,normal
+2026-04-14 13:31:59,encrypted-tbn0.gstatic.com,26,3.979097891134804,2,,1,Normal (Allowlisted: *.gstatic.com),normal
+2026-04-14 13:31:59,,0,0.0,0,128,0,Normal,normal
+2026-04-14 13:32:01,ogs.google.com,14,2.7534343861887853,2,,1,Normal (Allowlisted: *.google.com),normal
+2026-04-14 13:32:01,ogs.google.com,14,2.7534343861887853,2,,2,Normal (Allowlisted: *.google.com),normal
+2026-04-14 13:32:02,collector.quillbot.com,22,3.3342094594480476,2,,1,Normal,normal
+2026-04-14 13:32:02,,0,0.0,0,150,0,Normal,normal
+2026-04-14 13:32:02,ogs.google.com,14,2.7534343861887853,2,,3,Normal (Allowlisted: *.google.com),normal
+2026-04-14 13:32:02,,0,0.0,0,32,0,Normal,normal
+2026-04-14 13:32:04,www.googleadservices.com,24,3.6572682296173897,2,,1,Normal (Allowlisted: *.googleadservices.com),normal
+2026-04-14 13:32:04,,0,0.0,0,136,0,Normal,normal
+2026-04-14 13:32:05,cacerts.digicert.com,20,3.4219280948873623,2,,1,Normal,normal
+2026-04-14 13:32:05,,0,0.0,0,194,0,Normal,normal
+2026-04-14 13:32:06,www.malware-test.com,20,3.4219280948873623,2,,1,Normal,normal
+2026-04-14 13:32:06,www.malware-test.com,20,3.4219280948873623,2,,2,Normal,normal
+2026-04-14 13:32:07,,0,0.0,0,300,0,Normal,normal
+2026-04-14 13:32:07,euob.primecirclenet.com,23,3.534219021180341,2,,1,Normal,normal
+2026-04-14 13:32:07,euob.primecirclenet.com,23,3.534219021180341,2,,2,Normal,normal
+2026-04-14 13:32:07,,0,0.0,0,60,0,Normal,normal
+2026-04-14 13:32:09,www.dynadot.com,15,3.189898095464287,2,,1,Normal,normal
+2026-04-14 13:32:09,www.dynadot.com,15,3.189898095464287,2,,2,Normal,normal
+2026-04-14 13:32:09,,0,0.0,0,300,0,Normal,normal
+2026-04-14 13:32:09,yfdpco4.com,11,3.095795255000934,1,,1,Normal,normal
+2026-04-14 13:32:10,yfdpco4.com,11,3.095795255000934,1,,2,Normal,normal
+2026-04-14 13:32:10,,0,0.0,0,300,0,Normal,normal
+2026-04-14 13:32:10,obseu.primecirclenet.com,24,3.636842188131012,2,,1,Normal,normal
+2026-04-14 13:32:10,,0,0.0,0,60,0,Normal,normal
+2026-04-14 13:32:11,l.cdn-fileserver.com,20,3.6841837197791887,2,,1,Normal,normal
+2026-04-14 13:32:11,l.cdn-fileserver.com,20,3.6841837197791887,2,,2,Normal,normal
+2026-04-14 13:32:11,realtimesearchresults.com,25,3.5434651896016467,1,,1,Normal,normal
+2026-04-14 13:32:11,realtimesearchresults.com,25,3.5434651896016467,1,,2,Normal,normal
+2026-04-14 13:32:12,,0,0.0,0,300,0,Normal,normal
+2026-04-14 13:32:12,realtimesearchresults.com,25,3.5434651896016467,1,,3,Normal,normal
+2026-04-14 13:32:14,realtimesearchresults.com,25,3.5434651896016467,1,,4,Normal,normal
+2026-04-14 13:32:18,realtimesearchresults.com,25,3.5434651896016467,1,,5,Normal,normal
+2026-04-14 13:32:21,,0,0.0,0,,0,Normal,normal
+2026-04-14 13:32:27,yfdpco1.com,11,3.095795255000934,1,,1,Normal,normal
+2026-04-14 13:32:27,yfdpco1.com,11,3.095795255000934,1,,2,Normal,normal
+2026-04-14 13:32:27,,0,0.0,0,300,0,Normal,normal
+2026-04-14 13:32:28,realtimesearchresults.com,25,3.5434651896016467,1,,2,Normal,normal
+2026-04-14 13:32:28,realtimesearchresults.com,25,3.5434651896016467,1,,3,Normal,normal
+2026-04-14 13:32:29,realtimesearchresults.com,25,3.5434651896016467,1,,3,Normal,normal
+2026-04-14 13:32:31,realtimesearchresults.com,25,3.5434651896016467,1,,4,Normal,normal
+2026-04-14 13:32:33,status.maxmind.com,18,3.4613201402110083,2,,1,Normal,normal
+2026-04-14 13:32:33,,0,0.0,0,840,0,Normal,normal
+2026-04-14 13:32:35,realtimesearchresults.com,25,3.5434651896016467,1,,5,Normal,normal
+2026-04-14 13:32:38,,0,0.0,0,,0,Normal,normal
+2026-04-14 13:32:44,cdn.givefreely.com,18,3.6835423624332306,2,,1,Normal,normal
+2026-04-14 13:32:44,,0,0.0,0,2393,0,Normal,normal
+2026-04-14 13:32:46,cacerts.digicert.com,20,3.4219280948873623,2,,1,Normal,normal
+2026-04-14 13:32:46,,0,0.0,0,153,0,Normal,normal
+2026-04-14 13:32:48,google.com,10,2.6464393446710153,1,,1,Normal,normal
+2026-04-14 13:32:48,google.com,10,2.6464393446710153,1,,2,Normal,normal
+2026-04-14 13:32:48,,0,0.0,0,36,0,Normal,normal
+2026-04-14 13:32:56,www.virustotal.com,18,3.5724312513221195,2,,1,Normal,normal
+2026-04-14 13:32:56,,0,0.0,0,300,0,Normal,normal
+2026-04-14 13:32:56,recaptcha.net,13,3.0850551027564768,1,,1,Normal,normal
+2026-04-14 13:32:56,fonts.googleapis.com,20,3.621928094887362,2,,1,Normal (Allowlisted: *.googleapis.com),normal
+2026-04-14 13:32:56,recaptcha.net,13,3.0850551027564768,1,,2,Normal,normal
+2026-04-14 13:32:56,fonts.googleapis.com,20,3.621928094887362,2,,2,Normal (Allowlisted: *.googleapis.com),normal
+2026-04-14 13:32:56,,0,0.0,0,128,0,Normal,normal
+2026-04-14 13:32:56,,0,0.0,0,300,0,Normal,normal
+2026-04-14 13:32:56,,0,0.0,0,128,0,Normal,normal
+2026-04-14 13:32:56,e2c7.gcp.gvt2.com,17,3.2927701939369904,3,,1,Normal (Allowlisted: *.gcp.gvt2.com),normal
+2026-04-14 13:32:56,,0,0.0,0,258,0,Normal,normal
+2026-04-14 13:33:01,content-autofill.googleapis.com,31,3.821311940104173,2,,1,Normal (Allowlisted: *.googleapis.com),normal
+2026-04-14 13:33:01,content-autofill.googleapis.com,31,3.821311940104173,2,,2,Normal (Allowlisted: *.googleapis.com),normal
+2026-04-14 13:33:01,,0,0.0,0,102,0,Normal,normal
+2026-04-14 13:33:01,,0,0.0,0,102,0,Normal,normal
+2026-04-14 13:33:23,encrypted-tbn2.gstatic.com,26,3.979097891134804,2,,1,Normal (Allowlisted: *.gstatic.com),normal
+2026-04-14 13:33:23,encrypted-tbn1.gstatic.com,26,3.979097891134804,2,,1,Normal (Allowlisted: *.gstatic.com),normal
+2026-04-14 13:33:26,encrypted-tbn3.gstatic.com,26,3.979097891134804,2,,1,Normal (Allowlisted: *.gstatic.com),normal
+2026-04-14 13:33:26,,0,0.0,0,177,0,Normal,normal
+2026-04-14 13:33:26,,0,0.0,0,177,0,Normal,normal
+2026-04-14 13:33:26,,0,0.0,0,199,0,Normal,normal
+2026-04-14 13:33:26,beacons.gvt2.com,16,3.625,2,,1,Normal,normal
+2026-04-14 13:33:28,,0,0.0,0,246,0,Normal,normal
+2026-04-14 13:33:28,ogs.google.com,14,2.7534343861887853,2,,1,Normal (Allowlisted: *.google.com),normal
+2026-04-14 13:33:28,,0,0.0,0,244,0,Normal,normal
+2026-04-14 13:33:31,www.kaggle.com,14,3.182005814760214,2,,1,Normal,normal
+2026-04-14 13:33:31,,0,0.0,0,2769,0,Normal,normal
+2026-04-14 13:33:31,accounts.google.com,19,3.366091329119192,2,,1,Normal (Allowlisted: *.google.com),normal
+2026-04-14 13:33:31,storage.googleapis.com,22,3.51602764126623,2,,1,Normal (Allowlisted: *.googleapis.com),normal
+2026-04-14 13:33:31,stats.g.doubleclick.net,23,3.7622673906514947,3,,1,Normal (Allowlisted: *.doubleclick.net),normal
+2026-04-14 13:33:31,apis.google.com,15,3.3232314287976203,2,,1,Normal (Allowlisted: *.google.com),normal
+2026-04-14 13:33:31,accounts.google.com,19,3.366091329119192,2,,2,Normal (Allowlisted: *.google.com),normal
+2026-04-14 13:33:31,,0,0.0,0,295,0,Normal,normal
+2026-04-14 13:33:31,,0,0.0,0,124,0,Normal,normal
+2026-04-14 13:33:31,stats.g.doubleclick.net,23,3.7622673906514947,3,,2,Normal (Allowlisted: *.doubleclick.net),normal
+2026-04-14 13:33:31,,0,0.0,0,209,0,Normal,normal
+2026-04-14 13:33:31,,0,0.0,0,89,0,Normal,normal
+2026-04-14 13:33:31,,0,0.0,0,295,0,Normal,normal
+2026-04-14 13:33:31,,0,0.0,0,209,0,Normal,normal
+2026-04-14 13:33:31,use.typekit.net,15,3.1395722619867223,2,,1,Normal,normal
+2026-04-14 13:33:32,use.typekit.net,15,3.1395722619867223,2,,2,Normal,normal
+2026-04-14 13:33:32,,0,0.0,0,31,0,Normal,normal
+2026-04-14 13:33:32,,0,0.0,0,31,0,Normal,normal
+2026-04-14 13:33:32,p.typekit.net,13,2.8731406795131336,2,,1,Normal,normal
+2026-04-14 13:33:37,p.typekit.net,13,2.8731406795131336,2,,2,Normal,normal
+2026-04-14 13:33:37,,0,0.0,0,35,0,Normal,normal
+2026-04-14 13:33:37,,0,0.0,0,35,0,Normal,normal
+2026-04-14 13:33:37,www.gstatic.com,15,3.189898095464287,2,,1,Normal (Allowlisted: *.gstatic.com),normal
+2026-04-14 13:33:37,,0,0.0,0,296,0,Normal,normal
+2026-04-14 13:33:37,www.kaggleusercontent.com,25,3.7834651896016465,2,,1,Normal,normal
+2026-04-14 13:33:37,www.kaggleusercontent.com,25,3.7834651896016465,2,,2,Normal,normal
+2026-04-14 13:33:48,,0,0.0,0,285,0,Normal,normal
+2026-04-14 13:33:48,mobile.events.data.microsoft.com,32,3.8042292966721747,4,,1,Normal (Allowlisted: *.microsoft.com),normal
+2026-04-14 13:33:48,mobile.events.data.microsoft.com,32,3.8042292966721747,4,,2,Normal (Allowlisted: *.microsoft.com),normal
+2026-04-14 13:33:49,,0,0.0,0,86,0,Normal,normal
+2026-04-14 13:33:49,,0,0.0,0,86,0,Normal,normal
+2026-04-14 13:33:49,analytics.kaggle.io,19,3.5766176449086653,2,,1,Normal,normal
+2026-04-14 13:33:49,,0,0.0,0,55,0,Normal,normal
+2026-04-14 13:33:49,www.google.com,14,2.8423709931771093,2,,1,Normal (Allowlisted: *.google.com),normal
+2026-04-14 13:33:49,,0,0.0,0,267,0,Normal,normal
+2026-04-14 13:33:53,lh3.googleusercontent.com,25,3.653660689688185,2,,1,Normal (Allowlisted: *.googleusercontent.com),normal
+2026-04-14 13:33:53,lh3.googleusercontent.com,25,3.653660689688185,2,,2,Normal (Allowlisted: *.googleusercontent.com),normal
+2026-04-14 13:33:53,,0,0.0,0,286,0,Normal,normal
+2026-04-14 13:33:56,,0,0.0,0,286,0,Normal,normal
+2026-04-14 13:33:56,accounts.youtube.com,20,3.4086949695628417,2,,1,Normal,normal
+2026-04-14 13:33:56,,0,0.0,0,195,0,Normal,normal
+2026-04-14 13:34:03,identitytoolkit.googleapis.com,30,3.719902579793958,2,,1,Normal (Allowlisted: *.googleapis.com),normal
+2026-04-14 13:34:03,,0,0.0,0,155,0,Normal,normal
+2026-04-14 13:34:05,firestore.googleapis.com,24,3.6368421881310122,2,,1,Normal (Allowlisted: *.googleapis.com),normal
+2026-04-14 13:34:05,,0,0.0,0,268,0,Normal,normal
+2026-04-14 13:34:05,beacons.gcp.gvt2.com,20,3.6464393446710153,3,,1,Normal (Allowlisted: *.gcp.gvt2.com),normal
+2026-04-14 13:34:05,,0,0.0,0,261,0,Normal,normal
+2026-04-14 13:34:05,e2c43.gcp.gvt2.com,18,3.419381945646371,3,,1,Normal (Allowlisted: *.gcp.gvt2.com),normal
+2026-04-14 13:34:05,e2c43.gcp.gvt2.com,18,3.419381945646371,3,,2,Normal (Allowlisted: *.gcp.gvt2.com),normal
+2026-04-14 13:34:05,,0,0.0,0,300,0,Normal,normal
+2026-04-14 13:34:14,v20.events.data.microsoft.com,29,3.8404025467025056,4,,1,Normal (Allowlisted: *.microsoft.com),normal
+2026-04-14 13:34:14,v20.events.data.microsoft.com,29,3.8404025467025056,4,,2,Normal (Allowlisted: *.microsoft.com),normal
+2026-04-14 13:34:14,,0,0.0,0,45,0,Normal,normal
+2026-04-14 13:34:33,,0,0.0,0,45,0,Normal,normal
+2026-04-14 13:34:33,status.maxmind.com,18,3.4613201402110083,2,,1,Normal,normal
+2026-04-14 13:34:33,play.google.com,15,3.189898095464287,2,,1,Normal (Allowlisted: *.google.com),normal
+2026-04-14 13:34:34,,0,0.0,0,720,0,Normal,normal
+2026-04-14 13:34:34,,0,0.0,0,243,0,Normal,normal
+2026-04-14 13:34:34,signaler-pa.clients6.google.com,31,3.8646983261669603,3,,1,Normal (Allowlisted: *.google.com),normal
+2026-04-14 13:34:45,,0,0.0,0,273,0,Normal,normal
+2026-04-14 13:34:45,vscode-sync.trafficmanager.net,30,3.939572261986722,2,,1,Normal (Allowlisted: *.trafficmanager.net),normal
+2026-04-14 13:34:45,,0,0.0,0,52,0,Normal,normal
+2026-04-14 13:34:50,westus-0.in.applicationinsights.azure.com,41,4.092325102644249,4,,1,Suspicious — confidence 91%,suspicious
+2026-04-14 13:34:50,westus-0.in.applicationinsights.azure.com,41,4.092325102644249,4,,2,Suspicious — confidence 91%,suspicious
+2026-04-14 13:34:51,,0,0.0,0,30,0,Normal,normal
+2026-04-14 13:34:51,main.vscode-cdn.net,19,3.5766176449086657,2,,1,Normal (Allowlisted: *.vscode-cdn.net),normal
+2026-04-14 13:34:51,,0,0.0,0,842,0,Normal,normal
+2026-04-14 13:34:51,wdcp.microsoft.com,18,3.419381945646371,2,,1,Normal (Allowlisted: *.microsoft.com),normal
+2026-04-14 13:34:59,,0,0.0,0,1555,0,Normal,normal
+2026-04-14 13:34:59,office15client.microsoft.com,28,3.610577243331643,2,,1,Normal (Allowlisted: *.microsoft.com),normal
+2026-04-14 13:34:59,,0,0.0,0,3338,0,Normal,normal
+2026-04-14 13:34:59,www.microsoft.com,17,3.1751231351134614,2,,1,Normal (Allowlisted: *.microsoft.com),normal
+2026-04-14 13:34:59,,0,0.0,0,3387,0,Normal,normal
+2026-04-14 13:34:59,nexus.officeapps.live.com,25,3.7834651896016465,3,,1,Normal (Allowlisted: *.live.com),normal
+2026-04-14 13:34:59,,0,0.0,0,2027,0,Normal,normal
+2026-04-14 13:35:00,roaming.svc.cloud.microsoft,27,3.8100810205217313,3,,1,Suspicious — confidence 85%,suspicious
+2026-04-14 13:35:07,,0,0.0,0,289,0,Normal,normal
+2026-04-14 13:35:07,login.live.com,14,3.2359263506290334,2,,1,Normal (Allowlisted: *.live.com),normal
+2026-04-14 13:35:07,,0,0.0,0,267,0,Normal,normal
+2026-04-14 13:35:07,www.terabox.com,15,3.323231428797621,2,,1,Normal,normal
+2026-04-14 13:35:07,,0,0.0,0,33,0,Normal,normal
+2026-04-14 13:35:07,login.live.com,14,3.2359263506290334,2,,2,Normal (Allowlisted: *.live.com),normal
+2026-04-14 13:35:08,,0,0.0,0,260,0,Normal,normal
+2026-04-14 13:35:08,odc.officeapps.live.com,23,3.555533151426996,3,,1,Normal (Allowlisted: *.live.com),normal
+2026-04-14 13:35:08,,0,0.0,0,355,0,Normal,normal
+2026-04-14 13:35:11,directory.services.live.com,27,3.5319412055466586,3,,1,Normal (Allowlisted: *.live.com),normal
+2026-04-14 13:35:11,,0,0.0,0,,0,Normal,normal
+2026-04-14 13:35:13,directory.services.live.com,27,3.5319412055466586,3,,2,Normal (Allowlisted: *.live.com),normal
+2026-04-14 13:35:13,,0,0.0,0,,0,Normal,normal
+2026-04-14 13:35:13,roaming.svc.cloud.microsoft,27,3.8100810205217313,3,,1,Suspicious — confidence 85%,suspicious
+2026-04-14 13:35:13,roaming.svc.cloud.microsoft,27,3.8100810205217313,3,,2,Suspicious — confidence 85%,suspicious
+2026-04-14 13:35:13,,0,0.0,0,275,0,Normal,normal
+2026-04-14 13:35:34,accounts.youtube.com,20,3.4086949695628417,2,,1,Normal,normal
+2026-04-14 13:35:34,,0,0.0,0,96,0,Normal,normal
+2026-04-14 13:35:36,fonts.gstatic.com,17,3.337175341123077,2,,1,Normal (Allowlisted: *.gstatic.com),normal
+2026-04-14 13:35:36,storage.googleapis.com,22,3.51602764126623,2,,1,Normal (Allowlisted: *.googleapis.com),normal
+2026-04-14 13:35:36,,0,0.0,0,222,0,Normal,normal
+2026-04-14 13:35:38,,0,0.0,0,298,0,Normal,normal
+2026-04-14 13:35:38,apis.google.com,15,3.3232314287976203,2,,1,Normal (Allowlisted: *.google.com),normal
+2026-04-14 13:35:38,,0,0.0,0,264,0,Normal,normal
+2026-04-14 13:35:38,analytics.kaggle.io,19,3.5766176449086653,2,,1,Normal,normal
+2026-04-14 13:35:40,,0,0.0,0,13,0,Normal,normal
+2026-04-14 13:35:40,www.googleadservices.com,24,3.6572682296173897,2,,1,Normal (Allowlisted: *.googleadservices.com),normal
+2026-04-14 13:35:40,,0,0.0,0,218,0,Normal,normal
+2026-04-14 13:35:44,ogads-pa.clients6.google.com,28,3.8248629576173565,3,,1,Normal (Allowlisted: *.google.com),normal
+2026-04-14 13:35:44,,0,0.0,0,138,0,Normal,normal
+2026-04-14 13:35:44,ogs.google.com,14,2.7534343861887853,2,,1,Normal (Allowlisted: *.google.com),normal
+2026-04-14 13:35:44,,0,0.0,0,108,0,Normal,normal
+2026-04-14 13:35:44,ssl.gstatic.com,15,3.189898095464287,2,,1,Normal (Allowlisted: *.gstatic.com),normal
+2026-04-14 13:35:44,ssl.gstatic.com,15,3.189898095464287,2,,2,Normal (Allowlisted: *.gstatic.com),normal
+2026-04-14 13:35:44,,0,0.0,0,167,0,Normal,normal
+2026-04-14 13:35:48,,0,0.0,0,167,0,Normal,normal
+2026-04-14 13:35:48,mobile.events.data.microsoft.com,32,3.8042292966721747,4,,1,Normal (Allowlisted: *.microsoft.com),normal
+2026-04-14 13:35:48,,0,0.0,0,84,0,Normal,normal
+2026-04-14 13:35:54,inputsuggestions.msdxcdn.microsoft.com,38,3.8232178953536478,3,,1,Normal (Allowlisted: *.microsoft.com),normal
+2026-04-14 13:35:54,inputsuggestions.msdxcdn.microsoft.com,38,3.8232178953536478,3,,2,Normal (Allowlisted: *.microsoft.com),normal
+2026-04-14 13:35:55,,0,0.0,0,2168,0,Normal,normal
+2026-04-14 13:35:56,gemini.google.com,17,3.057476076289932,2,,1,Normal (Allowlisted: *.google.com),normal
+2026-04-14 13:35:56,gemini.google.com,17,3.057476076289932,2,,2,Normal (Allowlisted: *.google.com),normal
+2026-04-14 13:35:56,,0,0.0,0,97,0,Normal,normal
+2026-04-14 13:35:59,wpad.taild2c74c.ts.net,22,3.754441845713344,3,,1,Normal,normal
+2026-04-14 13:35:59,wpad.taild2c74c.ts.net,22,3.754441845713344,3,,2,Normal,normal
+2026-04-14 13:36:00,wpad.taild2c74c.ts.net,22,3.754441845713344,3,,3,Normal,normal
+2026-04-14 13:36:02,wpad.taild2c74c.ts.net,22,3.754441845713344,3,,4,Normal,normal
+2026-04-14 13:36:02,wpad.taild2c74c.ts.net,22,3.754441845713344,3,,5,Normal,normal
+2026-04-14 13:36:02,wpad.taild2c74c.ts.net,22,3.754441845713344,3,,6,Suspicious — confidence 0%,suspicious
+2026-04-14 13:36:03,urlhaus.abuse.ch,16,3.202819531114783,2,,1,Normal,normal
+2026-04-14 13:36:03,urlhaus.abuse.ch,16,3.202819531114783,2,,2,Normal,normal
+2026-04-14 13:36:03,,0,0.0,0,3600,0,Normal,normal
+2026-04-14 13:36:03,safebrowsing.google.com,23,3.708132064658602,2,,1,Normal (Allowlisted: *.google.com),normal
+2026-04-14 13:36:03,,0,0.0,0,188,0,Normal,normal
+2026-04-14 13:36:03,www.googletagmanager.com,24,3.4072682296173893,2,,1,Normal (Allowlisted: *.googletagmanager.com),normal
+2026-04-14 13:36:03,,0,0.0,0,204,0,Normal,normal
+2026-04-14 13:36:10,claude.ai,9,2.94770277922009,1,,1,Normal,normal
+2026-04-14 13:36:10,claude.ai,9,2.94770277922009,1,,2,Normal,normal
+2026-04-14 13:36:10,,0,0.0,0,57,0,Normal,normal
+2026-04-14 13:36:12,browser-intake-us5-datadoghq.com,32,4.241729296672174,1,,1,Suspicious — confidence 98%,suspicious
+2026-04-14 13:36:13,,0,0.0,0,292,0,Normal,normal
+2026-04-14 13:36:17,0881db32dcdc46e2fb3e4d92105fc5c1.claudemcpcontent.com,53,4.2728371436431285,2,,1,Suspicious — confidence 100%,suspicious
+2026-04-14 13:36:17,,0,0.0,0,300,0,Normal,normal
+2026-04-14 13:36:18,assets.claude.ai,16,3.1556390622295662,2,,1,Normal,normal
+2026-04-14 13:36:18,,0,0.0,0,139,0,Normal,normal
+2026-04-14 13:36:20,a-api.anthropic.com,19,3.4713544870139286,2,,1,Normal,normal
+2026-04-14 13:36:20,,0,0.0,0,42,0,Normal,normal
+2026-04-14 13:36:21,wpad.taild2c74c.ts.net,22,3.754441845713344,3,,1,Normal,normal
+2026-04-14 13:36:21,wpad.taild2c74c.ts.net,22,3.754441845713344,3,,2,Normal,normal
+2026-04-14 13:36:22,wpad.taild2c74c.ts.net,22,3.754441845713344,3,,3,Normal,normal
+2026-04-14 13:36:24,wpad.taild2c74c.ts.net,22,3.754441845713344,3,,4,Normal,normal
+2026-04-14 13:36:24,wpad.taild2c74c.ts.net,22,3.754441845713344,3,,5,Normal,normal
+2026-04-14 13:36:33,wpad.taild2c74c.ts.net,22,3.754441845713344,3,,3,Normal,normal
+2026-04-14 13:36:33,status.maxmind.com,18,3.4613201402110083,2,,1,Normal,normal
+2026-04-14 13:36:47,,0,0.0,0,600,0,Normal,normal
+2026-04-14 13:36:47,ol-collector.quillbot.com,25,3.36488945173324,2,,1,Normal,normal
+2026-04-14 13:36:47,ol-collector.quillbot.com,25,3.36488945173324,2,,2,Normal,normal
+2026-04-14 13:36:48,,0,0.0,0,290,0,Normal,normal
+2026-04-14 13:36:48,mobile.events.data.microsoft.com,32,3.8042292966721747,4,,1,Normal (Allowlisted: *.microsoft.com),normal
+2026-04-14 13:36:48,mobile.events.data.microsoft.com,32,3.8042292966721747,4,,2,Normal (Allowlisted: *.microsoft.com),normal
+2026-04-14 13:36:48,,0,0.0,0,24,0,Normal,normal
+2026-04-14 13:36:48,,0,0.0,0,24,0,Normal,normal
+2026-04-14 13:36:48,agvsbg9xb3jsza.example.com,26,3.9790978911348045,2,,1,Suspicious — confidence 85%,suspicious
+2026-04-14 13:36:48,agvsbg9xb3jsza.example.com,26,3.9790978911348045,2,,2,Suspicious — confidence 85%,suspicious
+2026-04-14 13:37:09,,0,0.0,0,,0,Normal,normal
+2026-04-14 13:37:09,,0,0.0,0,,0,Normal,normal
+2026-04-14 13:37:09,agvsbg9xb3jsza.example.com,26,3.9790978911348045,2,,1,Suspicious — confidence 85%,suspicious
+2026-04-14 13:37:09,,0,0.0,0,,0,Normal,normal
+2026-04-14 13:37:09,dgvzdhrlc3r0zxn0.dnstest.io,27,4.060262039120378,2,,1,Suspicious — confidence 85%,suspicious
+2026-04-14 13:37:10,dgvzdhrlc3r0zxn0.dnstest.io,27,4.060262039120378,2,,2,Suspicious — confidence 85%,suspicious
+2026-04-14 13:37:10,dgvzdhrlc3r0zxn0.dnstest.io,27,4.060262039120378,2,,3,Suspicious — confidence 85%,suspicious
+2026-04-14 13:37:28,,0,0.0,0,,0,Normal,normal
+2026-04-14 13:37:28,wpad.taild2c74c.ts.net,22,3.754441845713344,3,,1,Normal,normal
+2026-04-14 13:37:29,wpad.taild2c74c.ts.net,22,3.754441845713344,3,,2,Normal,normal
+2026-04-14 13:37:29,wpad.taild2c74c.ts.net,22,3.754441845713344,3,,3,Normal,normal
+2026-04-14 13:37:31,wpad.taild2c74c.ts.net,22,3.754441845713344,3,,4,Normal,normal
+2026-04-14 13:37:31,wpad.taild2c74c.ts.net,22,3.754441845713344,3,,5,Normal,normal
+2026-04-14 13:37:34,wpad.taild2c74c.ts.net,22,3.754441845713344,3,,6,Suspicious — confidence 0%,suspicious
+2026-04-14 13:37:34,nexus-websocket-a.intercom.io,29,3.935398667466763,2,,1,Suspicious — confidence 89%,suspicious
+2026-04-14 13:37:35,,0,0.0,0,4,0,Spoofing (low_ttl (4s)),spoofing
+2026-04-14 13:37:35,gemini.google.com,17,3.057476076289932,2,,1,Normal (Allowlisted: *.google.com),normal
+2026-04-14 13:37:39,,0,0.0,0,297,0,Normal,normal
+2026-04-14 13:37:40,infyspringboard.onwingspan.com,30,3.802910079649727,2,,1,Suspicious — confidence 85%,suspicious
+2026-04-14 13:37:40,,0,0.0,0,3062,0,Normal,normal
+2026-04-14 13:37:40,ogs.google.com,14,2.7534343861887853,2,,1,Normal (Allowlisted: *.google.com),normal
+2026-04-14 13:37:40,,0,0.0,0,290,0,Normal,normal
+2026-04-14 13:37:43,cdn.cookielaw.org,17,3.572469458770136,2,,1,Normal,normal
+2026-04-14 13:37:43,,0,0.0,0,8,0,Normal,normal
+2026-04-14 13:37:44,content-autofill.googleapis.com,31,3.821311940104173,2,,1,Normal (Allowlisted: *.googleapis.com),normal
+2026-04-14 13:37:44,,0,0.0,0,117,0,Normal,normal
+2026-04-14 13:37:48,mobile.events.data.microsoft.com,32,3.8042292966721747,4,,1,Normal (Allowlisted: *.microsoft.com),normal
+2026-04-14 13:37:48,,0,0.0,0,82,0,Normal,normal
+2026-04-14 13:37:56,google.com,10,2.6464393446710153,1,,1,Normal,normal
+2026-04-14 13:37:56,fonts.googleapis.com,20,3.621928094887362,2,,1,Normal (Allowlisted: *.googleapis.com),normal
+2026-04-14 13:37:56,flagcdn.com,11,3.277613436819116,1,,1,Normal,normal
+2026-04-14 13:37:56,,0,0.0,0,26,0,Normal,normal
+2026-04-14 13:37:56,,0,0.0,0,126,0,Normal,normal
+2026-04-14 13:37:56,,0,0.0,0,275,0,Normal,normal
+2026-04-14 13:37:57,cdn.givefreely.com,18,3.6835423624332306,2,,1,Normal,normal
+2026-04-14 13:37:57,cdn.givefreely.com,18,3.6835423624332306,2,,2,Normal,normal
+2026-04-14 13:37:57,,0,0.0,0,2080,0,Normal,normal
+2026-04-14 13:38:02,accounts.youtube.com,20,3.4086949695628417,2,,1,Normal,normal
+2026-04-14 13:38:02,,0,0.0,0,247,0,Normal,normal
+2026-04-14 13:38:24,images.onwingspan.com,21,3.4992275417233567,2,,1,Normal,normal
+2026-04-14 13:38:24,images.onwingspan.com,21,3.4992275417233567,2,,2,Normal,normal
+2026-04-14 13:38:24,,0,0.0,0,3600,0,Normal,normal
+2026-04-14 13:38:33,status.maxmind.com,18,3.4613201402110083,2,,1,Normal,normal
+2026-04-14 13:38:33,status.maxmind.com,18,3.4613201402110083,2,,2,Normal,normal
+2026-04-14 13:38:33,,0,0.0,0,480,0,Normal,normal
+2026-04-14 13:38:34,beacons.gcp.gvt2.com,20,3.6464393446710153,3,,1,Normal (Allowlisted: *.gcp.gvt2.com),normal
+2026-04-14 13:38:34,,0,0.0,0,290,0,Normal,normal
+2026-04-14 13:38:42,infyspringboard.onwingspan.com,30,3.802910079649727,2,,1,Suspicious — confidence 85%,suspicious
+2026-04-14 13:38:43,infyspringboard.onwingspan.com,30,3.802910079649727,2,,2,Suspicious — confidence 85%,suspicious
+2026-04-14 13:38:51,,0,0.0,0,2999,0,Normal,normal
+2026-04-14 13:38:51,mobile.events.data.microsoft.com,32,3.8042292966721747,4,,1,Normal (Allowlisted: *.microsoft.com),normal
+2026-04-14 13:38:51,,0,0.0,0,19,0,Normal,normal
+2026-04-14 13:38:52,api2.amplitude.com,18,3.614369445886757,2,,1,Normal,normal
+2026-04-14 13:38:52,collector.quillbot.com,22,3.3342094594480476,2,,1,Normal,normal
+2026-04-14 13:39:01,,0,0.0,0,12,0,Normal,normal
+2026-04-14 13:39:01,,0,0.0,0,42,0,Normal,normal
+2026-04-14 13:39:01,google.com,10,2.6464393446710153,1,,1,Normal,normal
+2026-04-14 13:39:01,,0,0.0,0,259,0,Normal,normal
+2026-04-14 13:39:14,accounts.google.com,19,3.366091329119192,2,,1,Normal (Allowlisted: *.google.com),normal
+2026-04-14 13:39:14,accounts.google.com,19,3.366091329119192,2,,2,Normal (Allowlisted: *.google.com),normal
+2026-04-14 13:39:14,,0,0.0,0,250,0,Normal,normal
+2026-04-14 13:39:17,safebrowsing.google.com,23,3.708132064658602,2,,1,Normal (Allowlisted: *.google.com),normal
+2026-04-14 13:39:17,,0,0.0,0,292,0,Normal,normal
+2026-04-14 13:39:17,www.google.com,14,2.8423709931771093,2,,1,Normal (Allowlisted: *.google.com),normal
+2026-04-14 13:39:17,www.google.com,14,2.8423709931771093,2,,2,Normal (Allowlisted: *.google.com),normal
+2026-04-14 13:39:18,,0,0.0,0,236,0,Normal,normal
+2026-04-14 13:39:37,fonts.gstatic.com,17,3.337175341123077,2,,1,Normal (Allowlisted: *.gstatic.com),normal
+2026-04-14 13:39:38,fonts.gstatic.com,17,3.337175341123077,2,,2,Normal (Allowlisted: *.gstatic.com),normal
+2026-04-14 13:39:38,fonts.gstatic.com,17,3.337175341123077,2,,3,Normal (Allowlisted: *.gstatic.com),normal
+2026-04-14 13:39:41,fonts.gstatic.com,17,3.337175341123077,2,,4,Normal (Allowlisted: *.gstatic.com),normal
+2026-04-14 13:39:43,www.gstatic.com,15,3.189898095464287,2,,1,Normal (Allowlisted: *.gstatic.com),normal
+2026-04-14 13:39:43,www.gstatic.com,15,3.189898095464287,2,,2,Normal (Allowlisted: *.gstatic.com),normal
+2026-04-14 13:39:44,,0,0.0,0,278,0,Normal,normal
+2026-04-14 13:39:44,,0,0.0,0,277,0,Normal,normal
+2026-04-14 13:39:44,,0,0.0,0,278,0,Normal,normal
+2026-04-14 13:39:44,,0,0.0,0,228,0,Normal,normal
+2026-04-14 13:39:44,,0,0.0,0,228,0,Normal,normal
+2026-04-14 13:39:44,accounts.youtube.com,20,3.4086949695628417,2,,1,Normal,normal
+2026-04-14 13:39:44,,0,0.0,0,145,0,Normal,normal
+2026-04-14 13:39:44,play.google.com,15,3.189898095464287,2,,1,Normal (Allowlisted: *.google.com),normal
+2026-04-14 13:39:44,,0,0.0,0,230,0,Normal,normal
+2026-04-14 13:39:46,vscode-sync.trafficmanager.net,30,3.939572261986722,2,,1,Normal (Allowlisted: *.trafficmanager.net),normal
+2026-04-14 13:39:46,vscode-sync.trafficmanager.net,30,3.939572261986722,2,,2,Normal (Allowlisted: *.trafficmanager.net),normal
+2026-04-14 13:39:46,,0,0.0,0,57,0,Normal,normal
+2026-04-14 13:39:46,,0,0.0,0,57,0,Normal,normal
+2026-04-14 13:39:47,infyspringboard.onwingspan.com,30,3.802910079649727,2,,1,Suspicious — confidence 85%,suspicious
+2026-04-14 13:39:47,,0,0.0,0,2935,0,Normal,normal
+2026-04-14 13:39:49,content-autofill.googleapis.com,31,3.821311940104173,2,,1,Normal (Allowlisted: *.googleapis.com),normal
+2026-04-14 13:39:49,,0,0.0,0,290,0,Normal,normal
+2026-04-14 13:39:50,images-isb.onwingspan.com,25,3.673269689515108,2,,1,Normal,normal
+2026-04-14 13:39:50,images-isb.onwingspan.com,25,3.673269689515108,2,,2,Normal,normal
+2026-04-14 13:39:51,,0,0.0,0,3600,0,Normal,normal
+2026-04-14 13:39:51,,0,0.0,0,3600,0,Normal,normal
+2026-04-14 13:39:51,api-jobmarketplace.infyspringboard.onwingspan.com,49,4.212076049151931,3,,1,Suspicious — confidence 95%,suspicious
+2026-04-14 13:39:52,api-jobmarketplace.infyspringboard.onwingspan.com,49,4.212076049151931,3,,2,Suspicious — confidence 95%,suspicious
+2026-04-14 13:39:52,,0,0.0,0,75990,0,Normal,normal
+2026-04-14 13:39:52,,0,0.0,0,75990,0,Normal,normal
+2026-04-14 13:39:52,gameconfig.onwingspan.com,25,3.5434651896016462,2,,1,Normal,normal
+2026-04-14 13:39:52,,0,0.0,0,3600,0,Normal,normal
+2026-04-14 13:39:52,gameconfig.onwingspan.com,25,3.5434651896016462,2,,2,Normal,normal
+2026-04-14 13:39:52,,0,0.0,0,3600,0,Normal,normal
+2026-04-14 13:39:52,main.vscode-cdn.net,19,3.5766176449086657,2,,1,Normal (Allowlisted: *.vscode-cdn.net),normal
+2026-04-14 13:39:52,main.vscode-cdn.net,19,3.5766176449086657,2,,2,Normal (Allowlisted: *.vscode-cdn.net),normal
+2026-04-14 13:39:52,,0,0.0,0,540,0,Normal,normal
+2026-04-14 13:39:54,irisdatacontainer.blob.core.windows.net,39,3.7207983724865086,4,,1,Suspicious — confidence 85%,suspicious
+2026-04-14 13:39:54,images.onwingspan.com,21,3.4992275417233567,2,,1,Normal,normal
+2026-04-14 13:39:54,cdn2.percipio.com,17,3.337175341123077,2,,1,Normal,normal
+2026-04-14 13:40:03,irisdatacontainer.blob.core.windows.net,39,3.7207983724865086,4,,2,Suspicious — confidence 85%,suspicious
+2026-04-14 13:40:04,images.onwingspan.com,21,3.4992275417233567,2,,2,Normal,normal
+2026-04-14 13:40:04,cdn2.percipio.com,17,3.337175341123077,2,,2,Normal,normal
+2026-04-14 13:40:04,,0,0.0,0,130,0,Normal,normal
+2026-04-14 13:40:04,,0,0.0,0,60,0,Normal,normal
+2026-04-14 13:40:04,,0,0.0,0,3510,0,Normal,normal
+2026-04-14 13:40:04,,0,0.0,0,130,0,Normal,normal
+2026-04-14 13:40:04,,0,0.0,0,60,0,Normal,normal
+2026-04-14 13:40:04,,0,0.0,0,3510,0,Normal,normal
+2026-04-14 13:40:04,o15.officeredir.microsoft.com,29,3.4999093404636357,3,,1,Normal (Allowlisted: *.microsoft.com),normal
+2026-04-14 13:40:04,,0,0.0,0,2930,0,Normal,normal
+2026-04-14 13:40:04,support.content.office.microsoft.com,36,3.551462154039801,4,,1,Normal (Allowlisted: *.microsoft.com),normal
+2026-04-14 13:40:04,,0,0.0,0,2032,0,Normal,normal
+2026-04-14 13:40:05,www.microsoft.com,17,3.1751231351134614,2,,1,Normal (Allowlisted: *.microsoft.com),normal
+2026-04-14 13:40:06,www.microsoft.com,17,3.1751231351134614,2,,2,Normal (Allowlisted: *.microsoft.com),normal
+2026-04-14 13:40:06,,0,0.0,0,3080,0,Normal,normal
+2026-04-14 13:40:12,,0,0.0,0,3080,0,Normal,normal
+2026-04-14 13:40:12,signaler-pa.clients6.google.com,31,3.8646983261669603,3,,1,Normal (Allowlisted: *.google.com),normal
+2026-04-14 13:40:14,,0,0.0,0,233,0,Normal,normal
+2026-04-14 13:40:14,ssl.gstatic.com,15,3.189898095464287,2,,1,Normal (Allowlisted: *.gstatic.com),normal
+2026-04-14 13:40:14,,0,0.0,0,195,0,Normal,normal
+2026-04-14 13:40:22,claude.ai,9,2.94770277922009,1,,1,Normal,normal
+2026-04-14 13:40:22,,0,0.0,0,105,0,Normal,normal
+2026-04-14 13:40:23,a-api.anthropic.com,19,3.4713544870139286,2,,1,Normal,normal
+2026-04-14 13:40:23,,0,0.0,0,99,0,Normal,normal
+2026-04-14 13:40:27,waa-pa.clients6.google.com,26,3.8441065448145375,3,,1,Normal (Allowlisted: *.google.com),normal
+2026-04-14 13:40:27,,0,0.0,0,46,0,Normal,normal
+2026-04-14 13:40:27,mail.google.com,15,3.0565647621309537,2,,1,Normal (Allowlisted: *.google.com),normal
+2026-04-14 13:40:31,,0,0.0,0,250,0,Normal,normal
+2026-04-14 13:40:31,ogs.google.com,14,2.7534343861887853,2,,1,Normal (Allowlisted: *.google.com),normal
+2026-04-14 13:40:31,,0,0.0,0,119,0,Normal,normal
+2026-04-14 13:40:32,lh3.googleusercontent.com,25,3.653660689688185,2,,1,Normal (Allowlisted: *.googleusercontent.com),normal
+2026-04-14 13:40:32,lh3.googleusercontent.com,25,3.653660689688185,2,,2,Normal (Allowlisted: *.googleusercontent.com),normal
+2026-04-14 13:40:32,,0,0.0,0,185,0,Normal,normal
+2026-04-14 13:40:33,status.maxmind.com,18,3.4613201402110083,2,,1,Normal,normal
+2026-04-14 13:40:33,,0,0.0,0,360,0,Normal,normal
+2026-04-14 13:40:36,ogads-pa.clients6.google.com,28,3.8248629576173565,3,,1,Normal (Allowlisted: *.google.com),normal
+2026-04-14 13:40:36,,0,0.0,0,140,0,Normal,normal
+2026-04-14 13:40:36,fonts.googleapis.com,20,3.621928094887362,2,,1,Normal (Allowlisted: *.googleapis.com),normal
+2026-04-14 13:40:36,,0,0.0,0,264,0,Normal,normal
+2026-04-14 13:40:36,appsgenaiserver-pa.clients6.google.com,38,3.928481053248384,3,,1,Normal (Allowlisted: *.google.com),normal
+2026-04-14 13:40:37,,0,0.0,0,196,0,Normal,normal
+2026-04-14 13:40:37,analytics.google.com,20,3.5841837197791886,2,,1,Normal (Allowlisted: *.google.com),normal
+2026-04-14 13:40:37,stats.g.doubleclick.net,23,3.7622673906514947,3,,1,Normal (Allowlisted: *.doubleclick.net),normal
+2026-04-14 13:40:38,www.google.co.in,16,2.98345859334435,3,,1,Normal,normal
+2026-04-14 13:40:38,,0,0.0,0,234,0,Normal,normal
+2026-04-14 13:40:38,,0,0.0,0,81,0,Normal,normal
+2026-04-14 13:40:38,,0,0.0,0,228,0,Normal,normal
+2026-04-14 13:40:38,appsgrowthpromo-pa.clients6.google.com,38,3.957939355321114,3,,1,Normal (Allowlisted: *.google.com),normal
+2026-04-14 13:40:38,,0,0.0,0,283,0,Normal,normal
+2026-04-14 13:40:39,addons-pa.clients6.google.com,29,3.866433150225384,3,,1,Normal (Allowlisted: *.google.com),normal
+2026-04-14 13:40:39,,0,0.0,0,186,0,Normal,normal
+2026-04-14 13:40:40,taskassist-pa.clients6.google.com,33,3.813206528961766,3,,1,Normal (Allowlisted: *.google.com),normal
+2026-04-14 13:40:40,taskassist-pa.clients6.google.com,33,3.813206528961766,3,,2,Normal (Allowlisted: *.google.com),normal
+2026-04-14 13:40:40,,0,0.0,0,20,0,Normal,normal
+2026-04-14 13:40:41,,0,0.0,0,20,0,Normal,normal
+2026-04-14 13:40:42,www.google-analytics.com,24,3.772055208874201,2,,1,Normal,normal
+2026-04-14 13:40:42,,0,0.0,0,11,0,Normal,normal
+2026-04-14 13:40:42,mail-ads.google.com,19,3.471354487013929,2,,1,Normal (Allowlisted: *.google.com),normal
+2026-04-14 13:40:42,,0,0.0,0,50,0,Normal,normal
+2026-04-14 13:40:42,peoplestackwebexperiments-pa.clients6.google.com,48,4.047995052579128,3,,1,Normal (Allowlisted: *.google.com),normal
+2026-04-14 13:40:42,,0,0.0,0,172,0,Normal,normal
+2026-04-14 13:40:42,peoplestack-pa.clients6.google.com,34,3.8221819586428727,3,,1,Normal (Allowlisted: *.google.com),normal
+2026-04-14 13:40:42,,0,0.0,0,248,0,Normal,normal
+2026-04-14 13:40:42,contacts.google.com,19,3.260828171224455,2,,1,Normal (Allowlisted: *.google.com),normal
+2026-04-14 13:40:46,,0,0.0,0,195,0,Normal,normal
+2026-04-14 13:40:46,dgvzdhrlc3r0zxn0.dnstest.io,27,4.060262039120378,2,,1,Suspicious — confidence 85%,suspicious
+2026-04-14 13:40:47,,0,0.0,0,,0,Normal,normal
+2026-04-14 13:40:48,mobile.events.data.microsoft.com,32,3.8042292966721747,4,,1,Normal (Allowlisted: *.microsoft.com),normal
+2026-04-14 13:40:48,,0,0.0,0,20,0,Normal,normal
+2026-04-14 13:40:50,google-ohttp-relay-safebrowsing.fastly-edge.com,47,4.1452520227940735,2,,1,Suspicious — confidence 98%,suspicious
+2026-04-14 13:40:50,,0,0.0,0,5,0,Normal,normal
+2026-04-14 13:40:51,dgvzdhrlc3r0zxn0.dnstest.io,27,4.060262039120378,2,,2,Suspicious — confidence 85%,suspicious
+2026-04-14 13:40:51,,0,0.0,0,,0,Normal,normal
+2026-04-14 13:41:00,workspaceui-pa.clients6.google.com,34,4.079678649882975,3,,1,Normal (Allowlisted: *.google.com),normal
+2026-04-14 13:41:00,,0,0.0,0,74,0,Normal,normal
+2026-04-14 13:41:01,clients6.google.com,19,3.4713544870139295,2,,1,Normal (Allowlisted: *.google.com),normal
+2026-04-14 13:41:01,,0,0.0,0,69,0,Normal,normal
+2026-04-14 13:41:04,ci3.googleusercontent.com,25,3.6234651896016468,2,,1,Normal (Allowlisted: *.googleusercontent.com),normal
+2026-04-14 13:41:04,ci3.googleusercontent.com,25,3.6234651896016468,2,,2,Normal (Allowlisted: *.googleusercontent.com),normal
+2026-04-14 13:41:09,,0,0.0,0,56,0,Normal,normal
+2026-04-14 13:41:09,,0,0.0,0,56,0,Normal,normal
+2026-04-14 13:41:09,self.events.data.microsoft.com,30,3.7395722619867224,4,,1,Normal (Allowlisted: *.microsoft.com),normal
+2026-04-14 13:41:09,,0,0.0,0,115,0,Normal,normal
+2026-04-14 13:41:09,config.teams.microsoft.com,26,3.5364142371222305,3,,1,Normal (Allowlisted: *.microsoft.com),normal
+2026-04-14 13:41:09,,0,0.0,0,2934,0,Normal,normal
+2026-04-14 13:41:17,mobile.events.data.microsoft.com,32,3.8042292966721747,4,,1,Normal (Allowlisted: *.microsoft.com),normal
+2026-04-14 13:41:17,,0,0.0,0,109,0,Normal,normal
+2026-04-14 13:41:18,marcom.infosys.com,18,3.30827083453526,2,,1,Normal,normal
+2026-04-14 13:41:18,,0,0.0,0,36566,0,Normal,normal
+2026-04-14 13:41:19,oauthaccountmanager.googleapis.com,34,3.7719023720385585,2,,1,Normal (Allowlisted: *.googleapis.com),normal
+2026-04-14 13:41:19,,0,0.0,0,212,0,Normal,normal
+2026-04-14 13:41:19,apc01.safelinks.protection.outlook.com,38,3.957939355321114,4,,1,Suspicious — confidence 85%,suspicious
+2026-04-14 13:41:19,,0,0.0,0,224,0,Normal,normal
+2026-04-14 13:41:20,safebrowsing.google.com,23,3.708132064658602,2,,1,Normal (Allowlisted: *.google.com),normal
+2026-04-14 13:41:20,,0,0.0,0,169,0,Normal,normal
+2026-04-14 13:41:20,infyspringboard.onwingspan.com,30,3.802910079649727,2,,1,Suspicious — confidence 85%,suspicious
+2026-04-14 13:41:20,,0,0.0,0,2842,0,Normal,normal
+2026-04-14 13:41:25,cdn.jsdelivr.net,16,3.5,2,,1,Normal,normal
+2026-04-14 13:41:25,,0,0.0,0,103,0,Normal,normal
+2026-04-14 13:41:26,cdnjs.cloudflare.com,20,3.6841837197791887,2,,1,Normal (Allowlisted: *.cloudflare.com),normal
+2026-04-14 13:41:26,,0,0.0,0,116,0,Normal,normal
+2026-04-14 13:41:34,images.onwingspan.com,21,3.4992275417233567,2,,1,Normal,normal
+2026-04-14 13:41:34,,0,0.0,0,3410,0,Normal,normal
+2026-04-14 13:41:49,images-isb.onwingspan.com,25,3.673269689515108,2,,1,Normal,normal
+2026-04-14 13:41:49,,0,0.0,0,3482,0,Normal,normal
+2026-04-14 13:41:59,api-jobmarketplace.infyspringboard.onwingspan.com,49,4.212076049151931,3,,1,Suspicious — confidence 95%,suspicious
+2026-04-14 13:41:59,,0,0.0,0,75863,0,Normal,normal
+2026-04-14 13:42:00,img-c.udemycdn.com,18,3.419381945646371,2,,1,Normal,normal
+2026-04-14 13:42:00,storage.googleapis.com,22,3.51602764126623,2,,1,Normal (Allowlisted: *.googleapis.com),normal
+2026-04-14 13:42:23,,0,0.0,0,262,0,Normal,normal
+2026-04-14 13:42:23,,0,0.0,0,213,0,Normal,normal
+2026-04-14 13:42:23,ol-collector.quillbot.com,25,3.36488945173324,2,,1,Normal,normal
+2026-04-14 13:42:23,,0,0.0,0,252,0,Normal,normal
+2026-04-14 13:42:25,roaming.svc.cloud.microsoft,27,3.8100810205217313,3,,1,Suspicious — confidence 85%,suspicious
+2026-04-14 13:42:25,,0,0.0,0,441,0,Normal,normal
+2026-04-14 13:42:46,infyspringboard.onwingspan.com,30,3.802910079649727,2,,1,Suspicious — confidence 85%,suspicious
+2026-04-14 13:42:47,,0,0.0,0,2756,0,Normal,normal
+2026-04-14 13:42:48,mobile.events.data.microsoft.com,32,3.8042292966721747,4,,1,Normal (Allowlisted: *.microsoft.com),normal
+2026-04-14 13:42:48,,0,0.0,0,18,0,Normal,normal
+2026-04-14 13:42:48,stream.quillbot.com,19,3.7216117239699003,2,,1,Normal,normal
+2026-04-14 13:42:48,,0,0.0,0,292,0,Normal,normal
+2026-04-14 13:42:50,info-pages.000webhostapp.com,28,4.012188403968661,2,,1,Suspicious — confidence 85%,suspicious
+2026-04-14 13:42:51,info-pages.000webhostapp.com,28,4.012188403968661,2,,2,Suspicious — confidence 85%,suspicious
+2026-04-14 13:42:51,info-pages.000webhostapp.com,28,4.012188403968661,2,,3,Suspicious — confidence 85%,suspicious
+2026-04-14 13:42:53,ogs.google.com,14,2.7534343861887853,2,,1,Normal (Allowlisted: *.google.com),normal
+2026-04-14 13:42:53,,0,0.0,0,275,0,Normal,normal
+2026-04-14 13:42:53,info-pages.000webhostapp.com,28,4.012188403968661,2,,4,Suspicious — confidence 85%,suspicious
+2026-04-14 13:42:57,info-pages.000webhostapp.com,28,4.012188403968661,2,,5,Suspicious — confidence 85%,suspicious
+2026-04-14 13:43:00,,0,0.0,0,,0,Normal,normal
+2026-04-14 13:43:05,encrypted-tbn0.gstatic.com,26,3.979097891134804,2,,1,Normal (Allowlisted: *.gstatic.com),normal
+2026-04-14 13:43:05,,0,0.0,0,58,0,Normal,normal
+2026-04-14 13:43:08,ogads-pa.clients6.google.com,28,3.8248629576173565,3,,1,Normal (Allowlisted: *.google.com),normal
+2026-04-14 13:43:08,,0,0.0,0,286,0,Normal,normal
+2026-04-14 13:43:08,cdn.givefreely.com,18,3.6835423624332306,2,,1,Normal,normal
+2026-04-14 13:43:08,,0,0.0,0,1769,0,Normal,normal
+2026-04-14 13:43:08,abcdef.com,10,3.121928094887362,1,,1,Normal,normal
+2026-04-14 13:43:08,abcdef.com,10,3.121928094887362,1,,2,Normal,normal
+2026-04-14 13:43:09,,0,0.0,0,3600,0,Normal,normal
+2026-04-14 13:43:10,img1.wsimg.com,14,3.039148671903071,2,,1,Normal,normal
+2026-04-14 13:43:10,,0,0.0,0,164,0,Normal,normal
+2026-04-14 13:43:11,api.aws.parking.godaddy.com,27,3.689891668750007,4,,1,Normal,normal
+2026-04-14 13:43:11,api.aws.parking.godaddy.com,27,3.689891668750007,4,,2,Normal,normal
+2026-04-14 13:43:12,api.aws.parking.godaddy.com,27,3.689891668750007,4,,3,Normal,normal
+2026-04-14 13:43:12,,0,0.0,0,299,0,Normal,normal
+2026-04-14 13:43:36,microlabsltd.com,16,3.5,1,,1,Normal,normal
+2026-04-14 13:43:36,microlabsltd.com,16,3.5,1,,2,Normal,normal
+2026-04-14 13:43:36,,0,0.0,0,7200,0,Normal,normal
+2026-04-14 13:43:37,www.google.com,14,2.8423709931771093,2,,1,Normal (Allowlisted: *.google.com),normal
+2026-04-14 13:43:37,,0,0.0,0,275,0,Normal,normal
+2026-04-14 13:43:40,cdnjs.cloudflare.com,20,3.6841837197791887,2,,1,Normal (Allowlisted: *.cloudflare.com),normal
+2026-04-14 13:43:40,www.googletagmanager.com,24,3.4072682296173893,2,,1,Normal (Allowlisted: *.googletagmanager.com),normal
+2026-04-14 13:43:40,,0,0.0,0,46,0,Normal,normal
+2026-04-14 13:43:40,www.clarity.ms,14,3.3248629576173574,2,,1,Normal,normal
+2026-04-14 13:43:40,,0,0.0,0,280,0,Normal,normal
+2026-04-14 13:43:40,www.clarity.ms,14,3.3248629576173574,2,,2,Normal,normal
+2026-04-14 13:43:40,,0,0.0,0,30,0,Normal,normal
+2026-04-14 13:43:40,scripts.clarity.ms,18,3.350209029099897,2,,1,Normal,normal
+2026-04-14 13:43:41,scripts.clarity.ms,18,3.350209029099897,2,,2,Normal,normal
+2026-04-14 13:43:41,,0,0.0,0,1763,0,Normal,normal
+2026-04-14 13:43:41,,0,0.0,0,1763,0,Normal,normal
+2026-04-14 13:43:41,analytics.google.com,20,3.5841837197791886,2,,1,Normal (Allowlisted: *.google.com),normal
+2026-04-14 13:43:41,stats.g.doubleclick.net,23,3.7622673906514947,3,,1,Normal (Allowlisted: *.doubleclick.net),normal
+2026-04-14 13:43:41,analytics.google.com,20,3.5841837197791886,2,,2,Normal (Allowlisted: *.google.com),normal
+2026-04-14 13:43:41,stats.g.doubleclick.net,23,3.7622673906514947,3,,2,Normal (Allowlisted: *.doubleclick.net),normal
+2026-04-14 13:43:41,,0,0.0,0,50,0,Normal,normal
+2026-04-14 13:43:41,,0,0.0,0,195,0,Normal,normal
+2026-04-14 13:43:41,,0,0.0,0,50,0,Normal,normal
+2026-04-14 13:43:41,,0,0.0,0,195,0,Normal,normal
+2026-04-14 13:43:41,v.clarity.ms,12,3.418295834054489,2,,1,Normal,normal
+2026-04-14 13:43:41,v.clarity.ms,12,3.418295834054489,2,,2,Normal,normal
+2026-04-14 13:43:50,,0,0.0,0,332,0,Normal,normal
+2026-04-14 13:43:50,,0,0.0,0,332,0,Normal,normal
+2026-04-14 13:43:50,beacons.gcp.gvt2.com,20,3.6464393446710153,3,,1,Normal (Allowlisted: *.gcp.gvt2.com),normal
+2026-04-14 13:43:50,beacons.gcp.gvt2.com,20,3.6464393446710153,3,,2,Normal (Allowlisted: *.gcp.gvt2.com),normal
+2026-04-14 13:43:57,,0,0.0,0,271,0,Normal,normal
+2026-04-14 13:43:57,,0,0.0,0,271,0,Normal,normal
+2026-04-14 13:43:57,infyspringboard.onwingspan.com,30,3.802910079649727,2,,1,Suspicious — confidence 85%,suspicious
+2026-04-14 13:43:57,infyspringboard.onwingspan.com,30,3.802910079649727,2,,2,Suspicious — confidence 85%,suspicious
+2026-04-14 13:44:12,,0,0.0,0,2685,0,Normal,normal
+2026-04-14 13:44:12,,0,0.0,0,2685,0,Normal,normal
+2026-04-14 13:44:13,9779.info,9,2.725480556997868,1,,1,Normal,normal
+2026-04-14 13:44:13,safebrowsing.google.com,23,3.708132064658602,2,,1,Normal (Allowlisted: *.google.com),normal
+2026-04-14 13:44:13,safebrowsing.google.com,23,3.708132064658602,2,,2,Normal (Allowlisted: *.google.com),normal
+2026-04-14 13:44:13,9779.info,9,2.725480556997868,1,,2,Normal,normal
+2026-04-14 13:44:13,google.com,10,2.6464393446710153,1,,1,Normal,normal
+2026-04-14 13:44:13,,0,0.0,0,294,0,Normal,normal
+2026-04-14 13:44:13,,0,0.0,0,294,0,Normal,normal
+2026-04-14 13:44:13,,0,0.0,0,600,0,Normal,normal
+2026-04-14 13:44:14,google.com,10,2.6464393446710153,1,,2,Normal,normal
+2026-04-14 13:44:14,,0,0.0,0,244,0,Normal,normal
+2026-04-14 13:44:14,play.google.com,15,3.189898095464287,2,,1,Normal (Allowlisted: *.google.com),normal
+2026-04-14 13:44:14,play.google.com,15,3.189898095464287,2,,2,Normal (Allowlisted: *.google.com),normal
+2026-04-14 13:44:14,,0,0.0,0,258,0,Normal,normal
+2026-04-14 13:44:15,router.parklogic.com,20,3.6464393446710153,2,,1,Normal,normal
+2026-04-14 13:44:15,,0,0.0,0,4817,0,Normal,normal
+2026-04-14 13:44:17,click-v4.plarclck.com,21,3.422577995321604,2,,1,Normal,normal
+2026-04-14 13:44:17,,0,0.0,0,34421,0,Normal,normal
+2026-04-14 13:44:18,keylearncore.monster,20,3.4841837197791885,1,,1,Normal,normal
+2026-04-14 13:44:18,keylearncore.monster,20,3.4841837197791885,1,,2,Normal,normal
+2026-04-14 13:44:25,,0,0.0,0,300,0,Normal,normal
+2026-04-14 13:44:25,ogs.google.com,14,2.7534343861887853,2,,1,Normal (Allowlisted: *.google.com),normal
+2026-04-14 13:44:25,,0,0.0,0,183,0,Normal,normal
+2026-04-14 13:44:26,www.gstatic.com,15,3.189898095464287,2,,1,Normal (Allowlisted: *.gstatic.com),normal
+2026-04-14 13:44:26,ssl.gstatic.com,15,3.189898095464287,2,,1,Normal (Allowlisted: *.gstatic.com),normal
+2026-04-14 13:44:32,www.gstatic.com,15,3.189898095464287,2,,2,Normal (Allowlisted: *.gstatic.com),normal
+2026-04-14 13:44:32,ssl.gstatic.com,15,3.189898095464287,2,,2,Normal (Allowlisted: *.gstatic.com),normal
+2026-04-14 13:44:32,,0,0.0,0,243,0,Normal,normal
+2026-04-14 13:44:32,,0,0.0,0,241,0,Normal,normal
+2026-04-14 13:44:32,music.yahoo.com,15,3.189898095464287,2,,1,Normal,normal
+2026-04-14 13:44:32,,0,0.0,0,300,0,Normal,normal
+2026-04-14 13:44:32,www.yahoo.com,13,2.8150724101159437,2,,1,Normal,normal
+2026-04-14 13:44:32,,0,0.0,0,51,0,Normal,normal
+2026-04-14 13:44:33,guce.yahoo.com,14,3.1820058147602133,2,,1,Normal,normal
+2026-04-14 13:44:33,guce.yahoo.com,14,3.1820058147602133,2,,2,Normal,normal
+2026-04-14 13:44:33,,0,0.0,0,342,0,Normal,normal
+2026-04-14 13:44:40,consent.cmp.oath.com,20,3.308694969562842,3,,1,Normal,normal
+2026-04-14 13:44:40,,0,0.0,0,901,0,Normal,normal
+2026-04-14 13:44:40,s.yimg.com,10,2.9219280948873623,2,,1,Normal,normal
+2026-04-14 13:44:40,,0,0.0,0,126,0,Normal,normal
+2026-04-14 13:44:40,i.clean.gg,10,2.9219280948873623,2,,1,Normal,normal
+2026-04-14 13:44:41,,0,0.0,0,253,0,Normal,normal
+2026-04-14 13:44:41,securepubads.g.doubleclick.net,30,3.8980685120588383,3,,1,Normal (Allowlisted: *.doubleclick.net),normal
+2026-04-14 13:44:41,cdn.taboola.com,15,3.189898095464287,2,,1,Normal,normal
+2026-04-14 13:44:41,,0,0.0,0,290,0,Normal,normal
+2026-04-14 13:44:42,,0,0.0,0,50531,0,Normal,normal
+2026-04-14 13:44:42,ncp-gw-frontpage.media.yahoo.com,32,4.015319531114783,3,,1,Suspicious — confidence 90%,suspicious
+2026-04-14 13:44:42,nexus-gateway-prod.media.yahoo.com,34,4.101881223476018,3,,1,Suspicious — confidence 90%,suspicious
+2026-04-14 13:44:42,udc.yahoo.com,13,3.0269868333592873,2,,1,Normal,normal
+2026-04-14 13:44:42,,0,0.0,0,612,0,Normal,normal
+2026-04-14 13:44:43,geo.yahoo.com,13,2.9312089489103235,2,,1,Normal,normal
+2026-04-14 13:44:43,udc.yahoo.com,13,3.0269868333592873,2,,2,Normal,normal
+2026-04-14 13:44:43,ncp-gw-frontpage.media.yahoo.com,32,4.015319531114783,3,,2,Suspicious — confidence 90%,suspicious
+2026-04-14 13:44:43,geo.yahoo.com,13,2.9312089489103235,2,,2,Normal,normal
+2026-04-14 13:44:43,,0,0.0,0,775,0,Normal,normal
+2026-04-14 13:44:43,,0,0.0,0,2,0,Spoofing (low_ttl (2s)),spoofing
+2026-04-14 13:44:43,,0,0.0,0,775,0,Normal,normal
+2026-04-14 13:44:43,,0,0.0,0,60,0,Normal,normal
+2026-04-14 13:44:43,,0,0.0,0,60,0,Normal,normal
+2026-04-14 13:44:43,content-autofill.googleapis.com,31,3.821311940104173,2,,1,Normal (Allowlisted: *.googleapis.com),normal
+2026-04-14 13:44:44,,0,0.0,0,295,0,Normal,normal
+2026-04-14 13:44:44,noa.yahoo.com,13,2.7773627950641693,2,,1,Normal,normal
+2026-04-14 13:44:44,opus.analytics.yahoo.com,24,3.605388542207534,3,,1,Normal,normal
+2026-04-14 13:44:44,,0,0.0,0,588,0,Normal,normal
+2026-04-14 13:44:44,,0,0.0,0,258,0,Normal,normal
+2026-04-14 13:44:44,ad-delivery.net,15,3.4565647621309536,1,,1,Normal,normal
+2026-04-14 13:44:44,ad-delivery.net,15,3.4565647621309536,1,,2,Normal,normal
+2026-04-14 13:44:44,,0,0.0,0,200,0,Normal,normal
+2026-04-14 13:44:44,,0,0.0,0,200,0,Normal,normal
+2026-04-14 13:44:44,wnsrvbjmeprtfrnfx.ay.delivery,29,4.073329701949522,2,,1,Suspicious — confidence 96%,suspicious
+2026-04-14 13:44:46,,0,0.0,0,20,0,Normal,normal
+2026-04-14 13:44:46,pagead2.googlesyndication.com,29,3.8404025467025056,2,,1,Suspicious — confidence 85%,suspicious
+2026-04-14 13:44:47,,0,0.0,0,234,0,Normal,normal
+2026-04-14 13:44:47,vscode-sync.trafficmanager.net,30,3.939572261986722,2,,1,Normal (Allowlisted: *.trafficmanager.net),normal
+2026-04-14 13:44:47,,0,0.0,0,49,0,Normal,normal
+2026-04-14 13:44:47,signaler-pa.clients6.google.com,31,3.8646983261669603,3,,1,Normal (Allowlisted: *.google.com),normal
+2026-04-14 13:44:47,,0,0.0,0,256,0,Normal,normal
+2026-04-14 13:44:48,mobile.events.data.microsoft.com,32,3.8042292966721747,4,,1,Normal (Allowlisted: *.microsoft.com),normal
+2026-04-14 13:44:48,,0,0.0,0,16,0,Normal,normal
+2026-04-14 13:44:48,ups.analytics.yahoo.com,23,3.6424896731661263,3,,1,Normal,normal
+2026-04-14 13:44:48,,0,0.0,0,13,0,Normal,normal
+2026-04-14 13:44:49,pbs.yahoo.com,13,3.1808329872054406,2,,1,Normal,normal
+2026-04-14 13:44:49,,0,0.0,0,8,0,Normal,normal
+2026-04-14 13:44:49,tlx.3lift.com,13,3.238901256602631,2,,1,Normal,normal
+2026-04-14 13:44:49,ib.adnxs.com,12,3.418295834054489,2,,1,Normal,normal
+2026-04-14 13:44:49,s.seedtag.com,13,3.238901256602631,2,,1,Normal,normal
+2026-04-14 13:44:49,grid-bidder.criteo.com,22,3.4474015047059154,2,,1,Normal,normal
+2026-04-14 13:44:49,htlb.casalemedia.com,20,3.5841837197791886,2,,1,Normal,normal
+2026-04-14 13:44:49,rtb.openx.net,13,3.085055102756477,2,,1,Normal,normal
+2026-04-14 13:44:49,,0,0.0,0,191,0,Normal,normal
+2026-04-14 13:44:49,,0,0.0,0,6813,0,Normal,normal
+2026-04-14 13:44:49,,0,0.0,0,230,0,Normal,normal
+2026-04-14 13:44:49,,0,0.0,0,15,0,Normal,normal
+2026-04-14 13:44:49,,0,0.0,0,514,0,Normal,normal
+2026-04-14 13:44:49,,0,0.0,0,166,0,Normal,normal
+2026-04-14 13:44:49,prebid.media.net,16,3.327819531114783,2,,1,Normal,normal
+2026-04-14 13:44:49,,0,0.0,0,45,0,Normal,normal
+2026-04-14 13:44:49,c2shb-oao.ssp.yahoo.com,23,3.344456935241198,3,,1,Normal,normal
+2026-04-14 13:44:49,display.bidder.taboola.com,26,3.7381493331928657,3,,1,Normal,normal
+2026-04-14 13:44:49,ads.yieldmo.com,15,3.3735572622751855,2,,1,Normal,normal
+2026-04-14 13:44:49,cm.g.doubleclick.net,20,3.646439344671015,3,,1,Normal (Allowlisted: *.doubleclick.net),normal
+2026-04-14 13:44:49,ads.yieldmo.com,15,3.3735572622751855,2,,2,Normal,normal
+2026-04-14 13:44:49,display.bidder.taboola.com,26,3.7381493331928657,3,,2,Normal,normal
+2026-04-14 13:44:50,c2shb-oao.ssp.yahoo.com,23,3.344456935241198,3,,2,Normal,normal
+2026-04-14 13:44:50,,0,0.0,0,221,0,Normal,normal
+2026-04-14 13:44:50,,0,0.0,0,52606,0,Normal,normal
+2026-04-14 13:44:50,,0,0.0,0,280,0,Normal,normal
+2026-04-14 13:44:50,trc.taboola.com,15,3.0565647621309537,2,,1,Normal,normal
+2026-04-14 13:44:50,cm.g.doubleclick.net,20,3.646439344671015,3,,2,Normal (Allowlisted: *.doubleclick.net),normal
+2026-04-14 13:44:50,,0,0.0,0,280,0,Normal,normal
+2026-04-14 13:44:50,,0,0.0,0,104,0,Normal,normal
+2026-04-14 13:44:50,trc.taboola.com,15,3.0565647621309537,2,,2,Normal,normal
+2026-04-14 13:44:50,,0,0.0,0,221,0,Normal,normal
+2026-04-14 13:44:50,,0,0.0,0,52606,0,Normal,normal
+2026-04-14 13:44:50,,0,0.0,0,29,0,Normal,normal
+2026-04-14 13:44:50,,0,0.0,0,104,0,Normal,normal
+2026-04-14 13:44:50,,0,0.0,0,29,0,Normal,normal
+2026-04-14 13:44:50,pm-widget.taboola.com,21,3.7849418274376427,2,,1,Normal,normal
+2026-04-14 13:44:50,ads.pubmatic.com,16,3.5,2,,1,Normal,normal
+2026-04-14 13:44:50,,0,0.0,0,53188,0,Normal,normal
+2026-04-14 13:44:50,,0,0.0,0,65,0,Normal,normal
+2026-04-14 13:44:50,sb.scorecardresearch.com,24,3.2720552088742005,2,,1,Normal,normal
+2026-04-14 13:44:50,,0,0.0,0,18,0,Normal,normal
+2026-04-14 13:44:50,hbx.media.net,13,3.3927474104487847,2,,1,Normal,normal
+2026-04-14 13:44:50,www.googletagmanager.com,24,3.4072682296173893,2,,1,Normal (Allowlisted: *.googletagmanager.com),normal
+2026-04-14 13:44:50,,0,0.0,0,15,0,Normal,normal
+2026-04-14 13:44:50,,0,0.0,0,275,0,Normal,normal
+2026-04-14 13:44:50,hbopenbid.pubmatic.com,22,3.6978458230844122,2,,1,Normal,normal
+2026-04-14 13:44:50,,0,0.0,0,594,0,Normal,normal
+2026-04-14 13:44:50,cs.media.net,12,3.2516291673878226,2,,1,Normal,normal
+2026-04-14 13:44:50,cs.media.net,12,3.2516291673878226,2,,2,Normal,normal
+2026-04-14 13:44:50,pixel.rubiconproject.com,24,3.772055208874201,2,,1,Normal,normal
+2026-04-14 13:44:50,pixel.rubiconproject.com,24,3.772055208874201,2,,2,Normal,normal
+2026-04-14 13:44:50,,0,0.0,0,7,0,Normal,normal
+2026-04-14 13:44:50,,0,0.0,0,7,0,Normal,normal
+2026-04-14 13:44:50,,0,0.0,0,462,0,Normal,normal
+2026-04-14 13:44:50,cdn.p-n.io,10,2.9219280948873623,2,,1,Normal,normal
+2026-04-14 13:44:50,,0,0.0,0,60,0,Normal,normal
+2026-04-14 13:44:51,il-trc-events.taboola.com,25,3.7834651896016465,2,,1,Normal,normal
+2026-04-14 13:44:51,,0,0.0,0,86,0,Normal,normal
+2026-04-14 13:44:51,pbd.yahoo.com,13,3.1808329872054406,2,,1,Normal,normal
+2026-04-14 13:44:51,pbd.yahoo.com,13,3.1808329872054406,2,,2,Normal,normal
+2026-04-14 13:44:51,,0,0.0,0,27,0,Normal,normal
+2026-04-14 13:44:51,,0,0.0,0,27,0,Normal,normal
+2026-04-14 13:44:51,c21lg-d.media.net,17,3.734521664779752,2,,1,Normal,normal
+2026-04-14 13:44:51,,0,0.0,0,115,0,Normal,normal
+2026-04-14 13:44:51,analytics.google.com,20,3.5841837197791886,2,,1,Normal (Allowlisted: *.google.com),normal
+2026-04-14 13:44:51,,0,0.0,0,280,0,Normal,normal
+2026-04-14 13:44:51,match.adsrvr.org,16,3.452819531114783,2,,1,Normal,normal
+2026-04-14 13:44:51,,0,0.0,0,7219,0,Normal,normal
+2026-04-14 13:44:51,api.taboola.com,15,3.139572261986723,2,,1,Normal,normal
+2026-04-14 13:44:51,,0,0.0,0,259,0,Normal,normal
+2026-04-14 13:44:51,tsdtocl.com,11,2.9139770731827523,1,,1,Normal,normal
+2026-04-14 13:44:51,,0,0.0,0,95,0,Normal,normal
+2026-04-14 13:44:51,vidstat.taboola.com,19,3.3918926446809317,2,,1,Normal,normal
+2026-04-14 13:44:51,,0,0.0,0,25931,0,Normal,normal
+2026-04-14 13:44:51,images.taboola.com,18,3.4193819456463714,2,,1,Normal,normal
+2026-04-14 13:44:51,cds.taboola.com,15,3.189898095464287,2,,1,Normal,normal
+2026-04-14 13:44:51,,0,0.0,0,50412,0,Normal,normal
+2026-04-14 13:44:51,,0,0.0,0,203,0,Normal,normal
+2026-04-14 13:44:51,www.google.co.in,16,2.98345859334435,3,,1,Normal,normal
+2026-04-14 13:44:51,,0,0.0,0,272,0,Normal,normal
+2026-04-14 13:44:51,aa.agkn.com,11,2.845350936622437,2,,1,Normal,normal
+2026-04-14 13:44:51,dpm.demdex.net,14,2.8423709931771093,2,,1,Normal,normal
+2026-04-14 13:44:51,,0,0.0,0,12,0,Normal,normal
+2026-04-14 13:44:51,,0,0.0,0,20,0,Normal,normal
+2026-04-14 13:44:52,image6.pubmatic.com,19,3.576617644908665,2,,1,Normal,normal
+2026-04-14 13:44:52,,0,0.0,0,210,0,Normal,normal
+2026-04-14 13:44:52,ep1.adtrafficquality.google,27,3.986187965046304,2,,1,Suspicious — confidence 85%,suspicious
+2026-04-14 13:44:52,,0,0.0,0,66,0,Normal,normal
+2026-04-14 13:44:52,183660158851544b73c505b5ccd000ca.safeframe.googlesyndication.com,64,4.4429884298164914,3,,1,Suspicious — confidence 96%,suspicious
+2026-04-14 13:44:52,183660158851544b73c505b5ccd000ca.safeframe.googlesyndication.com,64,4.4429884298164914,3,,2,Suspicious — confidence 96%,suspicious
+2026-04-14 13:44:52,imprammp.taboola.com,20,3.246439344671016,2,,1,Normal,normal
+2026-04-14 13:44:53,am-match.taboola.com,20,3.1464393446710153,2,,1,Normal,normal
+2026-04-14 13:44:53,,0,0.0,0,300,0,Normal,normal
+2026-04-14 13:44:53,,0,0.0,0,300,0,Normal,normal
+2026-04-14 13:44:53,,0,0.0,0,51986,0,Normal,normal
+2026-04-14 13:44:53,,0,0.0,0,496,0,Normal,normal
+2026-04-14 13:44:53,am-vid-events.taboola.com,25,3.7834651896016465,2,,1,Normal,normal
+2026-04-14 13:44:53,ep2.adtrafficquality.google,27,3.986187965046304,2,,1,Suspicious — confidence 85%,suspicious
+2026-04-14 13:44:53,,0,0.0,0,4,0,Spoofing (low_ttl (4s)),spoofing
+2026-04-14 13:44:53,,0,0.0,0,65,0,Normal,normal
+2026-04-14 13:44:54,prebid.a-mo.net,15,3.6402239289418516,2,,1,Normal,normal
+2026-04-14 13:44:54,,0,0.0,0,10,0,Normal,normal
+2026-04-14 13:44:54,uipglob.semasio.net,19,3.7216117239699003,2,,1,Normal,normal
+2026-04-14 13:44:54,,0,0.0,0,50902,0,Normal,normal
+2026-04-14 13:44:54,a.amxrtb.com,12,3.084962500721156,2,,1,Normal,normal
+2026-04-14 13:44:54,a.amxrtb.com,12,3.084962500721156,2,,2,Normal,normal
+2026-04-14 13:44:54,,0,0.0,0,54,0,Normal,normal
+2026-04-14 13:44:54,,0,0.0,0,54,0,Normal,normal
+2026-04-14 13:44:54,match.sharethrough.com,22,3.459431618637297,2,,1,Normal,normal
+2026-04-14 13:44:54,,0,0.0,0,60,0,Normal,normal
+2026-04-14 13:44:55,sync.a-mo.net,13,3.3927474104487847,2,,1,Normal,normal
+2026-04-14 13:44:55,,0,0.0,0,7,0,Normal,normal
+2026-04-14 13:44:55,tpc.googlesyndication.com,25,3.7336606896881848,2,,1,Normal,normal
+2026-04-14 13:44:55,,0,0.0,0,15,0,Normal,normal
+2026-04-14 13:44:55,cm.adform.net,13,3.3927474104487847,2,,1,Normal,normal
+2026-04-14 13:44:55,eb2.3lift.com,13,3.5465935642949384,2,,1,Normal,normal
+2026-04-14 13:44:55,cm.adform.net,13,3.3927474104487847,2,,2,Normal,normal
+2026-04-14 13:44:55,eb2.3lift.com,13,3.5465935642949384,2,,2,Normal,normal
+2026-04-14 13:44:55,,0,0.0,0,2127,0,Normal,normal
+2026-04-14 13:44:55,,0,0.0,0,50109,0,Normal,normal
+2026-04-14 13:44:55,,0,0.0,0,2127,0,Normal,normal
+2026-04-14 13:44:55,,0,0.0,0,50109,0,Normal,normal
+2026-04-14 13:44:55,ib.3lift.com,12,3.2516291673878226,2,,1,Normal,normal
+2026-04-14 13:44:56,eus.rubiconproject.com,22,3.663532754804254,2,,1,Normal,normal
+2026-04-14 13:44:56,,0,0.0,0,58,0,Normal,normal
+2026-04-14 13:44:56,ssum.casalemedia.com,20,3.308694969562842,2,,1,Normal,normal
+2026-04-14 13:44:56,eus.rubiconproject.com,22,3.663532754804254,2,,2,Normal,normal
+2026-04-14 13:44:56,image8.pubmatic.com,19,3.576617644908665,2,,1,Normal,normal
+2026-04-14 13:44:56,ssum.casalemedia.com,20,3.308694969562842,2,,2,Normal,normal
+2026-04-14 13:44:56,image8.pubmatic.com,19,3.576617644908665,2,,2,Normal,normal
+2026-04-14 13:44:56,,0,0.0,0,158,0,Normal,normal
+2026-04-14 13:44:56,,0,0.0,0,2453,0,Normal,normal
+2026-04-14 13:44:56,,0,0.0,0,482,0,Normal,normal
+2026-04-14 13:44:56,,0,0.0,0,158,0,Normal,normal
+2026-04-14 13:44:56,,0,0.0,0,482,0,Normal,normal
+2026-04-14 13:44:56,,0,0.0,0,482,0,Normal,normal
+2026-04-14 13:44:56,googleads.g.doubleclick.net,27,3.726204631392457,3,,1,Normal (Allowlisted: *.doubleclick.net),normal
+2026-04-14 13:44:57,googleads.g.doubleclick.net,27,3.726204631392457,3,,2,Normal (Allowlisted: *.doubleclick.net),normal
+2026-04-14 13:44:57,id.a-mx.com,11,3.095795255000934,2,,1,Normal,normal
+2026-04-14 13:44:57,ap.lijit.com,12,3.2516291673878226,2,,1,Normal,normal
+2026-04-14 13:44:57,wf.taboola.com,14,3.182005814760214,2,,1,Normal,normal
+2026-04-14 13:44:57,id.a-mx.com,11,3.095795255000934,2,,2,Normal,normal
+2026-04-14 13:44:58,ap.lijit.com,12,3.2516291673878226,2,,2,Normal,normal
+2026-04-14 13:44:58,wf.taboola.com,14,3.182005814760214,2,,2,Normal,normal
+2026-04-14 13:44:58,,0,0.0,0,50706,0,Normal,normal
+2026-04-14 13:44:58,,0,0.0,0,11139,0,Normal,normal
+2026-04-14 13:44:58,,0,0.0,0,236,0,Normal,normal
+2026-04-14 13:44:58,,0,0.0,0,50706,0,Normal,normal
+2026-04-14 13:44:58,,0,0.0,0,11139,0,Normal,normal
+2026-04-14 13:44:58,cs.seedtag.com,14,3.2359263506290334,2,,1,Normal,normal
+2026-04-14 13:44:58,cs.seedtag.com,14,3.2359263506290334,2,,2,Normal,normal
+2026-04-14 13:44:58,js-sec.indexww.com,18,3.6143694458867563,2,,1,Normal,normal
+2026-04-14 13:44:58,js-sec.indexww.com,18,3.6143694458867563,2,,2,Normal,normal
+2026-04-14 13:44:58,yahoo-bidout-d.openx.net,24,3.751629167387823,2,,1,Normal,normal
+2026-04-14 13:44:58,yahoo-bidout-d.openx.net,24,3.751629167387823,2,,2,Normal,normal
+2026-04-14 13:44:58,gum.criteo.com,14,3.2359263506290334,2,,1,Normal,normal
+2026-04-14 13:44:58,,0,0.0,0,614,0,Normal,normal
+2026-04-14 13:44:58,gum.criteo.com,14,3.2359263506290334,2,,2,Normal,normal
+2026-04-14 13:44:59,acdn.adnxs.com,14,3.09306920777189,2,,1,Normal,normal
+2026-04-14 13:44:59,ads.pubmatic.com,16,3.5,2,,2,Normal,normal
+2026-04-14 13:44:59,acdn.adnxs.com,14,3.09306920777189,2,,2,Normal,normal
+2026-04-14 13:44:59,hb.trustedstack.com,19,3.6818808028034016,2,,1,Normal,normal
+2026-04-14 13:44:59,ads.pubmatic.com,16,3.5,2,,3,Normal,normal
+2026-04-14 13:44:59,hb.trustedstack.com,19,3.6818808028034016,2,,2,Normal,normal
+2026-04-14 13:44:59,,0,0.0,0,614,0,Normal,normal
+2026-04-14 13:44:59,,0,0.0,0,131,0,Normal,normal
+2026-04-14 13:44:59,,0,0.0,0,60,0,Normal,normal
+2026-04-14 13:44:59,,0,0.0,0,3,0,Spoofing (low_ttl (3s)),spoofing
+2026-04-14 13:44:59,pxl.connexity.net,17,3.337175341123077,2,,1,Normal,normal
+2026-04-14 13:44:59,pxl.connexity.net,17,3.337175341123077,2,,2,Normal,normal
+2026-04-14 13:44:59,googleads.g.doubleclick.net,27,3.726204631392457,3,,3,Normal (Allowlisted: *.doubleclick.net),normal
+2026-04-14 13:44:59,,0,0.0,0,,0,Normal,normal
+2026-04-14 13:44:59,,0,0.0,0,,0,Normal,normal
+2026-04-14 13:44:59,,0,0.0,0,203,0,Normal,normal
+2026-04-14 13:45:00,cs.seedtag.com,14,3.2359263506290334,2,,3,Normal,normal
+2026-04-14 13:45:00,js-sec.indexww.com,18,3.6143694458867563,2,,3,Normal,normal
+2026-04-14 13:45:00,,0,0.0,0,266,0,Normal,normal
+2026-04-14 13:45:00,,0,0.0,0,83,0,Normal,normal
+2026-04-14 13:45:00,acdn.adnxs.com,14,3.09306920777189,2,,3,Normal,normal
+2026-04-14 13:45:00,,0,0.0,0,117,0,Normal,normal
+2026-04-14 13:45:00,sea1-sync.a-mo.net,18,3.5032583347756456,2,,1,Normal,normal
+2026-04-14 13:45:00,,0,0.0,0,9,0,Normal,normal
+2026-04-14 13:45:00,dclk-match.dotomi.com,21,3.4273334938982645,2,,1,Normal,normal
+2026-04-14 13:45:00,um.simpli.fi,12,2.8553885422075336,2,,1,Normal,normal
+2026-04-14 13:45:00,main.vscode-cdn.net,19,3.5766176449086657,2,,1,Normal (Allowlisted: *.vscode-cdn.net),normal
+2026-04-14 13:45:00,dclk-match.dotomi.com,21,3.4273334938982645,2,,2,Normal,normal
+2026-04-14 13:45:01,um.simpli.fi,12,2.8553885422075336,2,,2,Normal,normal
+2026-04-14 13:45:01,main.vscode-cdn.net,19,3.5766176449086657,2,,2,Normal (Allowlisted: *.vscode-cdn.net),normal
+2026-04-14 13:45:01,,0,0.0,0,214,0,Normal,normal
+2026-04-14 13:45:01,,0,0.0,0,123,0,Normal,normal
+2026-04-14 13:45:01,,0,0.0,0,237,0,Normal,normal
+2026-04-14 13:45:01,,0,0.0,0,214,0,Normal,normal
+2026-04-14 13:45:01,,0,0.0,0,237,0,Normal,normal
+2026-04-14 13:45:01,,0,0.0,0,123,0,Normal,normal
+2026-04-14 13:45:01,i.liadm.com,11,2.9139770731827523,2,,1,Normal,normal
+2026-04-14 13:45:01,dsum-sec.casalemedia.com,24,3.4276942711037672,2,,1,Normal,normal
+2026-04-14 13:45:01,,0,0.0,0,45,0,Normal,normal
+2026-04-14 13:45:01,,0,0.0,0,237,0,Normal,normal
+2026-04-14 13:45:01,openx2-match.dotomi.com,23,3.7081320646586025,2,,1,Normal,normal
+2026-04-14 13:45:01,bh.contextweb.com,17,3.381580488309164,2,,1,Normal,normal
+2026-04-14 13:45:01,,0,0.0,0,108,0,Normal,normal
+2026-04-14 13:45:01,openx2-match.dotomi.com,23,3.7081320646586025,2,,2,Normal,normal
+2026-04-14 13:45:01,,0,0.0,0,1103,0,Normal,normal
+2026-04-14 13:45:01,secure-assets.rubiconproject.com,32,3.765319531114783,2,,1,Normal,normal
+2026-04-14 13:45:01,,0,0.0,0,108,0,Normal,normal
+2026-04-14 13:45:01,,0,0.0,0,51621,0,Normal,normal
+2026-04-14 13:45:01,id.rtb.mx,9,2.94770277922009,2,,1,Normal,normal
+2026-04-14 13:45:01,,0,0.0,0,65,0,Normal,normal
+2026-04-14 13:45:01,www.googleadservices.com,24,3.6572682296173897,2,,1,Normal (Allowlisted: *.googleadservices.com),normal
+2026-04-14 13:45:01,,0,0.0,0,258,0,Normal,normal
+2026-04-14 13:45:01,token.rubiconproject.com,24,3.636842188131012,2,,1,Normal,normal
+2026-04-14 13:45:01,token.rubiconproject.com,24,3.636842188131012,2,,2,Normal,normal
+2026-04-14 13:45:01,,0,0.0,0,1731,0,Normal,normal
+2026-04-14 13:45:01,idsync.rlcdn.com,16,3.327819531114783,2,,1,Normal,normal
+2026-04-14 13:45:01,,0,0.0,0,1731,0,Normal,normal
+2026-04-14 13:45:01,idsync.rlcdn.com,16,3.327819531114783,2,,2,Normal,normal
+2026-04-14 13:45:02,ut.pubmatic.com,15,3.240223928941852,2,,1,Normal,normal
+2026-04-14 13:45:02,ut.pubmatic.com,15,3.240223928941852,2,,2,Normal,normal
+2026-04-14 13:45:02,,0,0.0,0,58,0,Normal,normal
+2026-04-14 13:45:02,,0,0.0,0,58,0,Normal,normal
+2026-04-14 13:45:02,,0,0.0,0,404,0,Normal,normal
+2026-04-14 13:45:02,,0,0.0,0,404,0,Normal,normal
+2026-04-14 13:45:02,www.temu.com,12,2.8553885422075336,2,,1,Normal,normal
+2026-04-14 13:45:02,a.c.appier.net,14,3.039148671903071,3,,1,Normal,normal
+2026-04-14 13:45:02,apsoutheast-match.deepintent.com,32,3.7386085007312415,2,,1,Suspicious — confidence 77%,suspicious
+2026-04-14 13:45:02,us-u.openx.net,14,3.2359263506290326,2,,1,Normal,normal
+2026-04-14 13:45:02,sync.1rx.io,11,3.277613436819116,2,,1,Normal,normal
+2026-04-14 13:45:02,,0,0.0,0,145,0,Normal,normal
+2026-04-14 13:45:02,,0,0.0,0,96,0,Normal,normal
+2026-04-14 13:45:02,,0,0.0,0,107,0,Normal,normal
+2026-04-14 13:45:02,,0,0.0,0,69,0,Normal,normal
+2026-04-14 13:45:02,,0,0.0,0,260,0,Normal,normal
+2026-04-14 13:45:02,ds.uncn.jp,10,2.9219280948873623,2,,1,Normal,normal
+2026-04-14 13:45:02,a.tribalfusion.com,18,3.7254805569978675,2,,1,Normal,normal
+2026-04-14 13:45:03,sync.srv.stackadapt.com,23,3.6096684774198886,3,,1,Normal,normal
+2026-04-14 13:45:03,,0,0.0,0,43,0,Normal,normal
+2026-04-14 13:45:03,,0,0.0,0,79,0,Normal,normal
+2026-04-14 13:45:03,,0,0.0,0,34,0,Normal,normal
+2026-04-14 13:45:03,sync.taboola.com,16,3.327819531114783,2,,1,Normal,normal
+2026-04-14 13:45:03,px.ads.linkedin.com,19,3.681880802803402,3,,1,Normal (Allowlisted: *.linkedin.com),normal
+2026-04-14 13:45:03,c1.adform.net,13,3.5465935642949384,2,,1,Normal,normal
+2026-04-14 13:45:03,pixel-sync.sitescout.com,24,3.7720552088742005,2,,1,Normal,normal
+2026-04-14 13:45:03,j.mrpdata.net,13,3.238901256602631,2,,1,Normal,normal
+2026-04-14 13:45:03,x.bidswitch.net,15,3.5068905956085183,2,,1,Normal,normal
+2026-04-14 13:45:03,,0,0.0,0,294,0,Normal,normal
+2026-04-14 13:45:03,,0,0.0,0,2543,0,Normal,normal
+2026-04-14 13:45:03,pixelfnt-us.dsp-api.moloco.com,30,3.9232314287976204,3,,1,Suspicious — confidence 85%,suspicious
+2026-04-14 13:45:03,,0,0.0,0,114,0,Normal,normal
+2026-04-14 13:45:03,,0,0.0,0,,0,Normal,normal
+2026-04-14 13:45:03,,0,0.0,0,93,0,Normal,normal
+2026-04-14 13:45:03,,0,0.0,0,33,0,Normal,normal
+2026-04-14 13:45:03,b1sync.outbrain.com,19,3.7216117239699003,2,,1,Normal,normal
+2026-04-14 13:45:03,secure.adnxs.com,16,3.5,2,,1,Normal,normal
+2026-04-14 13:45:04,ad.turn.com,11,3.277613436819116,2,,1,Normal,normal
+2026-04-14 13:45:04,cs.admanmedia.com,17,3.175123135113461,2,,1,Normal,normal
+2026-04-14 13:45:04,t.adx.opera.com,15,3.3232314287976203,3,,1,Normal,normal
+2026-04-14 13:45:04,pixelfnt-us.dsp-api.moloco.com,30,3.9232314287976204,3,,2,Suspicious — confidence 85%,suspicious
+2026-04-14 13:45:04,b1sync.outbrain.com,19,3.7216117239699003,2,,2,Normal,normal
+2026-04-14 13:45:04,,0,0.0,0,1800,0,Normal,normal
+2026-04-14 13:45:04,,0,0.0,0,283,0,Normal,normal
+2026-04-14 13:45:04,,0,0.0,0,2079,0,Normal,normal
+2026-04-14 13:45:04,,0,0.0,0,114,0,Normal,normal
+2026-04-14 13:45:04,,0,0.0,0,191,0,Normal,normal
+2026-04-14 13:45:04,,0,0.0,0,1800,0,Normal,normal
+2026-04-14 13:45:04,,0,0.0,0,283,0,Normal,normal
+2026-04-14 13:45:04,secure.adnxs.com,16,3.5,2,,2,Normal,normal
+2026-04-14 13:45:04,,0,0.0,0,7190,0,Normal,normal
+2026-04-14 13:45:04,csync.smartadserver.com,23,3.555533151426996,2,,1,Normal,normal
+2026-04-14 13:45:04,,0,0.0,0,117,0,Normal,normal
+2026-04-14 13:45:04,ad.360yield.com,15,3.640223928941851,2,,1,Normal,normal
+2026-04-14 13:45:04,,0,0.0,0,1,0,Spoofing (low_ttl (1s)),spoofing
+2026-04-14 13:45:05,visitor.omnitagjs.com,21,3.5585186130489053,2,,1,Normal,normal
+2026-04-14 13:45:05,,0,0.0,0,50375,0,Normal,normal
+2026-04-14 13:45:05,onetag-sys.com,14,3.521640636343319,1,,1,Normal,normal
+2026-04-14 13:45:05,onetag-sys.com,14,3.521640636343319,1,,2,Normal,normal
+2026-04-14 13:45:05,u.openx.net,11,2.9139770731827523,2,,1,Normal,normal
+2026-04-14 13:45:05,,0,0.0,0,1133,0,Normal,normal
+2026-04-14 13:45:05,,0,0.0,0,1133,0,Normal,normal
+2026-04-14 13:45:05,,0,0.0,0,281,0,Normal,normal
+2026-04-14 13:45:05,csync.loopme.me,15,3.2402239289418526,2,,1,Normal,normal
+2026-04-14 13:45:05,match.prod.bidr.io,18,3.4613201402110083,3,,1,Normal,normal
+2026-04-14 13:45:05,csync.loopme.me,15,3.2402239289418526,2,,2,Normal,normal
+2026-04-14 13:45:05,match.prod.bidr.io,18,3.4613201402110083,3,,2,Normal,normal
+2026-04-14 13:45:05,,0,0.0,0,2455,0,Normal,normal
+2026-04-14 13:45:05,,0,0.0,0,33,0,Normal,normal
+2026-04-14 13:45:05,sync.bfmio.com,14,3.2359263506290326,2,,1,Normal,normal
+2026-04-14 13:45:05,,0,0.0,0,2455,0,Normal,normal
+2026-04-14 13:45:05,,0,0.0,0,33,0,Normal,normal
+2026-04-14 13:45:05,,0,0.0,0,179,0,Normal,normal
+2026-04-14 13:45:05,,0,0.0,0,7190,0,Normal,normal
+2026-04-14 13:45:05,sync.ipredictive.com,20,3.6464393446710153,2,,1,Normal,normal
+2026-04-14 13:45:05,,0,0.0,0,49,0,Normal,normal
+2026-04-14 13:45:05,sync.ipredictive.com,20,3.6464393446710153,2,,2,Normal,normal
+2026-04-14 13:45:05,beachfront-match.dotomi.com,27,3.7080481500712317,2,,1,Normal,normal
+2026-04-14 13:45:05,,0,0.0,0,49,0,Normal,normal
+2026-04-14 13:45:05,,0,0.0,0,81,0,Normal,normal
+2026-04-14 13:45:06,sync.smartadserver.com,22,3.5726236638951634,2,,1,Normal,normal
+2026-04-14 13:45:06,creativecdn.com,15,3.4565647621309536,1,,1,Normal,normal
+2026-04-14 13:45:06,match.deepintent.com,20,3.4464393446710155,2,,1,Normal,normal
+2026-04-14 13:45:06,,0,0.0,0,252,0,Normal,normal
+2026-04-14 13:45:06,,0,0.0,0,109,0,Normal,normal
+2026-04-14 13:45:06,,0,0.0,0,270,0,Normal,normal
+2026-04-14 13:45:06,pixel.tapad.com,15,3.5068905956085183,2,,1,Normal,normal
+2026-04-14 13:45:06,cs.amx1.net,11,3.277613436819116,2,,1,Normal,normal
+2026-04-14 13:45:06,,0,0.0,0,69,0,Normal,normal
+2026-04-14 13:45:06,,0,0.0,0,290,0,Normal,normal
+2026-04-14 13:45:06,ssp-sync.criteo.com,19,3.5368867237421666,2,,1,Normal,normal
+2026-04-14 13:45:06,ssp-sync.criteo.com,19,3.5368867237421666,2,,2,Normal,normal
+2026-04-14 13:45:06,,0,0.0,0,600,0,Normal,normal
+2026-04-14 13:45:06,,0,0.0,0,600,0,Normal,normal
+2026-04-14 13:45:06,c.bing.com,10,2.9219280948873623,2,,1,Normal (Allowlisted: *.bing.com),normal
+2026-04-14 13:45:06,t.wayfair.com,13,3.3927474104487847,2,,1,Normal,normal
+2026-04-14 13:45:06,sync.search.spotxchange.com,27,3.7360069464476573,3,,1,Normal,normal
+2026-04-14 13:45:06,t.mookie1.com,13,3.0269868333592873,2,,1,Normal,normal
+2026-04-14 13:45:06,t.wayfair.com,13,3.3927474104487847,2,,2,Normal,normal
+2026-04-14 13:45:06,c.bing.com,10,2.9219280948873623,2,,2,Normal (Allowlisted: *.bing.com),normal
+2026-04-14 13:45:06,sync.search.spotxchange.com,27,3.7360069464476573,3,,2,Normal,normal
+2026-04-14 13:45:07,t.mookie1.com,13,3.0269868333592873,2,,2,Normal,normal
+2026-04-14 13:45:07,,0,0.0,0,261,0,Normal,normal
+2026-04-14 13:45:07,,0,0.0,0,,0,Normal,normal
+2026-04-14 13:45:07,,0,0.0,0,1075,0,Normal,normal
+2026-04-14 13:45:07,,0,0.0,0,907,0,Normal,normal
+2026-04-14 13:45:07,,0,0.0,0,907,0,Normal,normal
+2026-04-14 13:45:07,,0,0.0,0,261,0,Normal,normal
+2026-04-14 13:45:07,,0,0.0,0,,0,Normal,normal
+2026-04-14 13:45:07,,0,0.0,0,1075,0,Normal,normal
+2026-04-14 13:45:07,cms.quantserve.com,18,3.6143694458867563,2,,1,Normal,normal
+2026-04-14 13:45:07,content.quantcount.com,22,3.118078209349709,2,,1,Normal,normal
+2026-04-14 13:45:07,pixel.quantcount.com,20,3.721928094887362,2,,1,Normal,normal
+2026-04-14 13:45:07,pixel.adsafeprotected.com,25,3.763856189774724,2,,1,Normal,normal
+2026-04-14 13:45:07,,0,0.0,0,51378,0,Normal,normal
+2026-04-14 13:45:07,pixel.quantserve.com,20,3.984183719779189,2,,1,Suspicious — confidence 85%,suspicious
+2026-04-14 13:45:07,exch.quantcount.com,19,3.471354487013929,2,,1,Normal,normal
+2026-04-14 13:45:07,content.quantcount.com,22,3.118078209349709,2,,2,Normal,normal
+2026-04-14 13:45:07,pixel.quantcount.com,20,3.721928094887362,2,,2,Normal,normal
+2026-04-14 13:45:07,,0,0.0,0,2,0,Spoofing (low_ttl (2s)),spoofing
+2026-04-14 13:45:08,,0,0.0,0,2,0,Spoofing (low_ttl (2s)),spoofing
+2026-04-14 13:45:08,pixel.quantserve.com,20,3.984183719779189,2,,2,Suspicious — confidence 85%,suspicious
+2026-04-14 13:45:08,pixel.adsafeprotected.com,25,3.763856189774724,2,,2,Normal,normal
+2026-04-14 13:45:08,,0,0.0,0,51826,0,Normal,normal
+2026-04-14 13:45:08,e-jp.cmcd1.com,14,3.182005814760214,2,,1,Normal,normal
+2026-04-14 13:45:08,,0,0.0,0,60693,0,Normal,normal
+2026-04-14 13:45:08,,0,0.0,0,300,0,Normal,normal
+2026-04-14 13:45:08,,0,0.0,0,300,0,Normal,normal
+2026-04-14 13:45:08,,0,0.0,0,407,0,Normal,normal
+2026-04-14 13:45:08,dmp.brand-display.com,21,3.784941827437642,2,,1,Normal,normal
+2026-04-14 13:45:08,id5-sync.com,12,3.4182958340544896,1,,1,Normal,normal
+2026-04-14 13:45:08,,0,0.0,0,290,0,Normal,normal
+2026-04-14 13:45:08,,0,0.0,0,75,0,Normal,normal
+2026-04-14 13:45:08,,0,0.0,0,60693,0,Normal,normal
+2026-04-14 13:45:08,,0,0.0,0,2,0,Spoofing (low_ttl (2s)),spoofing
+2026-04-14 13:45:09,,0,0.0,0,51826,0,Normal,normal
+2026-04-14 13:45:09,uss.xplosion.de,15,3.3232314287976203,2,,1,Normal,normal
+2026-04-14 13:45:09,uss.xplosion.de,15,3.3232314287976203,2,,2,Normal,normal
+2026-04-14 13:45:09,,0,0.0,0,25,0,Normal,normal
+2026-04-14 13:45:09,,0,0.0,0,25,0,Normal,normal
+2026-04-14 13:45:09,crb.kargo.com,13,3.085055102756477,2,,1,Normal,normal
+2026-04-14 13:45:09,,0,0.0,0,60,0,Normal,normal
+2026-04-14 13:45:09,user-sync.fwmrm.net,19,3.616348566075164,2,,1,Normal,normal
+2026-04-14 13:45:09,,0,0.0,0,57,0,Normal,normal
+2026-04-14 13:45:09,sync.targeting.unrulymedia.com,30,3.9232314287976204,3,,1,Suspicious — confidence 85%,suspicious
+2026-04-14 13:45:09,sync.targeting.unrulymedia.com,30,3.9232314287976204,3,,2,Suspicious — confidence 85%,suspicious
+2026-04-14 13:45:10,,0,0.0,0,143,0,Normal,normal
+2026-04-14 13:45:10,,0,0.0,0,143,0,Normal,normal
+2026-04-14 13:45:10,ced-ns.sascdn.com,17,3.1751231351134614,2,,1,Normal,normal
+2026-04-14 13:45:10,,0,0.0,0,239,0,Normal,normal
+2026-04-14 13:45:10,a.sportradarserving.com,23,3.708132064658602,2,,1,Normal,normal
+2026-04-14 13:45:10,pool.liftdsp.com,16,3.327819531114783,2,,1,Normal,normal
+2026-04-14 13:45:10,,0,0.0,0,157,0,Normal,normal
+2026-04-14 13:45:10,,0,0.0,0,44,0,Normal,normal
+2026-04-14 13:45:10,pixel-us-east.rubiconproject.com,32,4.054229296672174,2,,1,Suspicious — confidence 85%,suspicious
+2026-04-14 13:45:10,,0,0.0,0,3043,0,Normal,normal
+2026-04-14 13:45:10,thrtle.com,10,3.121928094887362,1,,1,Normal,normal
+2026-04-14 13:45:10,prebid.adnxs.com,16,3.75,2,,1,Normal,normal
+2026-04-14 13:45:11,prebid.adnxs.com,16,3.75,2,,2,Normal,normal
+2026-04-14 13:45:11,thrtle.com,10,3.121928094887362,1,,2,Normal,normal
+2026-04-14 13:45:11,aax-eu.amazon-adsystem.com,26,3.6864194113487736,2,,1,Normal,normal
+2026-04-14 13:45:11,s.amazon-adsystem.com,21,3.522571589136359,2,,1,Normal,normal
+2026-04-14 13:45:11,id.rlcdn.com,12,3.084962500721156,2,,1,Normal,normal
+2026-04-14 13:45:11,rtb.mfadsrvr.com,16,3.452819531114783,2,,1,Normal,normal
+2026-04-14 13:45:11,ssbsync-global.smartadserver.com,32,3.9025182662886326,2,,1,Suspicious — confidence 85%,suspicious
+2026-04-14 13:45:11,aax-eu.amazon-adsystem.com,26,3.6864194113487736,2,,2,Normal,normal
+2026-04-14 13:45:11,id.rlcdn.com,12,3.084962500721156,2,,2,Normal,normal
+2026-04-14 13:45:11,s.amazon-adsystem.com,21,3.522571589136359,2,,2,Normal,normal
+2026-04-14 13:45:11,rtb.mfadsrvr.com,16,3.452819531114783,2,,2,Normal,normal
+2026-04-14 13:45:11,ssbsync-global.smartadserver.com,32,3.9025182662886326,2,,2,Suspicious — confidence 85%,suspicious
+2026-04-14 13:45:12,,0,0.0,0,21,0,Normal,normal
+2026-04-14 13:45:12,,0,0.0,0,21,0,Normal,normal
+2026-04-14 13:45:12,,0,0.0,0,1440,0,Normal,normal
+2026-04-14 13:45:12,,0,0.0,0,6485,0,Normal,normal
+2026-04-14 13:45:12,,0,0.0,0,43,0,Normal,normal
+2026-04-14 13:45:12,,0,0.0,0,60,0,Normal,normal
+2026-04-14 13:45:12,,0,0.0,0,141,0,Normal,normal
+2026-04-14 13:45:12,,0,0.0,0,60,0,Normal,normal
+2026-04-14 13:45:12,,0,0.0,0,6485,0,Normal,normal
+2026-04-14 13:45:12,,0,0.0,0,43,0,Normal,normal
+2026-04-14 13:45:12,,0,0.0,0,141,0,Normal,normal
+2026-04-14 13:45:12,,0,0.0,0,172,0,Normal,normal
+2026-04-14 13:45:12,ow.pubmatic.com,15,3.3735572622751855,2,,1,Normal,normal
+2026-04-14 13:45:12,ow.pubmatic.com,15,3.3735572622751855,2,,2,Normal,normal
+2026-04-14 13:45:12,,0,0.0,0,94,0,Normal,normal
+2026-04-14 13:45:19,,0,0.0,0,94,0,Normal,normal
+2026-04-14 13:45:19,ad.doubleclick.net,18,3.6143694458867563,2,,1,Normal (Allowlisted: *.doubleclick.net),normal
+2026-04-14 13:45:19,,0,0.0,0,281,0,Normal,normal
+2026-04-14 13:45:19,rtb.adentifi.com,16,3.625,2,,1,Normal,normal
+2026-04-14 13:45:19,rtb.adentifi.com,16,3.625,2,,2,Normal,normal
+2026-04-14 13:45:19,,0,0.0,0,147,0,Normal,normal
+2026-04-14 13:45:19,,0,0.0,0,147,0,Normal,normal
+2026-04-14 13:45:19,www.googletagservices.com,25,3.6430741894285683,2,,1,Normal,normal
+2026-04-14 13:45:19,www.googletagservices.com,25,3.6430741894285683,2,,2,Normal,normal
+2026-04-14 13:45:19,,0,0.0,0,266,0,Normal,normal
+2026-04-14 13:45:19,,0,0.0,0,266,0,Normal,normal
+2026-04-14 13:45:19,he.lijit.com,12,3.2516291673878226,2,,1,Normal,normal
+2026-04-14 13:45:19,,0,0.0,0,54512,0,Normal,normal
+2026-04-14 13:45:19,infyspringboard.onwingspan.com,30,3.802910079649727,2,,1,Suspicious — confidence 85%,suspicious
+2026-04-14 13:45:19,infyspringboard.onwingspan.com,30,3.802910079649727,2,,2,Suspicious — confidence 85%,suspicious
+2026-04-14 13:45:20,infyspringboard.onwingspan.com,30,3.802910079649727,2,,3,Suspicious — confidence 85%,suspicious
+2026-04-14 13:45:20,,0,0.0,0,2622,0,Normal,normal
+2026-04-14 13:45:20,,0,0.0,0,2621,0,Normal,normal
+2026-04-14 13:45:20,www.nabu-gaildorf.de,20,3.7841837197791888,2,,1,Normal,normal
+2026-04-14 13:45:23,www.nabu-gaildorf.de,20,3.7841837197791888,2,,2,Normal,normal
+2026-04-14 13:45:23,,0,0.0,0,86400,0,Normal,normal
+2026-04-14 13:45:23,challenges.cloudflare.com,25,3.703465189601646,2,,1,Normal (Allowlisted: *.cloudflare.com),normal
+2026-04-14 13:45:23,,0,0.0,0,185,0,Normal,normal
+2026-04-14 13:45:23,stun.l.google.com,17,3.2927701939369904,3,,1,Normal (Allowlisted: *.google.com),normal
+2026-04-14 13:45:26,stun.l.google.com,17,3.2927701939369904,3,,2,Normal (Allowlisted: *.google.com),normal
+2026-04-14 13:45:26,,0,0.0,0,22,0,Spoofing (txid_mismatch),spoofing
+2026-04-14 13:45:27,,0,0.0,0,56,0,Normal,normal
+2026-04-14 13:45:27,assets.jimstatic.com,20,3.1841837197791887,2,,1,Normal,normal
+2026-04-14 13:45:27,u.jimcdn.com,12,3.084962500721156,2,,1,Normal,normal
+2026-04-14 13:45:27,image.jimcdn.com,16,3.327819531114783,2,,1,Normal,normal
+2026-04-14 13:45:27,image.jimcdn.com,16,3.327819531114783,2,,2,Normal,normal
+2026-04-14 13:45:27,u.jimcdn.com,12,3.084962500721156,2,,2,Normal,normal
+2026-04-14 13:45:27,assets.jimstatic.com,20,3.1841837197791887,2,,2,Normal,normal
+2026-04-14 13:45:27,,0,0.0,0,60,0,Normal,normal
+2026-04-14 13:45:27,fonts.jimstatic.com,19,3.3660913291191923,2,,1,Normal,normal
+2026-04-14 13:45:27,,0,0.0,0,3600,0,Normal,normal
+2026-04-14 13:45:27,,0,0.0,0,3600,0,Normal,normal
+2026-04-14 13:45:27,,0,0.0,0,90,0,Normal,normal
+2026-04-14 13:45:27,ajax.googleapis.com,19,3.536886723742166,2,,1,Normal (Allowlisted: *.googleapis.com),normal
+2026-04-14 13:45:27,,0,0.0,0,222,0,Normal,normal
+2026-04-14 13:45:28,api.dmp.jimdo-server.com,24,3.6887218755408675,3,,1,Normal,normal
+2026-04-14 13:45:28,api.dmp.jimdo-server.com,24,3.6887218755408675,3,,2,Normal,normal
+2026-04-14 13:45:28,,0,0.0,0,90,0,Normal,normal
+2026-04-14 13:45:28,fonts.gstatic.com,17,3.337175341123077,2,,1,Normal (Allowlisted: *.gstatic.com),normal
+2026-04-14 13:45:28,,0,0.0,0,226,0,Normal,normal
+2026-04-14 13:45:28,www.nabu.de,11,2.845350936622437,2,,1,Normal,normal
+2026-04-14 13:45:28,www.nabu.de,11,2.845350936622437,2,,2,Normal,normal
+2026-04-14 13:45:28,,0,0.0,0,60,0,Normal,normal
+2026-04-14 13:45:37,waa-pa.clients6.google.com,26,3.8441065448145375,3,,1,Normal (Allowlisted: *.google.com),normal
+2026-04-14 13:45:37,,0,0.0,0,30,0,Normal,normal
+2026-04-14 13:45:38,s.swiftypecdn.com,17,3.734521664779752,2,,1,Normal,normal
+2026-04-14 13:45:38,,0,0.0,0,19,0,Normal,normal
+2026-04-14 13:45:50,edge.skype.com,14,3.3248629576173574,2,,1,Normal (Allowlisted: *.skype.com),normal
