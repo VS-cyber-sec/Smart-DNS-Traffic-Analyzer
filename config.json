@@ -14,5 +14,5 @@
   "alert_sound": true,
   "auto_allowlist_reload": true,
   "reload_interval_secs": 30,
-  "virustotal_api_key": "893b6af01a20f68d3d2740431ea556af6a9356dca40181fb78e3e65d8d20b8db"
+  "virustotal_api_key": "Your-API-virustotal"
 }
